@@ -1,0 +1,6 @@
+1. 画图 train/test mse曲线图
+2. xavier 进行权重初始化
+3、梯度裁剪 clip_grad_norm
+4、动态学习率
+5、调小 batch_size
+

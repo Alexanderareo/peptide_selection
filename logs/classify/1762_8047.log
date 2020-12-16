@@ -1,0 +1,1420 @@
+nohup: ignoring input
+{'embedding_dim': 50, 'hidden_num': 32, 'num_layer': 2, 'batch_size': 16, 'learning_rate': 0.0001, 'dropout': 0.7, 'bidirectional': True, 'input_file_path': 'data_1762_8047.csv', 'ngram_num': 1, 'epoch_num': 200, 'split_rate': 0.8}
+ Epoch:0,Loss:0.625057
+ Epoch:0,Loss:0.573092
+ Epoch:0,Loss:0.504836
+ Epoch:0,Loss:0.449339
+ Epoch:0,Loss:0.402306
+work
+Accuracy = 0.935851 Precision = 0.701923 Recall = 0.939914 Specificity = 0.935192 F1 = 0.803670
+ Epoch: 0 Best F1: 0.803670
+ Epoch:1,Loss:0.233176
+ Epoch:1,Loss:0.217588
+ Epoch:1,Loss:0.194728
+ Epoch:1,Loss:0.185131
+ Epoch:1,Loss:0.173894
+work
+Accuracy = 0.952638 Precision = 0.823718 Recall = 0.914591 Specificity = 0.960346 F1 = 0.866779
+ Epoch: 1 Best F1: 0.866779
+ Epoch:2,Loss:0.165492
+ Epoch:2,Loss:0.154322
+ Epoch:2,Loss:0.138545
+ Epoch:2,Loss:0.138606
+ Epoch:2,Loss:0.133441
+work
+Accuracy = 0.958034 Precision = 0.846154 Recall = 0.923077 Specificity = 0.965268 F1 = 0.882943
+ Epoch: 2 Best F1: 0.882943
+ Epoch:3,Loss:0.151892
+ Epoch:3,Loss:0.141411
+ Epoch:3,Loss:0.126314
+ Epoch:3,Loss:0.127415
+ Epoch:3,Loss:0.123040
+work
+Accuracy = 0.961031 Precision = 0.868590 Recall = 0.918644 Specificity = 0.970138 F1 = 0.892916
+ Epoch: 3 Best F1: 0.892916
+ Epoch:4,Loss:0.144095
+ Epoch:4,Loss:0.136329
+ Epoch:4,Loss:0.121363
+ Epoch:4,Loss:0.122074
+ Epoch:4,Loss:0.117866
+work
+Accuracy = 0.964029 Precision = 0.884615 Recall = 0.920000 Specificity = 0.973684 F1 = 0.901961
+ Epoch: 4 Best F1: 0.901961
+ Epoch:5,Loss:0.133629
+ Epoch:5,Loss:0.127763
+ Epoch:5,Loss:0.113383
+ Epoch:5,Loss:0.115595
+ Epoch:5,Loss:0.112202
+Accuracy = 0.961031 Precision = 0.865385 Recall = 0.921502 Specificity = 0.969455 F1 = 0.892562
+ Epoch: 5 Best F1: 0.901961
+ Epoch:6,Loss:0.131581
+ Epoch:6,Loss:0.125300
+ Epoch:6,Loss:0.110560
+ Epoch:6,Loss:0.111867
+ Epoch:6,Loss:0.108902
+Accuracy = 0.962830 Precision = 0.868590 Recall = 0.928082 Specificity = 0.970203 F1 = 0.897351
+ Epoch: 6 Best F1: 0.901961
+ Epoch:7,Loss:0.129576
+ Epoch:7,Loss:0.124816
+ Epoch:7,Loss:0.108424
+ Epoch:7,Loss:0.109785
+ Epoch:7,Loss:0.107287
+Accuracy = 0.961631 Precision = 0.855769 Recall = 0.933566 Specificity = 0.967438 F1 = 0.892977
+ Epoch: 7 Best F1: 0.901961
+ Epoch:8,Loss:0.126183
+ Epoch:8,Loss:0.121516
+ Epoch:8,Loss:0.105476
+ Epoch:8,Loss:0.106950
+ Epoch:8,Loss:0.104844
+Accuracy = 0.961031 Precision = 0.855769 Recall = 0.930314 Specificity = 0.967415 F1 = 0.891486
+ Epoch: 8 Best F1: 0.901961
+ Epoch:9,Loss:0.119230
+ Epoch:9,Loss:0.116543
+ Epoch:9,Loss:0.101130
+ Epoch:9,Loss:0.102210
+ Epoch:9,Loss:0.100410
+Accuracy = 0.962830 Precision = 0.868590 Recall = 0.928082 Specificity = 0.970203 F1 = 0.897351
+ Epoch: 9 Best F1: 0.901961
+ Epoch:10,Loss:0.120471
+ Epoch:10,Loss:0.113823
+ Epoch:10,Loss:0.099741
+ Epoch:10,Loss:0.101550
+ Epoch:10,Loss:0.099663
+work
+Accuracy = 0.966427 Precision = 0.875000 Recall = 0.941379 Specificity = 0.971698 F1 = 0.906977
+ Epoch: 10 Best F1: 0.906977
+ Epoch:11,Loss:0.115647
+ Epoch:11,Loss:0.111068
+ Epoch:11,Loss:0.097142
+ Epoch:11,Loss:0.099207
+ Epoch:11,Loss:0.096273
+work
+Accuracy = 0.968825 Precision = 0.884615 Recall = 0.945205 Specificity = 0.973837 F1 = 0.913907
+ Epoch: 11 Best F1: 0.913907
+ Epoch:12,Loss:0.111740
+ Epoch:12,Loss:0.107072
+ Epoch:12,Loss:0.091716
+ Epoch:12,Loss:0.093596
+ Epoch:12,Loss:0.091763
+work
+Accuracy = 0.971223 Precision = 0.900641 Recall = 0.942953 Specificity = 0.977372 F1 = 0.921311
+ Epoch: 12 Best F1: 0.921311
+ Epoch:13,Loss:0.112671
+ Epoch:13,Loss:0.106664
+ Epoch:13,Loss:0.092019
+ Epoch:13,Loss:0.092555
+ Epoch:13,Loss:0.091101
+Accuracy = 0.965827 Precision = 0.875000 Recall = 0.938144 Specificity = 0.971678 F1 = 0.905473
+ Epoch: 13 Best F1: 0.921311
+ Epoch:14,Loss:0.108305
+ Epoch:14,Loss:0.103591
+ Epoch:14,Loss:0.088305
+ Epoch:14,Loss:0.089725
+ Epoch:14,Loss:0.088474
+Accuracy = 0.967026 Precision = 0.875000 Recall = 0.944637 Specificity = 0.971719 F1 = 0.908486
+ Epoch: 14 Best F1: 0.921311
+ Epoch:15,Loss:0.107154
+ Epoch:15,Loss:0.101946
+ Epoch:15,Loss:0.087177
+ Epoch:15,Loss:0.088449
+ Epoch:15,Loss:0.087118
+Accuracy = 0.969424 Precision = 0.884615 Recall = 0.948454 Specificity = 0.973856 F1 = 0.915423
+ Epoch: 15 Best F1: 0.921311
+ Epoch:16,Loss:0.101620
+ Epoch:16,Loss:0.097496
+ Epoch:16,Loss:0.084100
+ Epoch:16,Loss:0.085920
+ Epoch:16,Loss:0.084153
+work
+Accuracy = 0.972422 Precision = 0.900641 Recall = 0.949324 Specificity = 0.977405 F1 = 0.924342
+ Epoch: 16 Best F1: 0.924342
+ Epoch:17,Loss:0.105107
+ Epoch:17,Loss:0.096422
+ Epoch:17,Loss:0.081589
+ Epoch:17,Loss:0.082703
+ Epoch:17,Loss:0.081674
+Accuracy = 0.971823 Precision = 0.900641 Recall = 0.946128 Specificity = 0.977389 F1 = 0.922824
+ Epoch: 17 Best F1: 0.924342
+ Epoch:18,Loss:0.097903
+ Epoch:18,Loss:0.093320
+ Epoch:18,Loss:0.078975
+ Epoch:18,Loss:0.080883
+ Epoch:18,Loss:0.079759
+Accuracy = 0.969424 Precision = 0.887821 Recall = 0.945392 Specificity = 0.974545 F1 = 0.915702
+ Epoch: 18 Best F1: 0.924342
+ Epoch:19,Loss:0.103405
+ Epoch:19,Loss:0.094003
+ Epoch:19,Loss:0.080282
+ Epoch:19,Loss:0.080555
+ Epoch:19,Loss:0.079372
+Accuracy = 0.970624 Precision = 0.891026 Recall = 0.948805 Specificity = 0.975273 F1 = 0.919008
+ Epoch: 19 Best F1: 0.924342
+ Epoch:20,Loss:0.093228
+ Epoch:20,Loss:0.088497
+ Epoch:20,Loss:0.074588
+ Epoch:20,Loss:0.076141
+ Epoch:20,Loss:0.075326
+Accuracy = 0.969424 Precision = 0.891026 Recall = 0.942373 Specificity = 0.975237 F1 = 0.915980
+ Epoch: 20 Best F1: 0.924342
+ Epoch:21,Loss:0.092909
+ Epoch:21,Loss:0.086934
+ Epoch:21,Loss:0.074918
+ Epoch:21,Loss:0.075190
+ Epoch:21,Loss:0.074288
+Accuracy = 0.970024 Precision = 0.887821 Recall = 0.948630 Specificity = 0.974564 F1 = 0.917219
+ Epoch: 21 Best F1: 0.924342
+ Epoch:22,Loss:0.089652
+ Epoch:22,Loss:0.083447
+ Epoch:22,Loss:0.071233
+ Epoch:22,Loss:0.072356
+ Epoch:22,Loss:0.072189
+Accuracy = 0.969424 Precision = 0.887821 Recall = 0.945392 Specificity = 0.974545 F1 = 0.915702
+ Epoch: 22 Best F1: 0.924342
+ Epoch:23,Loss:0.085411
+ Epoch:23,Loss:0.080768
+ Epoch:23,Loss:0.069089
+ Epoch:23,Loss:0.070487
+ Epoch:23,Loss:0.069840
+Accuracy = 0.970024 Precision = 0.887821 Recall = 0.948630 Specificity = 0.974564 F1 = 0.917219
+ Epoch: 23 Best F1: 0.924342
+ Epoch:24,Loss:0.082430
+ Epoch:24,Loss:0.080659
+ Epoch:24,Loss:0.069043
+ Epoch:24,Loss:0.069916
+ Epoch:24,Loss:0.068924
+work
+Accuracy = 0.973022 Precision = 0.900641 Recall = 0.952542 Specificity = 0.977422 F1 = 0.925865
+ Epoch: 24 Best F1: 0.925865
+ Epoch:25,Loss:0.082839
+ Epoch:25,Loss:0.078137
+ Epoch:25,Loss:0.066472
+ Epoch:25,Loss:0.067229
+ Epoch:25,Loss:0.067457
+Accuracy = 0.971823 Precision = 0.897436 Recall = 0.949153 Specificity = 0.976693 F1 = 0.922570
+ Epoch: 25 Best F1: 0.925865
+ Epoch:26,Loss:0.078532
+ Epoch:26,Loss:0.074868
+ Epoch:26,Loss:0.063348
+ Epoch:26,Loss:0.064843
+ Epoch:26,Loss:0.064679
+Accuracy = 0.971823 Precision = 0.897436 Recall = 0.949153 Specificity = 0.976693 F1 = 0.922570
+ Epoch: 26 Best F1: 0.925865
+ Epoch:27,Loss:0.079477
+ Epoch:27,Loss:0.074064
+ Epoch:27,Loss:0.062771
+ Epoch:27,Loss:0.063146
+ Epoch:27,Loss:0.062947
+Accuracy = 0.972422 Precision = 0.897436 Recall = 0.952381 Specificity = 0.976710 F1 = 0.924092
+ Epoch: 27 Best F1: 0.925865
+ Epoch:28,Loss:0.075327
+ Epoch:28,Loss:0.073152
+ Epoch:28,Loss:0.061994
+ Epoch:28,Loss:0.064239
+ Epoch:28,Loss:0.063560
+work
+Accuracy = 0.973022 Precision = 0.907051 Recall = 0.946488 Specificity = 0.978817 F1 = 0.926350
+ Epoch: 28 Best F1: 0.926350
+ Epoch:29,Loss:0.075283
+ Epoch:29,Loss:0.070434
+ Epoch:29,Loss:0.060293
+ Epoch:29,Loss:0.062332
+ Epoch:29,Loss:0.061619
+work
+Accuracy = 0.974221 Precision = 0.900641 Recall = 0.959044 Specificity = 0.977455 F1 = 0.928926
+ Epoch: 29 Best F1: 0.928926
+ Epoch:30,Loss:0.074471
+ Epoch:30,Loss:0.074828
+ Epoch:30,Loss:0.063129
+ Epoch:30,Loss:0.062369
+ Epoch:30,Loss:0.061871
+Accuracy = 0.973022 Precision = 0.894231 Recall = 0.958763 Specificity = 0.976035 F1 = 0.925373
+ Epoch: 30 Best F1: 0.928926
+ Epoch:31,Loss:0.075484
+ Epoch:31,Loss:0.070260
+ Epoch:31,Loss:0.060072
+ Epoch:31,Loss:0.060078
+ Epoch:31,Loss:0.059843
+Accuracy = 0.972422 Precision = 0.900641 Recall = 0.949324 Specificity = 0.977405 F1 = 0.924342
+ Epoch: 31 Best F1: 0.928926
+ Epoch:32,Loss:0.067716
+ Epoch:32,Loss:0.066721
+ Epoch:32,Loss:0.056689
+ Epoch:32,Loss:0.056919
+ Epoch:32,Loss:0.057057
+Accuracy = 0.970624 Precision = 0.894231 Recall = 0.945763 Specificity = 0.975965 F1 = 0.919275
+ Epoch: 32 Best F1: 0.928926
+ Epoch:33,Loss:0.067400
+ Epoch:33,Loss:0.064480
+ Epoch:33,Loss:0.054662
+ Epoch:33,Loss:0.055602
+ Epoch:33,Loss:0.055019
+Accuracy = 0.973621 Precision = 0.910256 Recall = 0.946667 Specificity = 0.979532 F1 = 0.928105
+ Epoch: 33 Best F1: 0.928926
+ Epoch:34,Loss:0.067568
+ Epoch:34,Loss:0.062619
+ Epoch:34,Loss:0.052900
+ Epoch:34,Loss:0.054736
+ Epoch:34,Loss:0.054525
+Accuracy = 0.973621 Precision = 0.910256 Recall = 0.946667 Specificity = 0.979532 F1 = 0.928105
+ Epoch: 34 Best F1: 0.928926
+ Epoch:35,Loss:0.064230
+ Epoch:35,Loss:0.062234
+ Epoch:35,Loss:0.053111
+ Epoch:35,Loss:0.053812
+ Epoch:35,Loss:0.054384
+Accuracy = 0.972422 Precision = 0.903846 Recall = 0.946309 Specificity = 0.978102 F1 = 0.924590
+ Epoch: 35 Best F1: 0.928926
+ Epoch:36,Loss:0.059261
+ Epoch:36,Loss:0.057766
+ Epoch:36,Loss:0.049275
+ Epoch:36,Loss:0.051496
+ Epoch:36,Loss:0.051806
+Accuracy = 0.973022 Precision = 0.900641 Recall = 0.952542 Specificity = 0.977422 F1 = 0.925865
+ Epoch: 36 Best F1: 0.928926
+ Epoch:37,Loss:0.062253
+ Epoch:37,Loss:0.058502
+ Epoch:37,Loss:0.049715
+ Epoch:37,Loss:0.050486
+ Epoch:37,Loss:0.051047
+Accuracy = 0.973022 Precision = 0.903846 Recall = 0.949495 Specificity = 0.978118 F1 = 0.926108
+ Epoch: 37 Best F1: 0.928926
+ Epoch:38,Loss:0.061459
+ Epoch:38,Loss:0.058421
+ Epoch:38,Loss:0.049377
+ Epoch:38,Loss:0.049948
+ Epoch:38,Loss:0.050067
+work
+Accuracy = 0.974221 Precision = 0.910256 Recall = 0.949833 Specificity = 0.979547 F1 = 0.929624
+ Epoch: 38 Best F1: 0.929624
+ Epoch:39,Loss:0.058303
+ Epoch:39,Loss:0.054360
+ Epoch:39,Loss:0.046521
+ Epoch:39,Loss:0.046582
+ Epoch:39,Loss:0.047163
+Accuracy = 0.973621 Precision = 0.910256 Recall = 0.946667 Specificity = 0.979532 F1 = 0.928105
+ Epoch: 39 Best F1: 0.929624
+ Epoch:40,Loss:0.056869
+ Epoch:40,Loss:0.054125
+ Epoch:40,Loss:0.045202
+ Epoch:40,Loss:0.046431
+ Epoch:40,Loss:0.045955
+Accuracy = 0.972422 Precision = 0.900641 Recall = 0.949324 Specificity = 0.977405 F1 = 0.924342
+ Epoch: 40 Best F1: 0.929624
+ Epoch:41,Loss:0.054895
+ Epoch:41,Loss:0.053375
+ Epoch:41,Loss:0.045730
+ Epoch:41,Loss:0.046213
+ Epoch:41,Loss:0.046531
+Accuracy = 0.974221 Precision = 0.907051 Recall = 0.952862 Specificity = 0.978848 F1 = 0.929392
+ Epoch: 41 Best F1: 0.929624
+ Epoch:42,Loss:0.053699
+ Epoch:42,Loss:0.049537
+ Epoch:42,Loss:0.042195
+ Epoch:42,Loss:0.043832
+ Epoch:42,Loss:0.044606
+Accuracy = 0.974221 Precision = 0.907051 Recall = 0.952862 Specificity = 0.978848 F1 = 0.929392
+ Epoch: 42 Best F1: 0.929624
+ Epoch:43,Loss:0.053913
+ Epoch:43,Loss:0.050957
+ Epoch:43,Loss:0.042355
+ Epoch:43,Loss:0.042881
+ Epoch:43,Loss:0.043350
+Accuracy = 0.974221 Precision = 0.900641 Recall = 0.959044 Specificity = 0.977455 F1 = 0.928926
+ Epoch: 43 Best F1: 0.929624
+ Epoch:44,Loss:0.050311
+ Epoch:44,Loss:0.048156
+ Epoch:44,Loss:0.040574
+ Epoch:44,Loss:0.041131
+ Epoch:44,Loss:0.041570
+Accuracy = 0.973621 Precision = 0.900641 Recall = 0.955782 Specificity = 0.977438 F1 = 0.927393
+ Epoch: 44 Best F1: 0.929624
+ Epoch:45,Loss:0.046935
+ Epoch:45,Loss:0.045627
+ Epoch:45,Loss:0.038437
+ Epoch:45,Loss:0.039394
+ Epoch:45,Loss:0.040364
+Accuracy = 0.974221 Precision = 0.900641 Recall = 0.959044 Specificity = 0.977455 F1 = 0.928926
+ Epoch: 45 Best F1: 0.929624
+ Epoch:46,Loss:0.047681
+ Epoch:46,Loss:0.045727
+ Epoch:46,Loss:0.038703
+ Epoch:46,Loss:0.038824
+ Epoch:46,Loss:0.040454
+Accuracy = 0.973022 Precision = 0.894231 Recall = 0.958763 Specificity = 0.976035 F1 = 0.925373
+ Epoch: 46 Best F1: 0.929624
+ Epoch:47,Loss:0.047365
+ Epoch:47,Loss:0.044878
+ Epoch:47,Loss:0.037807
+ Epoch:47,Loss:0.038405
+ Epoch:47,Loss:0.038129
+Accuracy = 0.974221 Precision = 0.900641 Recall = 0.959044 Specificity = 0.977455 F1 = 0.928926
+ Epoch: 47 Best F1: 0.929624
+ Epoch:48,Loss:0.050520
+ Epoch:48,Loss:0.046244
+ Epoch:48,Loss:0.039318
+ Epoch:48,Loss:0.039473
+ Epoch:48,Loss:0.038470
+work
+Accuracy = 0.974820 Precision = 0.913462 Recall = 0.950000 Specificity = 0.980263 F1 = 0.931373
+ Epoch: 48 Best F1: 0.931373
+ Epoch:49,Loss:0.044948
+ Epoch:49,Loss:0.043803
+ Epoch:49,Loss:0.036592
+ Epoch:49,Loss:0.037454
+ Epoch:49,Loss:0.037628
+Accuracy = 0.974820 Precision = 0.903846 Recall = 0.959184 Specificity = 0.978166 F1 = 0.930693
+ Epoch: 49 Best F1: 0.931373
+ Epoch:50,Loss:0.046902
+ Epoch:50,Loss:0.042949
+ Epoch:50,Loss:0.035701
+ Epoch:50,Loss:0.036206
+ Epoch:50,Loss:0.036889
+Accuracy = 0.970024 Precision = 0.875000 Recall = 0.961268 Specificity = 0.971821 F1 = 0.916107
+ Epoch: 50 Best F1: 0.931373
+ Epoch:51,Loss:0.042373
+ Epoch:51,Loss:0.039422
+ Epoch:51,Loss:0.033734
+ Epoch:51,Loss:0.034683
+ Epoch:51,Loss:0.034324
+work
+Accuracy = 0.975420 Precision = 0.913462 Recall = 0.953177 Specificity = 0.980278 F1 = 0.932897
+ Epoch: 51 Best F1: 0.932897
+ Epoch:52,Loss:0.042099
+ Epoch:52,Loss:0.037873
+ Epoch:52,Loss:0.031985
+ Epoch:52,Loss:0.032495
+ Epoch:52,Loss:0.032343
+work
+Accuracy = 0.975420 Precision = 0.913462 Recall = 0.953177 Specificity = 0.980278 F1 = 0.932897
+ Epoch: 52 Best F1: 0.932897
+ Epoch:53,Loss:0.040299
+ Epoch:53,Loss:0.037574
+ Epoch:53,Loss:0.031978
+ Epoch:53,Loss:0.032154
+ Epoch:53,Loss:0.032287
+Accuracy = 0.973022 Precision = 0.900641 Recall = 0.952542 Specificity = 0.977422 F1 = 0.925865
+ Epoch: 53 Best F1: 0.932897
+ Epoch:54,Loss:0.038800
+ Epoch:54,Loss:0.035709
+ Epoch:54,Loss:0.030737
+ Epoch:54,Loss:0.031090
+ Epoch:54,Loss:0.030943
+Accuracy = 0.973621 Precision = 0.903846 Recall = 0.952703 Specificity = 0.978134 F1 = 0.927632
+ Epoch: 54 Best F1: 0.932897
+ Epoch:55,Loss:0.037289
+ Epoch:55,Loss:0.034685
+ Epoch:55,Loss:0.029988
+ Epoch:55,Loss:0.029749
+ Epoch:55,Loss:0.030127
+Accuracy = 0.973022 Precision = 0.897436 Recall = 0.955631 Specificity = 0.976727 F1 = 0.925620
+ Epoch: 55 Best F1: 0.932897
+ Epoch:56,Loss:0.038490
+ Epoch:56,Loss:0.034368
+ Epoch:56,Loss:0.029292
+ Epoch:56,Loss:0.028961
+ Epoch:56,Loss:0.029212
+Accuracy = 0.973022 Precision = 0.897436 Recall = 0.955631 Specificity = 0.976727 F1 = 0.925620
+ Epoch: 56 Best F1: 0.932897
+ Epoch:57,Loss:0.035968
+ Epoch:57,Loss:0.032742
+ Epoch:57,Loss:0.027661
+ Epoch:57,Loss:0.027557
+ Epoch:57,Loss:0.027420
+Accuracy = 0.975420 Precision = 0.907051 Recall = 0.959322 Specificity = 0.978878 F1 = 0.932455
+ Epoch: 57 Best F1: 0.932897
+ Epoch:58,Loss:0.037823
+ Epoch:58,Loss:0.033108
+ Epoch:58,Loss:0.027618
+ Epoch:58,Loss:0.027465
+ Epoch:58,Loss:0.026878
+Accuracy = 0.973621 Precision = 0.903846 Recall = 0.952703 Specificity = 0.978134 F1 = 0.927632
+ Epoch: 58 Best F1: 0.932897
+ Epoch:59,Loss:0.032109
+ Epoch:59,Loss:0.030885
+ Epoch:59,Loss:0.026477
+ Epoch:59,Loss:0.025822
+ Epoch:59,Loss:0.026727
+Accuracy = 0.972422 Precision = 0.894231 Recall = 0.955479 Specificity = 0.976017 F1 = 0.923841
+ Epoch: 59 Best F1: 0.932897
+ Epoch:60,Loss:0.031203
+ Epoch:60,Loss:0.029753
+ Epoch:60,Loss:0.025962
+ Epoch:60,Loss:0.025687
+ Epoch:60,Loss:0.025842
+Accuracy = 0.971823 Precision = 0.884615 Recall = 0.961672 Specificity = 0.973932 F1 = 0.921536
+ Epoch: 60 Best F1: 0.932897
+ Epoch:61,Loss:0.034118
+ Epoch:61,Loss:0.031562
+ Epoch:61,Loss:0.026897
+ Epoch:61,Loss:0.026719
+ Epoch:61,Loss:0.026196
+Accuracy = 0.974820 Precision = 0.919872 Recall = 0.944079 Specificity = 0.981672 F1 = 0.931818
+ Epoch: 61 Best F1: 0.932897
+ Epoch:62,Loss:0.031913
+ Epoch:62,Loss:0.029954
+ Epoch:62,Loss:0.024923
+ Epoch:62,Loss:0.025359
+ Epoch:62,Loss:0.026140
+Accuracy = 0.971823 Precision = 0.894231 Recall = 0.952218 Specificity = 0.976000 F1 = 0.922314
+ Epoch: 62 Best F1: 0.932897
+ Epoch:63,Loss:0.034662
+ Epoch:63,Loss:0.029212
+ Epoch:63,Loss:0.023936
+ Epoch:63,Loss:0.024335
+ Epoch:63,Loss:0.023891
+Accuracy = 0.973621 Precision = 0.903846 Recall = 0.952703 Specificity = 0.978134 F1 = 0.927632
+ Epoch: 63 Best F1: 0.932897
+ Epoch:64,Loss:0.030092
+ Epoch:64,Loss:0.025970
+ Epoch:64,Loss:0.023053
+ Epoch:64,Loss:0.023530
+ Epoch:64,Loss:0.024547
+Accuracy = 0.972422 Precision = 0.887821 Recall = 0.961806 Specificity = 0.974638 F1 = 0.923333
+ Epoch: 64 Best F1: 0.932897
+ Epoch:65,Loss:0.027566
+ Epoch:65,Loss:0.025212
+ Epoch:65,Loss:0.021415
+ Epoch:65,Loss:0.022083
+ Epoch:65,Loss:0.022347
+Accuracy = 0.973022 Precision = 0.897436 Recall = 0.955631 Specificity = 0.976727 F1 = 0.925620
+ Epoch: 65 Best F1: 0.932897
+ Epoch:66,Loss:0.028640
+ Epoch:66,Loss:0.026318
+ Epoch:66,Loss:0.022976
+ Epoch:66,Loss:0.022656
+ Epoch:66,Loss:0.022930
+Accuracy = 0.973022 Precision = 0.897436 Recall = 0.955631 Specificity = 0.976727 F1 = 0.925620
+ Epoch: 66 Best F1: 0.932897
+ Epoch:67,Loss:0.027302
+ Epoch:67,Loss:0.027165
+ Epoch:67,Loss:0.023764
+ Epoch:67,Loss:0.023384
+ Epoch:67,Loss:0.023017
+Accuracy = 0.971823 Precision = 0.891026 Recall = 0.955326 Specificity = 0.975309 F1 = 0.922056
+ Epoch: 67 Best F1: 0.932897
+ Epoch:68,Loss:0.025748
+ Epoch:68,Loss:0.023928
+ Epoch:68,Loss:0.020285
+ Epoch:68,Loss:0.019847
+ Epoch:68,Loss:0.019228
+Accuracy = 0.973022 Precision = 0.894231 Recall = 0.958763 Specificity = 0.976035 F1 = 0.925373
+ Epoch: 68 Best F1: 0.932897
+ Epoch:69,Loss:0.023447
+ Epoch:69,Loss:0.023971
+ Epoch:69,Loss:0.021676
+ Epoch:69,Loss:0.021304
+ Epoch:69,Loss:0.020632
+Accuracy = 0.974221 Precision = 0.903846 Recall = 0.955932 Specificity = 0.978150 F1 = 0.929160
+ Epoch: 69 Best F1: 0.932897
+ Epoch:70,Loss:0.021677
+ Epoch:70,Loss:0.020642
+ Epoch:70,Loss:0.018201
+ Epoch:70,Loss:0.018579
+ Epoch:70,Loss:0.020002
+Accuracy = 0.970024 Precision = 0.878205 Recall = 0.958042 Specificity = 0.972504 F1 = 0.916388
+ Epoch: 70 Best F1: 0.932897
+ Epoch:71,Loss:0.023143
+ Epoch:71,Loss:0.025510
+ Epoch:71,Loss:0.020925
+ Epoch:71,Loss:0.020266
+ Epoch:71,Loss:0.019820
+Accuracy = 0.974221 Precision = 0.900641 Recall = 0.959044 Specificity = 0.977455 F1 = 0.928926
+ Epoch: 71 Best F1: 0.932897
+ Epoch:72,Loss:0.020211
+ Epoch:72,Loss:0.019943
+ Epoch:72,Loss:0.016781
+ Epoch:72,Loss:0.016845
+ Epoch:72,Loss:0.017236
+Accuracy = 0.973621 Precision = 0.903846 Recall = 0.952703 Specificity = 0.978134 F1 = 0.927632
+ Epoch: 72 Best F1: 0.932897
+ Epoch:73,Loss:0.020379
+ Epoch:73,Loss:0.018741
+ Epoch:73,Loss:0.016341
+ Epoch:73,Loss:0.016605
+ Epoch:73,Loss:0.016905
+Accuracy = 0.974221 Precision = 0.903846 Recall = 0.955932 Specificity = 0.978150 F1 = 0.929160
+ Epoch: 73 Best F1: 0.932897
+ Epoch:74,Loss:0.021386
+ Epoch:74,Loss:0.021921
+ Epoch:74,Loss:0.019219
+ Epoch:74,Loss:0.018607
+ Epoch:74,Loss:0.018032
+Accuracy = 0.973022 Precision = 0.897436 Recall = 0.955631 Specificity = 0.976727 F1 = 0.925620
+ Epoch: 74 Best F1: 0.932897
+ Epoch:75,Loss:0.019751
+ Epoch:75,Loss:0.019301
+ Epoch:75,Loss:0.017267
+ Epoch:75,Loss:0.016445
+ Epoch:75,Loss:0.016724
+Accuracy = 0.973022 Precision = 0.894231 Recall = 0.958763 Specificity = 0.976035 F1 = 0.925373
+ Epoch: 75 Best F1: 0.932897
+ Epoch:76,Loss:0.019060
+ Epoch:76,Loss:0.017410
+ Epoch:76,Loss:0.015763
+ Epoch:76,Loss:0.016392
+ Epoch:76,Loss:0.016593
+Accuracy = 0.973621 Precision = 0.903846 Recall = 0.952703 Specificity = 0.978134 F1 = 0.927632
+ Epoch: 76 Best F1: 0.932897
+ Epoch:77,Loss:0.018470
+ Epoch:77,Loss:0.017073
+ Epoch:77,Loss:0.014502
+ Epoch:77,Loss:0.014518
+ Epoch:77,Loss:0.014460
+Accuracy = 0.973621 Precision = 0.897436 Recall = 0.958904 Specificity = 0.976744 F1 = 0.927152
+ Epoch: 77 Best F1: 0.932897
+ Epoch:78,Loss:0.018096
+ Epoch:78,Loss:0.016319
+ Epoch:78,Loss:0.013770
+ Epoch:78,Loss:0.014106
+ Epoch:78,Loss:0.015056
+Accuracy = 0.972422 Precision = 0.887821 Recall = 0.961806 Specificity = 0.974638 F1 = 0.923333
+ Epoch: 78 Best F1: 0.932897
+ Epoch:79,Loss:0.020238
+ Epoch:79,Loss:0.016549
+ Epoch:79,Loss:0.013978
+ Epoch:79,Loss:0.013899
+ Epoch:79,Loss:0.014137
+Accuracy = 0.972422 Precision = 0.891026 Recall = 0.958621 Specificity = 0.975327 F1 = 0.923588
+ Epoch: 79 Best F1: 0.932897
+ Epoch:80,Loss:0.017105
+ Epoch:80,Loss:0.016089
+ Epoch:80,Loss:0.014360
+ Epoch:80,Loss:0.014145
+ Epoch:80,Loss:0.015062
+Accuracy = 0.973621 Precision = 0.894231 Recall = 0.962069 Specificity = 0.976052 F1 = 0.926910
+ Epoch: 80 Best F1: 0.932897
+ Epoch:81,Loss:0.014618
+ Epoch:81,Loss:0.015941
+ Epoch:81,Loss:0.014587
+ Epoch:81,Loss:0.014509
+ Epoch:81,Loss:0.015782
+Accuracy = 0.973621 Precision = 0.897436 Recall = 0.958904 Specificity = 0.976744 F1 = 0.927152
+ Epoch: 81 Best F1: 0.932897
+ Epoch:82,Loss:0.016273
+ Epoch:82,Loss:0.015321
+ Epoch:82,Loss:0.012696
+ Epoch:82,Loss:0.013057
+ Epoch:82,Loss:0.013751
+work
+Accuracy = 0.976619 Precision = 0.916667 Recall = 0.956522 Specificity = 0.981008 F1 = 0.936170
+ Epoch: 82 Best F1: 0.936170
+ Epoch:83,Loss:0.021143
+ Epoch:83,Loss:0.018600
+ Epoch:83,Loss:0.014887
+ Epoch:83,Loss:0.014599
+ Epoch:83,Loss:0.014693
+Accuracy = 0.976019 Precision = 0.919872 Recall = 0.950331 Specificity = 0.981698 F1 = 0.934853
+ Epoch: 83 Best F1: 0.936170
+ Epoch:84,Loss:0.016203
+ Epoch:84,Loss:0.016408
+ Epoch:84,Loss:0.014291
+ Epoch:84,Loss:0.014165
+ Epoch:84,Loss:0.015966
+Accuracy = 0.976019 Precision = 0.907051 Recall = 0.962585 Specificity = 0.978894 F1 = 0.933993
+ Epoch: 84 Best F1: 0.936170
+ Epoch:85,Loss:0.015733
+ Epoch:85,Loss:0.015548
+ Epoch:85,Loss:0.012630
+ Epoch:85,Loss:0.012826
+ Epoch:85,Loss:0.013228
+work
+Accuracy = 0.977218 Precision = 0.916667 Recall = 0.959732 Specificity = 0.981022 F1 = 0.937705
+ Epoch: 85 Best F1: 0.937705
+ Epoch:86,Loss:0.013636
+ Epoch:86,Loss:0.013664
+ Epoch:86,Loss:0.012020
+ Epoch:86,Loss:0.012119
+ Epoch:86,Loss:0.012281
+Accuracy = 0.973621 Precision = 0.913462 Recall = 0.943709 Specificity = 0.980234 F1 = 0.928339
+ Epoch: 86 Best F1: 0.937705
+ Epoch:87,Loss:0.014248
+ Epoch:87,Loss:0.013594
+ Epoch:87,Loss:0.011637
+ Epoch:87,Loss:0.011626
+ Epoch:87,Loss:0.013299
+Accuracy = 0.973022 Precision = 0.903846 Recall = 0.949495 Specificity = 0.978118 F1 = 0.926108
+ Epoch: 87 Best F1: 0.937705
+ Epoch:88,Loss:0.013628
+ Epoch:88,Loss:0.015712
+ Epoch:88,Loss:0.013526
+ Epoch:88,Loss:0.013094
+ Epoch:88,Loss:0.014772
+Accuracy = 0.974820 Precision = 0.907051 Recall = 0.956081 Specificity = 0.978863 F1 = 0.930921
+ Epoch: 88 Best F1: 0.937705
+ Epoch:89,Loss:0.012999
+ Epoch:89,Loss:0.013089
+ Epoch:89,Loss:0.012105
+ Epoch:89,Loss:0.011543
+ Epoch:89,Loss:0.012289
+Accuracy = 0.974221 Precision = 0.900641 Recall = 0.959044 Specificity = 0.977455 F1 = 0.928926
+ Epoch: 89 Best F1: 0.937705
+ Epoch:90,Loss:0.010038
+ Epoch:90,Loss:0.011195
+ Epoch:90,Loss:0.010180
+ Epoch:90,Loss:0.010670
+ Epoch:90,Loss:0.010997
+Accuracy = 0.974221 Precision = 0.900641 Recall = 0.959044 Specificity = 0.977455 F1 = 0.928926
+ Epoch: 90 Best F1: 0.937705
+ Epoch:91,Loss:0.010988
+ Epoch:91,Loss:0.011819
+ Epoch:91,Loss:0.009931
+ Epoch:91,Loss:0.010697
+ Epoch:91,Loss:0.010610
+Accuracy = 0.975420 Precision = 0.907051 Recall = 0.959322 Specificity = 0.978878 F1 = 0.932455
+ Epoch: 91 Best F1: 0.937705
+ Epoch:92,Loss:0.010304
+ Epoch:92,Loss:0.010999
+ Epoch:92,Loss:0.009684
+ Epoch:92,Loss:0.009897
+ Epoch:92,Loss:0.010430
+Accuracy = 0.973621 Precision = 0.894231 Recall = 0.962069 Specificity = 0.976052 F1 = 0.926910
+ Epoch: 92 Best F1: 0.937705
+ Epoch:93,Loss:0.009814
+ Epoch:93,Loss:0.010230
+ Epoch:93,Loss:0.010706
+ Epoch:93,Loss:0.011355
+ Epoch:93,Loss:0.012363
+Accuracy = 0.972422 Precision = 0.891026 Recall = 0.958621 Specificity = 0.975327 F1 = 0.923588
+ Epoch: 93 Best F1: 0.937705
+ Epoch:94,Loss:0.009617
+ Epoch:94,Loss:0.011808
+ Epoch:94,Loss:0.010048
+ Epoch:94,Loss:0.010159
+ Epoch:94,Loss:0.011136
+Accuracy = 0.974221 Precision = 0.903846 Recall = 0.955932 Specificity = 0.978150 F1 = 0.929160
+ Epoch: 94 Best F1: 0.937705
+ Epoch:95,Loss:0.011472
+ Epoch:95,Loss:0.012737
+ Epoch:95,Loss:0.009921
+ Epoch:95,Loss:0.009345
+ Epoch:95,Loss:0.009674
+Accuracy = 0.975420 Precision = 0.903846 Recall = 0.962457 Specificity = 0.978182 F1 = 0.932231
+ Epoch: 95 Best F1: 0.937705
+ Epoch:96,Loss:0.009512
+ Epoch:96,Loss:0.011227
+ Epoch:96,Loss:0.009373
+ Epoch:96,Loss:0.009326
+ Epoch:96,Loss:0.010016
+Accuracy = 0.974221 Precision = 0.900641 Recall = 0.959044 Specificity = 0.977455 F1 = 0.928926
+ Epoch: 96 Best F1: 0.937705
+ Epoch:97,Loss:0.009145
+ Epoch:97,Loss:0.009871
+ Epoch:97,Loss:0.010456
+ Epoch:97,Loss:0.010713
+ Epoch:97,Loss:0.011310
+Accuracy = 0.976019 Precision = 0.919872 Recall = 0.950331 Specificity = 0.981698 F1 = 0.934853
+ Epoch: 97 Best F1: 0.937705
+ Epoch:98,Loss:0.009622
+ Epoch:98,Loss:0.010119
+ Epoch:98,Loss:0.009474
+ Epoch:98,Loss:0.009853
+ Epoch:98,Loss:0.010365
+Accuracy = 0.974221 Precision = 0.910256 Recall = 0.949833 Specificity = 0.979547 F1 = 0.929624
+ Epoch: 98 Best F1: 0.937705
+ Epoch:99,Loss:0.010949
+ Epoch:99,Loss:0.010304
+ Epoch:99,Loss:0.008501
+ Epoch:99,Loss:0.008709
+ Epoch:99,Loss:0.009380
+Accuracy = 0.974820 Precision = 0.907051 Recall = 0.956081 Specificity = 0.978863 F1 = 0.930921
+ Epoch: 99 Best F1: 0.937705
+ Epoch:100,Loss:0.008096
+ Epoch:100,Loss:0.008321
+ Epoch:100,Loss:0.007638
+ Epoch:100,Loss:0.007873
+ Epoch:100,Loss:0.008741
+Accuracy = 0.974221 Precision = 0.900641 Recall = 0.959044 Specificity = 0.977455 F1 = 0.928926
+ Epoch: 100 Best F1: 0.937705
+ Epoch:101,Loss:0.007894
+ Epoch:101,Loss:0.007902
+ Epoch:101,Loss:0.007112
+ Epoch:101,Loss:0.007367
+ Epoch:101,Loss:0.008102
+Accuracy = 0.974820 Precision = 0.900641 Recall = 0.962329 Specificity = 0.977471 F1 = 0.930464
+ Epoch: 101 Best F1: 0.937705
+ Epoch:102,Loss:0.006855
+ Epoch:102,Loss:0.008573
+ Epoch:102,Loss:0.007892
+ Epoch:102,Loss:0.007777
+ Epoch:102,Loss:0.008850
+Accuracy = 0.974820 Precision = 0.903846 Recall = 0.959184 Specificity = 0.978166 F1 = 0.930693
+ Epoch: 102 Best F1: 0.937705
+ Epoch:103,Loss:0.008268
+ Epoch:103,Loss:0.007772
+ Epoch:103,Loss:0.007034
+ Epoch:103,Loss:0.007651
+ Epoch:103,Loss:0.008442
+Accuracy = 0.975420 Precision = 0.916667 Recall = 0.950166 Specificity = 0.980980 F1 = 0.933116
+ Epoch: 103 Best F1: 0.937705
+ Epoch:104,Loss:0.010338
+ Epoch:104,Loss:0.009165
+ Epoch:104,Loss:0.008229
+ Epoch:104,Loss:0.008380
+ Epoch:104,Loss:0.008876
+Accuracy = 0.973022 Precision = 0.913462 Recall = 0.940594 Specificity = 0.980220 F1 = 0.926829
+ Epoch: 104 Best F1: 0.937705
+ Epoch:105,Loss:0.007286
+ Epoch:105,Loss:0.007075
+ Epoch:105,Loss:0.006947
+ Epoch:105,Loss:0.007378
+ Epoch:105,Loss:0.007693
+Accuracy = 0.973022 Precision = 0.891026 Recall = 0.961938 Specificity = 0.975344 F1 = 0.925125
+ Epoch: 105 Best F1: 0.937705
+ Epoch:106,Loss:0.010201
+ Epoch:106,Loss:0.008170
+ Epoch:106,Loss:0.006688
+ Epoch:106,Loss:0.007242
+ Epoch:106,Loss:0.007825
+Accuracy = 0.974221 Precision = 0.900641 Recall = 0.959044 Specificity = 0.977455 F1 = 0.928926
+ Epoch: 106 Best F1: 0.937705
+ Epoch:107,Loss:0.008561
+ Epoch:107,Loss:0.008060
+ Epoch:107,Loss:0.006986
+ Epoch:107,Loss:0.007681
+ Epoch:107,Loss:0.008241
+Accuracy = 0.974221 Precision = 0.900641 Recall = 0.959044 Specificity = 0.977455 F1 = 0.928926
+ Epoch: 107 Best F1: 0.937705
+ Epoch:108,Loss:0.008063
+ Epoch:108,Loss:0.007718
+ Epoch:108,Loss:0.007384
+ Epoch:108,Loss:0.007488
+ Epoch:108,Loss:0.008035
+Accuracy = 0.974221 Precision = 0.903846 Recall = 0.955932 Specificity = 0.978150 F1 = 0.929160
+ Epoch: 108 Best F1: 0.937705
+ Epoch:109,Loss:0.006830
+ Epoch:109,Loss:0.007718
+ Epoch:109,Loss:0.006879
+ Epoch:109,Loss:0.007081
+ Epoch:109,Loss:0.007172
+Accuracy = 0.974820 Precision = 0.903846 Recall = 0.959184 Specificity = 0.978166 F1 = 0.930693
+ Epoch: 109 Best F1: 0.937705
+ Epoch:110,Loss:0.007020
+ Epoch:110,Loss:0.006771
+ Epoch:110,Loss:0.006849
+ Epoch:110,Loss:0.006992
+ Epoch:110,Loss:0.007680
+Accuracy = 0.974221 Precision = 0.897436 Recall = 0.962199 Specificity = 0.976761 F1 = 0.928690
+ Epoch: 110 Best F1: 0.937705
+ Epoch:111,Loss:0.008126
+ Epoch:111,Loss:0.008723
+ Epoch:111,Loss:0.007724
+ Epoch:111,Loss:0.007762
+ Epoch:111,Loss:0.008019
+Accuracy = 0.974820 Precision = 0.900641 Recall = 0.962329 Specificity = 0.977471 F1 = 0.930464
+ Epoch: 111 Best F1: 0.937705
+ Epoch:112,Loss:0.008342
+ Epoch:112,Loss:0.007107
+ Epoch:112,Loss:0.006247
+ Epoch:112,Loss:0.006577
+ Epoch:112,Loss:0.007116
+Accuracy = 0.974221 Precision = 0.897436 Recall = 0.962199 Specificity = 0.976761 F1 = 0.928690
+ Epoch: 112 Best F1: 0.937705
+ Epoch:113,Loss:0.008535
+ Epoch:113,Loss:0.007189
+ Epoch:113,Loss:0.006258
+ Epoch:113,Loss:0.006502
+ Epoch:113,Loss:0.006678
+Accuracy = 0.974820 Precision = 0.900641 Recall = 0.962329 Specificity = 0.977471 F1 = 0.930464
+ Epoch: 113 Best F1: 0.937705
+ Epoch:114,Loss:0.006323
+ Epoch:114,Loss:0.005486
+ Epoch:114,Loss:0.006247
+ Epoch:114,Loss:0.006654
+ Epoch:114,Loss:0.006868
+Accuracy = 0.974221 Precision = 0.907051 Recall = 0.952862 Specificity = 0.978848 F1 = 0.929392
+ Epoch: 114 Best F1: 0.937705
+ Epoch:115,Loss:0.007234
+ Epoch:115,Loss:0.006984
+ Epoch:115,Loss:0.006842
+ Epoch:115,Loss:0.006951
+ Epoch:115,Loss:0.007549
+Accuracy = 0.974221 Precision = 0.903846 Recall = 0.955932 Specificity = 0.978150 F1 = 0.929160
+ Epoch: 115 Best F1: 0.937705
+ Epoch:116,Loss:0.006646
+ Epoch:116,Loss:0.005704
+ Epoch:116,Loss:0.006255
+ Epoch:116,Loss:0.006179
+ Epoch:116,Loss:0.007051
+Accuracy = 0.972422 Precision = 0.884615 Recall = 0.965035 Specificity = 0.973951 F1 = 0.923077
+ Epoch: 116 Best F1: 0.937705
+ Epoch:117,Loss:0.009129
+ Epoch:117,Loss:0.006964
+ Epoch:117,Loss:0.006232
+ Epoch:117,Loss:0.006277
+ Epoch:117,Loss:0.006771
+Accuracy = 0.974820 Precision = 0.900641 Recall = 0.962329 Specificity = 0.977471 F1 = 0.930464
+ Epoch: 117 Best F1: 0.937705
+ Epoch:118,Loss:0.006610
+ Epoch:118,Loss:0.005545
+ Epoch:118,Loss:0.005668
+ Epoch:118,Loss:0.006166
+ Epoch:118,Loss:0.006465
+Accuracy = 0.975420 Precision = 0.900641 Recall = 0.965636 Specificity = 0.977487 F1 = 0.932007
+ Epoch: 118 Best F1: 0.937705
+ Epoch:119,Loss:0.006401
+ Epoch:119,Loss:0.005902
+ Epoch:119,Loss:0.005647
+ Epoch:119,Loss:0.006070
+ Epoch:119,Loss:0.008788
+Accuracy = 0.972422 Precision = 0.910256 Recall = 0.940397 Specificity = 0.979502 F1 = 0.925081
+ Epoch: 119 Best F1: 0.937705
+ Epoch:120,Loss:0.011507
+ Epoch:120,Loss:0.008655
+ Epoch:120,Loss:0.006785
+ Epoch:120,Loss:0.007009
+ Epoch:120,Loss:0.007275
+Accuracy = 0.974221 Precision = 0.900641 Recall = 0.959044 Specificity = 0.977455 F1 = 0.928926
+ Epoch: 120 Best F1: 0.937705
+ Epoch:121,Loss:0.009011
+ Epoch:121,Loss:0.008031
+ Epoch:121,Loss:0.006241
+ Epoch:121,Loss:0.006411
+ Epoch:121,Loss:0.007200
+Accuracy = 0.970624 Precision = 0.919872 Recall = 0.922830 Specificity = 0.981577 F1 = 0.921348
+ Epoch: 121 Best F1: 0.937705
+ Epoch:122,Loss:0.009041
+ Epoch:122,Loss:0.007282
+ Epoch:122,Loss:0.006669
+ Epoch:122,Loss:0.007089
+ Epoch:122,Loss:0.007351
+Accuracy = 0.973621 Precision = 0.897436 Recall = 0.958904 Specificity = 0.976744 F1 = 0.927152
+ Epoch: 122 Best F1: 0.937705
+ Epoch:123,Loss:0.006198
+ Epoch:123,Loss:0.006056
+ Epoch:123,Loss:0.006668
+ Epoch:123,Loss:0.007212
+ Epoch:123,Loss:0.007350
+Accuracy = 0.973621 Precision = 0.900641 Recall = 0.955782 Specificity = 0.977438 F1 = 0.927393
+ Epoch: 123 Best F1: 0.937705
+ Epoch:124,Loss:0.008553
+ Epoch:124,Loss:0.006517
+ Epoch:124,Loss:0.006074
+ Epoch:124,Loss:0.006362
+ Epoch:124,Loss:0.006939
+Accuracy = 0.970624 Precision = 0.878205 Recall = 0.961404 Specificity = 0.972523 F1 = 0.917923
+ Epoch: 124 Best F1: 0.937705
+ Epoch:125,Loss:0.008349
+ Epoch:125,Loss:0.006450
+ Epoch:125,Loss:0.005587
+ Epoch:125,Loss:0.006555
+ Epoch:125,Loss:0.006947
+Accuracy = 0.973621 Precision = 0.897436 Recall = 0.958904 Specificity = 0.976744 F1 = 0.927152
+ Epoch: 125 Best F1: 0.937705
+ Epoch:126,Loss:0.007092
+ Epoch:126,Loss:0.005824
+ Epoch:126,Loss:0.005271
+ Epoch:126,Loss:0.005518
+ Epoch:126,Loss:0.005959
+Accuracy = 0.973022 Precision = 0.887821 Recall = 0.965157 Specificity = 0.974656 F1 = 0.924875
+ Epoch: 126 Best F1: 0.937705
+ Epoch:127,Loss:0.007228
+ Epoch:127,Loss:0.006184
+ Epoch:127,Loss:0.005346
+ Epoch:127,Loss:0.005552
+ Epoch:127,Loss:0.006177
+Accuracy = 0.970024 Precision = 0.871795 Recall = 0.964539 Specificity = 0.971140 F1 = 0.915825
+ Epoch: 127 Best F1: 0.937705
+ Epoch:128,Loss:0.007917
+ Epoch:128,Loss:0.006910
+ Epoch:128,Loss:0.006094
+ Epoch:128,Loss:0.006390
+ Epoch:128,Loss:0.006723
+Accuracy = 0.973022 Precision = 0.891026 Recall = 0.961938 Specificity = 0.975344 F1 = 0.925125
+ Epoch: 128 Best F1: 0.937705
+ Epoch:129,Loss:0.006308
+ Epoch:129,Loss:0.006190
+ Epoch:129,Loss:0.005823
+ Epoch:129,Loss:0.005781
+ Epoch:129,Loss:0.005886
+Accuracy = 0.973022 Precision = 0.894231 Recall = 0.958763 Specificity = 0.976035 F1 = 0.925373
+ Epoch: 129 Best F1: 0.937705
+ Epoch:130,Loss:0.007431
+ Epoch:130,Loss:0.005904
+ Epoch:130,Loss:0.005255
+ Epoch:130,Loss:0.005434
+ Epoch:130,Loss:0.005924
+Accuracy = 0.970024 Precision = 0.871795 Recall = 0.964539 Specificity = 0.971140 F1 = 0.915825
+ Epoch: 130 Best F1: 0.937705
+ Epoch:131,Loss:0.008032
+ Epoch:131,Loss:0.006738
+ Epoch:131,Loss:0.006219
+ Epoch:131,Loss:0.007093
+ Epoch:131,Loss:0.007163
+Accuracy = 0.971823 Precision = 0.900641 Recall = 0.946128 Specificity = 0.977389 F1 = 0.922824
+ Epoch: 131 Best F1: 0.937705
+ Epoch:132,Loss:0.006074
+ Epoch:132,Loss:0.004990
+ Epoch:132,Loss:0.004675
+ Epoch:132,Loss:0.005429
+ Epoch:132,Loss:0.005730
+Accuracy = 0.972422 Precision = 0.881410 Recall = 0.968310 Specificity = 0.973266 F1 = 0.922819
+ Epoch: 132 Best F1: 0.937705
+ Epoch:133,Loss:0.008012
+ Epoch:133,Loss:0.007046
+ Epoch:133,Loss:0.005811
+ Epoch:133,Loss:0.006018
+ Epoch:133,Loss:0.006307
+Accuracy = 0.973022 Precision = 0.897436 Recall = 0.955631 Specificity = 0.976727 F1 = 0.925620
+ Epoch: 133 Best F1: 0.937705
+ Epoch:134,Loss:0.006644
+ Epoch:134,Loss:0.006046
+ Epoch:134,Loss:0.005511
+ Epoch:134,Loss:0.005701
+ Epoch:134,Loss:0.006169
+Accuracy = 0.973621 Precision = 0.891026 Recall = 0.965278 Specificity = 0.975362 F1 = 0.926667
+ Epoch: 134 Best F1: 0.937705
+ Epoch:135,Loss:0.007820
+ Epoch:135,Loss:0.006302
+ Epoch:135,Loss:0.005698
+ Epoch:135,Loss:0.006350
+ Epoch:135,Loss:0.007063
+Accuracy = 0.972422 Precision = 0.887821 Recall = 0.961806 Specificity = 0.974638 F1 = 0.923333
+ Epoch: 135 Best F1: 0.937705
+ Epoch:136,Loss:0.007732
+ Epoch:136,Loss:0.005972
+ Epoch:136,Loss:0.005099
+ Epoch:136,Loss:0.005519
+ Epoch:136,Loss:0.005811
+Accuracy = 0.973621 Precision = 0.897436 Recall = 0.958904 Specificity = 0.976744 F1 = 0.927152
+ Epoch: 136 Best F1: 0.937705
+ Epoch:137,Loss:0.007133
+ Epoch:137,Loss:0.005865
+ Epoch:137,Loss:0.005163
+ Epoch:137,Loss:0.005305
+ Epoch:137,Loss:0.005917
+Accuracy = 0.973621 Precision = 0.897436 Recall = 0.958904 Specificity = 0.976744 F1 = 0.927152
+ Epoch: 137 Best F1: 0.937705
+ Epoch:138,Loss:0.007624
+ Epoch:138,Loss:0.006034
+ Epoch:138,Loss:0.005075
+ Epoch:138,Loss:0.005641
+ Epoch:138,Loss:0.005983
+Accuracy = 0.970624 Precision = 0.884615 Recall = 0.955017 Specificity = 0.973894 F1 = 0.918469
+ Epoch: 138 Best F1: 0.937705
+ Epoch:139,Loss:0.006960
+ Epoch:139,Loss:0.005743
+ Epoch:139,Loss:0.004915
+ Epoch:139,Loss:0.005323
+ Epoch:139,Loss:0.005576
+Accuracy = 0.972422 Precision = 0.891026 Recall = 0.958621 Specificity = 0.975327 F1 = 0.923588
+ Epoch: 139 Best F1: 0.937705
+ Epoch:140,Loss:0.008231
+ Epoch:140,Loss:0.006446
+ Epoch:140,Loss:0.005275
+ Epoch:140,Loss:0.005602
+ Epoch:140,Loss:0.006292
+Accuracy = 0.972422 Precision = 0.887821 Recall = 0.961806 Specificity = 0.974638 F1 = 0.923333
+ Epoch: 140 Best F1: 0.937705
+ Epoch:141,Loss:0.007063
+ Epoch:141,Loss:0.005990
+ Epoch:141,Loss:0.004924
+ Epoch:141,Loss:0.005259
+ Epoch:141,Loss:0.005662
+Accuracy = 0.971823 Precision = 0.891026 Recall = 0.955326 Specificity = 0.975309 F1 = 0.922056
+ Epoch: 141 Best F1: 0.937705
+ Epoch:142,Loss:0.007475
+ Epoch:142,Loss:0.006517
+ Epoch:142,Loss:0.005535
+ Epoch:142,Loss:0.005331
+ Epoch:142,Loss:0.005534
+Accuracy = 0.973022 Precision = 0.894231 Recall = 0.958763 Specificity = 0.976035 F1 = 0.925373
+ Epoch: 142 Best F1: 0.937705
+ Epoch:143,Loss:0.006373
+ Epoch:143,Loss:0.005763
+ Epoch:143,Loss:0.004824
+ Epoch:143,Loss:0.005430
+ Epoch:143,Loss:0.005592
+Accuracy = 0.972422 Precision = 0.884615 Recall = 0.965035 Specificity = 0.973951 F1 = 0.923077
+ Epoch: 143 Best F1: 0.937705
+ Epoch:144,Loss:0.007581
+ Epoch:144,Loss:0.006469
+ Epoch:144,Loss:0.005392
+ Epoch:144,Loss:0.005921
+ Epoch:144,Loss:0.006061
+Accuracy = 0.974221 Precision = 0.900641 Recall = 0.959044 Specificity = 0.977455 F1 = 0.928926
+ Epoch: 144 Best F1: 0.937705
+ Epoch:145,Loss:0.006826
+ Epoch:145,Loss:0.006369
+ Epoch:145,Loss:0.005066
+ Epoch:145,Loss:0.005038
+ Epoch:145,Loss:0.005284
+Accuracy = 0.973022 Precision = 0.887821 Recall = 0.965157 Specificity = 0.974656 F1 = 0.924875
+ Epoch: 145 Best F1: 0.937705
+ Epoch:146,Loss:0.007647
+ Epoch:146,Loss:0.006133
+ Epoch:146,Loss:0.005004
+ Epoch:146,Loss:0.005346
+ Epoch:146,Loss:0.005513
+Accuracy = 0.973022 Precision = 0.884615 Recall = 0.968421 Specificity = 0.973970 F1 = 0.924623
+ Epoch: 146 Best F1: 0.937705
+ Epoch:147,Loss:0.008543
+ Epoch:147,Loss:0.006545
+ Epoch:147,Loss:0.005017
+ Epoch:147,Loss:0.004856
+ Epoch:147,Loss:0.005047
+Accuracy = 0.971823 Precision = 0.884615 Recall = 0.961672 Specificity = 0.973932 F1 = 0.921536
+ Epoch: 147 Best F1: 0.937705
+ Epoch:148,Loss:0.008384
+ Epoch:148,Loss:0.007815
+ Epoch:148,Loss:0.006265
+ Epoch:148,Loss:0.006020
+ Epoch:148,Loss:0.005984
+Accuracy = 0.972422 Precision = 0.887821 Recall = 0.961806 Specificity = 0.974638 F1 = 0.923333
+ Epoch: 148 Best F1: 0.937705
+ Epoch:149,Loss:0.007295
+ Epoch:149,Loss:0.005832
+ Epoch:149,Loss:0.005386
+ Epoch:149,Loss:0.005417
+ Epoch:149,Loss:0.005608
+Accuracy = 0.973022 Precision = 0.894231 Recall = 0.958763 Specificity = 0.976035 F1 = 0.925373
+ Epoch: 149 Best F1: 0.937705
+ Epoch:150,Loss:0.007158
+ Epoch:150,Loss:0.005729
+ Epoch:150,Loss:0.004739
+ Epoch:150,Loss:0.005063
+ Epoch:150,Loss:0.005225
+Accuracy = 0.968825 Precision = 0.862179 Recall = 0.967626 Specificity = 0.969065 F1 = 0.911864
+ Epoch: 150 Best F1: 0.937705
+ Epoch:151,Loss:0.007027
+ Epoch:151,Loss:0.007773
+ Epoch:151,Loss:0.006272
+ Epoch:151,Loss:0.006233
+ Epoch:151,Loss:0.007087
+Accuracy = 0.970624 Precision = 0.907051 Recall = 0.933993 Specificity = 0.978755 F1 = 0.920325
+ Epoch: 151 Best F1: 0.937705
+ Epoch:152,Loss:0.008571
+ Epoch:152,Loss:0.006703
+ Epoch:152,Loss:0.005329
+ Epoch:152,Loss:0.005515
+ Epoch:152,Loss:0.005553
+Accuracy = 0.971223 Precision = 0.884615 Recall = 0.958333 Specificity = 0.973913 F1 = 0.920000
+ Epoch: 152 Best F1: 0.937705
+ Epoch:153,Loss:0.006550
+ Epoch:153,Loss:0.005357
+ Epoch:153,Loss:0.004470
+ Epoch:153,Loss:0.005116
+ Epoch:153,Loss:0.005903
+Accuracy = 0.970624 Precision = 0.881410 Recall = 0.958188 Specificity = 0.973208 F1 = 0.918197
+ Epoch: 153 Best F1: 0.937705
+ Epoch:154,Loss:0.008136
+ Epoch:154,Loss:0.006543
+ Epoch:154,Loss:0.005878
+ Epoch:154,Loss:0.005586
+ Epoch:154,Loss:0.005660
+Accuracy = 0.972422 Precision = 0.887821 Recall = 0.961806 Specificity = 0.974638 F1 = 0.923333
+ Epoch: 154 Best F1: 0.937705
+ Epoch:155,Loss:0.006507
+ Epoch:155,Loss:0.005516
+ Epoch:155,Loss:0.004800
+ Epoch:155,Loss:0.004951
+ Epoch:155,Loss:0.005303
+Accuracy = 0.971223 Precision = 0.881410 Recall = 0.961538 Specificity = 0.973227 F1 = 0.919732
+ Epoch: 155 Best F1: 0.937705
+ Epoch:156,Loss:0.006293
+ Epoch:156,Loss:0.005464
+ Epoch:156,Loss:0.004217
+ Epoch:156,Loss:0.005688
+ Epoch:156,Loss:0.006354
+Accuracy = 0.973022 Precision = 0.894231 Recall = 0.958763 Specificity = 0.976035 F1 = 0.925373
+ Epoch: 156 Best F1: 0.937705
+ Epoch:157,Loss:0.007850
+ Epoch:157,Loss:0.006205
+ Epoch:157,Loss:0.005070
+ Epoch:157,Loss:0.005151
+ Epoch:157,Loss:0.005851
+Accuracy = 0.968825 Precision = 0.868590 Recall = 0.960993 Specificity = 0.970418 F1 = 0.912458
+ Epoch: 157 Best F1: 0.937705
+ Epoch:158,Loss:0.007162
+ Epoch:158,Loss:0.005774
+ Epoch:158,Loss:0.004641
+ Epoch:158,Loss:0.004802
+ Epoch:158,Loss:0.006217
+Accuracy = 0.971223 Precision = 0.884615 Recall = 0.958333 Specificity = 0.973913 F1 = 0.920000
+ Epoch: 158 Best F1: 0.937705
+ Epoch:159,Loss:0.008494
+ Epoch:159,Loss:0.008038
+ Epoch:159,Loss:0.006088
+ Epoch:159,Loss:0.006119
+ Epoch:159,Loss:0.005999
+Accuracy = 0.971223 Precision = 0.884615 Recall = 0.958333 Specificity = 0.973913 F1 = 0.920000
+ Epoch: 159 Best F1: 0.937705
+ Epoch:160,Loss:0.006122
+ Epoch:160,Loss:0.004830
+ Epoch:160,Loss:0.004047
+ Epoch:160,Loss:0.004403
+ Epoch:160,Loss:0.004890
+Accuracy = 0.971223 Precision = 0.881410 Recall = 0.961538 Specificity = 0.973227 F1 = 0.919732
+ Epoch: 160 Best F1: 0.937705
+ Epoch:161,Loss:0.007660
+ Epoch:161,Loss:0.006113
+ Epoch:161,Loss:0.005019
+ Epoch:161,Loss:0.007299
+ Epoch:161,Loss:0.007074
+Accuracy = 0.971823 Precision = 0.894231 Recall = 0.952218 Specificity = 0.976000 F1 = 0.922314
+ Epoch: 161 Best F1: 0.937705
+ Epoch:162,Loss:0.007288
+ Epoch:162,Loss:0.008175
+ Epoch:162,Loss:0.006323
+ Epoch:162,Loss:0.006204
+ Epoch:162,Loss:0.006773
+Accuracy = 0.970024 Precision = 0.881410 Recall = 0.954861 Specificity = 0.973188 F1 = 0.916667
+ Epoch: 162 Best F1: 0.937705
+ Epoch:163,Loss:0.007364
+ Epoch:163,Loss:0.005950
+ Epoch:163,Loss:0.004752
+ Epoch:163,Loss:0.004872
+ Epoch:163,Loss:0.005193
+Accuracy = 0.971223 Precision = 0.884615 Recall = 0.958333 Specificity = 0.973913 F1 = 0.920000
+ Epoch: 163 Best F1: 0.937705
+ Epoch:164,Loss:0.007364
+ Epoch:164,Loss:0.005427
+ Epoch:164,Loss:0.004958
+ Epoch:164,Loss:0.005045
+ Epoch:164,Loss:0.005126
+Accuracy = 0.973022 Precision = 0.891026 Recall = 0.961938 Specificity = 0.975344 F1 = 0.925125
+ Epoch: 164 Best F1: 0.937705
+ Epoch:165,Loss:0.007639
+ Epoch:165,Loss:0.006552
+ Epoch:165,Loss:0.005738
+ Epoch:165,Loss:0.005613
+ Epoch:165,Loss:0.005662
+Accuracy = 0.971823 Precision = 0.881410 Recall = 0.964912 Specificity = 0.973247 F1 = 0.921273
+ Epoch: 165 Best F1: 0.937705
+ Epoch:166,Loss:0.006824
+ Epoch:166,Loss:0.005530
+ Epoch:166,Loss:0.004490
+ Epoch:166,Loss:0.004502
+ Epoch:166,Loss:0.004753
+Accuracy = 0.971823 Precision = 0.881410 Recall = 0.964912 Specificity = 0.973247 F1 = 0.921273
+ Epoch: 166 Best F1: 0.937705
+ Epoch:167,Loss:0.007583
+ Epoch:167,Loss:0.005968
+ Epoch:167,Loss:0.004901
+ Epoch:167,Loss:0.005096
+ Epoch:167,Loss:0.005302
+Accuracy = 0.970624 Precision = 0.903846 Recall = 0.936877 Specificity = 0.978054 F1 = 0.920065
+ Epoch: 167 Best F1: 0.937705
+ Epoch:168,Loss:0.007755
+ Epoch:168,Loss:0.006121
+ Epoch:168,Loss:0.005014
+ Epoch:168,Loss:0.005017
+ Epoch:168,Loss:0.005484
+Accuracy = 0.971823 Precision = 0.887821 Recall = 0.958478 Specificity = 0.974619 F1 = 0.921797
+ Epoch: 168 Best F1: 0.937705
+ Epoch:169,Loss:0.007984
+ Epoch:169,Loss:0.007315
+ Epoch:169,Loss:0.005416
+ Epoch:169,Loss:0.005334
+ Epoch:169,Loss:0.005293
+Accuracy = 0.970024 Precision = 0.878205 Recall = 0.958042 Specificity = 0.972504 F1 = 0.916388
+ Epoch: 169 Best F1: 0.937705
+ Epoch:170,Loss:0.007384
+ Epoch:170,Loss:0.005658
+ Epoch:170,Loss:0.004776
+ Epoch:170,Loss:0.004842
+ Epoch:170,Loss:0.005134
+Accuracy = 0.971223 Precision = 0.878205 Recall = 0.964789 Specificity = 0.972543 F1 = 0.919463
+ Epoch: 170 Best F1: 0.937705
+ Epoch:171,Loss:0.007661
+ Epoch:171,Loss:0.005870
+ Epoch:171,Loss:0.004904
+ Epoch:171,Loss:0.005341
+ Epoch:171,Loss:0.005368
+Accuracy = 0.973621 Precision = 0.894231 Recall = 0.962069 Specificity = 0.976052 F1 = 0.926910
+ Epoch: 171 Best F1: 0.937705
+ Epoch:172,Loss:0.007147
+ Epoch:172,Loss:0.005756
+ Epoch:172,Loss:0.004965
+ Epoch:172,Loss:0.005117
+ Epoch:172,Loss:0.005327
+Accuracy = 0.971223 Precision = 0.884615 Recall = 0.958333 Specificity = 0.973913 F1 = 0.920000
+ Epoch: 172 Best F1: 0.937705
+ Epoch:173,Loss:0.007479
+ Epoch:173,Loss:0.005761
+ Epoch:173,Loss:0.004524
+ Epoch:173,Loss:0.004882
+ Epoch:173,Loss:0.005494
+Accuracy = 0.970624 Precision = 0.881410 Recall = 0.958188 Specificity = 0.973208 F1 = 0.918197
+ Epoch: 173 Best F1: 0.937705
+ Epoch:174,Loss:0.007713
+ Epoch:174,Loss:0.007487
+ Epoch:174,Loss:0.006183
+ Epoch:174,Loss:0.006151
+ Epoch:174,Loss:0.006019
+Accuracy = 0.971223 Precision = 0.884615 Recall = 0.958333 Specificity = 0.973913 F1 = 0.920000
+ Epoch: 174 Best F1: 0.937705
+ Epoch:175,Loss:0.006687
+ Epoch:175,Loss:0.006195
+ Epoch:175,Loss:0.004739
+ Epoch:175,Loss:0.004941
+ Epoch:175,Loss:0.005239
+Accuracy = 0.968825 Precision = 0.865385 Recall = 0.964286 Specificity = 0.969741 F1 = 0.912162
+ Epoch: 175 Best F1: 0.937705
+ Epoch:176,Loss:0.007695
+ Epoch:176,Loss:0.006017
+ Epoch:176,Loss:0.004833
+ Epoch:176,Loss:0.005004
+ Epoch:176,Loss:0.005058
+Accuracy = 0.971823 Precision = 0.884615 Recall = 0.961672 Specificity = 0.973932 F1 = 0.921536
+ Epoch: 176 Best F1: 0.937705
+ Epoch:177,Loss:0.006484
+ Epoch:177,Loss:0.009499
+ Epoch:177,Loss:0.007131
+ Epoch:177,Loss:0.006728
+ Epoch:177,Loss:0.006895
+Accuracy = 0.971223 Precision = 0.894231 Recall = 0.948980 Specificity = 0.975983 F1 = 0.920792
+ Epoch: 177 Best F1: 0.937705
+ Epoch:178,Loss:0.007007
+ Epoch:178,Loss:0.005235
+ Epoch:178,Loss:0.004693
+ Epoch:178,Loss:0.005071
+ Epoch:178,Loss:0.005280
+Accuracy = 0.968825 Precision = 0.868590 Recall = 0.960993 Specificity = 0.970418 F1 = 0.912458
+ Epoch: 178 Best F1: 0.937705
+ Epoch:179,Loss:0.007779
+ Epoch:179,Loss:0.005816
+ Epoch:179,Loss:0.004556
+ Epoch:179,Loss:0.004739
+ Epoch:179,Loss:0.004869
+Accuracy = 0.971223 Precision = 0.878205 Recall = 0.964789 Specificity = 0.972543 F1 = 0.919463
+ Epoch: 179 Best F1: 0.937705
+ Epoch:180,Loss:0.007139
+ Epoch:180,Loss:0.005406
+ Epoch:180,Loss:0.004285
+ Epoch:180,Loss:0.004576
+ Epoch:180,Loss:0.004695
+Accuracy = 0.971223 Precision = 0.878205 Recall = 0.964789 Specificity = 0.972543 F1 = 0.919463
+ Epoch: 180 Best F1: 0.937705
+ Epoch:181,Loss:0.007003
+ Epoch:181,Loss:0.005526
+ Epoch:181,Loss:0.004604
+ Epoch:181,Loss:0.004794
+ Epoch:181,Loss:0.005041
+Accuracy = 0.970024 Precision = 0.871795 Recall = 0.964539 Specificity = 0.971140 F1 = 0.915825
+ Epoch: 181 Best F1: 0.937705
+ Epoch:182,Loss:0.007116
+ Epoch:182,Loss:0.006031
+ Epoch:182,Loss:0.004905
+ Epoch:182,Loss:0.004855
+ Epoch:182,Loss:0.004863
+Accuracy = 0.972422 Precision = 0.887821 Recall = 0.961806 Specificity = 0.974638 F1 = 0.923333
+ Epoch: 182 Best F1: 0.937705
+ Epoch:183,Loss:0.006197
+ Epoch:183,Loss:0.008357
+ Epoch:183,Loss:0.006243
+ Epoch:183,Loss:0.005989
+ Epoch:183,Loss:0.005869
+Accuracy = 0.971823 Precision = 0.881410 Recall = 0.964912 Specificity = 0.973247 F1 = 0.921273
+ Epoch: 183 Best F1: 0.937705
+ Epoch:184,Loss:0.006317
+ Epoch:184,Loss:0.005113
+ Epoch:184,Loss:0.004285
+ Epoch:184,Loss:0.004510
+ Epoch:184,Loss:0.004577
+Accuracy = 0.971823 Precision = 0.884615 Recall = 0.961672 Specificity = 0.973932 F1 = 0.921536
+ Epoch: 184 Best F1: 0.937705
+ Epoch:185,Loss:0.007335
+ Epoch:185,Loss:0.006059
+ Epoch:185,Loss:0.004736
+ Epoch:185,Loss:0.004919
+ Epoch:185,Loss:0.005154
+Accuracy = 0.970624 Precision = 0.871795 Recall = 0.967972 Specificity = 0.971161 F1 = 0.917369
+ Epoch: 185 Best F1: 0.937705
+ Epoch:186,Loss:0.007581
+ Epoch:186,Loss:0.005764
+ Epoch:186,Loss:0.004615
+ Epoch:186,Loss:0.004908
+ Epoch:186,Loss:0.008869
+Accuracy = 0.970624 Precision = 0.884615 Recall = 0.955017 Specificity = 0.973894 F1 = 0.918469
+ Epoch: 186 Best F1: 0.937705
+ Epoch:187,Loss:0.009417
+ Epoch:187,Loss:0.006567
+ Epoch:187,Loss:0.005196
+ Epoch:187,Loss:0.005090
+ Epoch:187,Loss:0.005026
+Accuracy = 0.969424 Precision = 0.868590 Recall = 0.964413 Specificity = 0.970440 F1 = 0.913997
+ Epoch: 187 Best F1: 0.937705
+ Epoch:188,Loss:0.007080
+ Epoch:188,Loss:0.005610
+ Epoch:188,Loss:0.004534
+ Epoch:188,Loss:0.004686
+ Epoch:188,Loss:0.004945
+Accuracy = 0.971823 Precision = 0.881410 Recall = 0.964912 Specificity = 0.973247 F1 = 0.921273
+ Epoch: 188 Best F1: 0.937705
+ Epoch:189,Loss:0.009300
+ Epoch:189,Loss:0.006435
+ Epoch:189,Loss:0.005178
+ Epoch:189,Loss:0.004894
+ Epoch:189,Loss:0.005352
+Accuracy = 0.972422 Precision = 0.926282 Recall = 0.926282 Specificity = 0.983038 F1 = 0.926282
+ Epoch: 189 Best F1: 0.937705
+ Epoch:190,Loss:0.007816
+ Epoch:190,Loss:0.006162
+ Epoch:190,Loss:0.004780
+ Epoch:190,Loss:0.004788
+ Epoch:190,Loss:0.004813
+Accuracy = 0.971823 Precision = 0.878205 Recall = 0.968198 Specificity = 0.972563 F1 = 0.921008
+ Epoch: 190 Best F1: 0.937705
+ Epoch:191,Loss:0.006921
+ Epoch:191,Loss:0.005735
+ Epoch:191,Loss:0.004489
+ Epoch:191,Loss:0.004782
+ Epoch:191,Loss:0.004902
+Accuracy = 0.972422 Precision = 0.891026 Recall = 0.958621 Specificity = 0.975327 F1 = 0.923588
+ Epoch: 191 Best F1: 0.937705
+ Epoch:192,Loss:0.006838
+ Epoch:192,Loss:0.004986
+ Epoch:192,Loss:0.004369
+ Epoch:192,Loss:0.004543
+ Epoch:192,Loss:0.004621
+Accuracy = 0.972422 Precision = 0.891026 Recall = 0.958621 Specificity = 0.975327 F1 = 0.923588
+ Epoch: 192 Best F1: 0.937705
+ Epoch:193,Loss:0.006727
+ Epoch:193,Loss:0.005654
+ Epoch:193,Loss:0.004697
+ Epoch:193,Loss:0.004913
+ Epoch:193,Loss:0.004777
+Accuracy = 0.970624 Precision = 0.871795 Recall = 0.967972 Specificity = 0.971161 F1 = 0.917369
+ Epoch: 193 Best F1: 0.937705
+ Epoch:194,Loss:0.006983
+ Epoch:194,Loss:0.006565
+ Epoch:194,Loss:0.005393
+ Epoch:194,Loss:0.005435
+ Epoch:194,Loss:0.005273
+Accuracy = 0.972422 Precision = 0.891026 Recall = 0.958621 Specificity = 0.975327 F1 = 0.923588
+ Epoch: 194 Best F1: 0.937705
+ Epoch:195,Loss:0.005359
+ Epoch:195,Loss:0.005067
+ Epoch:195,Loss:0.004234
+ Epoch:195,Loss:0.004414
+ Epoch:195,Loss:0.004957
+Accuracy = 0.972422 Precision = 0.884615 Recall = 0.965035 Specificity = 0.973951 F1 = 0.923077
+ Epoch: 195 Best F1: 0.937705
+ Epoch:196,Loss:0.007464
+ Epoch:196,Loss:0.006149
+ Epoch:196,Loss:0.004966
+ Epoch:196,Loss:0.005197
+ Epoch:196,Loss:0.005078
+Accuracy = 0.970024 Precision = 0.875000 Recall = 0.961268 Specificity = 0.971821 F1 = 0.916107
+ Epoch: 196 Best F1: 0.937705
+ Epoch:197,Loss:0.006514
+ Epoch:197,Loss:0.005298
+ Epoch:197,Loss:0.004381
+ Epoch:197,Loss:0.005350
+ Epoch:197,Loss:0.005288
+Accuracy = 0.970624 Precision = 0.875000 Recall = 0.964664 Specificity = 0.971841 F1 = 0.917647
+ Epoch: 197 Best F1: 0.937705
+ Epoch:198,Loss:0.006405
+ Epoch:198,Loss:0.004979
+ Epoch:198,Loss:0.004511
+ Epoch:198,Loss:0.004702
+ Epoch:198,Loss:0.004716
+Accuracy = 0.971223 Precision = 0.881410 Recall = 0.961538 Specificity = 0.973227 F1 = 0.919732
+ Epoch: 198 Best F1: 0.937705
+ Epoch:199,Loss:0.006794
+ Epoch:199,Loss:0.005408
+ Epoch:199,Loss:0.004387
+ Epoch:199,Loss:0.004764
+ Epoch:199,Loss:0.004968
+Accuracy = 0.971823 Precision = 0.884615 Recall = 0.961672 Specificity = 0.973932 F1 = 0.921536
+ Epoch: 199 Best F1: 0.937705

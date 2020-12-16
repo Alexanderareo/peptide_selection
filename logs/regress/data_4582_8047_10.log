@@ -1,0 +1,2032 @@
+nohup: ignoring input
+{'embedding_dim': 50, 'hidden_num': 32, 'num_layer': 2, 'batch_size': 16, 'learning_rate': 0.0001, 'dropout': 0.7, 'bidirectional': True, 'input_file_path': 'data_4582_8047.csv', 'ngram_num': 1, 'epoch_num': 200, 'log_num': 10, 'split_rate': 0.8, 'case_num': 12629}
+ Epoch:0,Loss:9.972629
+ Epoch:0,Loss:8.403417
+ Epoch:0,Loss:6.326360
+ Epoch:0,Loss:5.168958
+ Epoch:0,Loss:4.438484
+ Epoch:0,Loss:3.926000
+ Epoch:0,Loss:3.529450
+work
+MSE_loss = 2.098330
+R2_score = -2.807073
+ Epoch: 0 Best MSE Error: 2.098330
+ Epoch:1,Loss:1.058242
+ Epoch:1,Loss:1.002644
+ Epoch:1,Loss:0.959426
+ Epoch:1,Loss:0.908998
+ Epoch:1,Loss:0.888328
+ Epoch:1,Loss:0.863346
+ Epoch:1,Loss:0.854822
+work
+MSE_loss = 1.598257
+R2_score = -1.899772
+ Epoch: 1 Best MSE Error: 1.598257
+ Epoch:2,Loss:0.688866
+ Epoch:2,Loss:0.722776
+ Epoch:2,Loss:0.729937
+ Epoch:2,Loss:0.707454
+ Epoch:2,Loss:0.703933
+ Epoch:2,Loss:0.693153
+ Epoch:2,Loss:0.695383
+work
+MSE_loss = 1.321984
+R2_score = -1.398521
+ Epoch: 2 Best MSE Error: 1.321984
+ Epoch:3,Loss:0.620068
+ Epoch:3,Loss:0.643358
+ Epoch:3,Loss:0.655701
+ Epoch:3,Loss:0.634122
+ Epoch:3,Loss:0.630600
+ Epoch:3,Loss:0.623048
+ Epoch:3,Loss:0.626845
+work
+MSE_loss = 1.166040
+R2_score = -1.115586
+ Epoch: 3 Best MSE Error: 1.166040
+ Epoch:4,Loss:0.571417
+ Epoch:4,Loss:0.596565
+ Epoch:4,Loss:0.611909
+ Epoch:4,Loss:0.590313
+ Epoch:4,Loss:0.584978
+ Epoch:4,Loss:0.577770
+ Epoch:4,Loss:0.580262
+work
+MSE_loss = 1.051114
+R2_score = -0.907073
+ Epoch: 4 Best MSE Error: 1.051114
+ Epoch:5,Loss:0.535106
+ Epoch:5,Loss:0.559086
+ Epoch:5,Loss:0.577525
+ Epoch:5,Loss:0.557014
+ Epoch:5,Loss:0.551696
+ Epoch:5,Loss:0.546173
+ Epoch:5,Loss:0.549016
+work
+MSE_loss = 0.990879
+R2_score = -0.797786
+ Epoch: 5 Best MSE Error: 0.990879
+ Epoch:6,Loss:0.508940
+ Epoch:6,Loss:0.529814
+ Epoch:6,Loss:0.546690
+ Epoch:6,Loss:0.526554
+ Epoch:6,Loss:0.522277
+ Epoch:6,Loss:0.516652
+ Epoch:6,Loss:0.519192
+work
+MSE_loss = 0.936346
+R2_score = -0.698844
+ Epoch: 6 Best MSE Error: 0.936346
+ Epoch:7,Loss:0.482994
+ Epoch:7,Loss:0.504544
+ Epoch:7,Loss:0.519509
+ Epoch:7,Loss:0.501959
+ Epoch:7,Loss:0.498177
+ Epoch:7,Loss:0.493872
+ Epoch:7,Loss:0.496538
+work
+MSE_loss = 0.916874
+R2_score = -0.663515
+ Epoch: 7 Best MSE Error: 0.916874
+ Epoch:8,Loss:0.463482
+ Epoch:8,Loss:0.486450
+ Epoch:8,Loss:0.503776
+ Epoch:8,Loss:0.486438
+ Epoch:8,Loss:0.480866
+ Epoch:8,Loss:0.476626
+ Epoch:8,Loss:0.479459
+work
+MSE_loss = 0.889830
+R2_score = -0.614449
+ Epoch: 8 Best MSE Error: 0.889830
+ Epoch:9,Loss:0.450760
+ Epoch:9,Loss:0.473084
+ Epoch:9,Loss:0.489841
+ Epoch:9,Loss:0.471708
+ Epoch:9,Loss:0.467944
+ Epoch:9,Loss:0.463510
+ Epoch:9,Loss:0.466350
+work
+MSE_loss = 0.848700
+R2_score = -0.539824
+ Epoch: 9 Best MSE Error: 0.848700
+ Epoch:10,Loss:0.444219
+ Epoch:10,Loss:0.466621
+ Epoch:10,Loss:0.481616
+ Epoch:10,Loss:0.464624
+ Epoch:10,Loss:0.459494
+ Epoch:10,Loss:0.452716
+ Epoch:10,Loss:0.455523
+MSE_loss = 0.875092
+R2_score = -0.587710
+ Epoch: 10 Best MSE Error: 0.848700
+ Epoch:11,Loss:0.432562
+ Epoch:11,Loss:0.451837
+ Epoch:11,Loss:0.466289
+ Epoch:11,Loss:0.450822
+ Epoch:11,Loss:0.444481
+ Epoch:11,Loss:0.439472
+ Epoch:11,Loss:0.442963
+work
+MSE_loss = 0.843035
+R2_score = -0.529546
+ Epoch: 11 Best MSE Error: 0.843035
+ Epoch:12,Loss:0.420979
+ Epoch:12,Loss:0.445138
+ Epoch:12,Loss:0.461775
+ Epoch:12,Loss:0.447295
+ Epoch:12,Loss:0.440513
+ Epoch:12,Loss:0.435347
+ Epoch:12,Loss:0.437451
+work
+MSE_loss = 0.833243
+R2_score = -0.511781
+ Epoch: 12 Best MSE Error: 0.833243
+ Epoch:13,Loss:0.410778
+ Epoch:13,Loss:0.432177
+ Epoch:13,Loss:0.445384
+ Epoch:13,Loss:0.433264
+ Epoch:13,Loss:0.427066
+ Epoch:13,Loss:0.422569
+ Epoch:13,Loss:0.424683
+work
+MSE_loss = 0.813223
+R2_score = -0.475459
+ Epoch: 13 Best MSE Error: 0.813223
+ Epoch:14,Loss:0.405264
+ Epoch:14,Loss:0.429588
+ Epoch:14,Loss:0.445636
+ Epoch:14,Loss:0.433546
+ Epoch:14,Loss:0.426101
+ Epoch:14,Loss:0.420053
+ Epoch:14,Loss:0.422470
+work
+MSE_loss = 0.797867
+R2_score = -0.447596
+ Epoch: 14 Best MSE Error: 0.797867
+ Epoch:15,Loss:0.397864
+ Epoch:15,Loss:0.422711
+ Epoch:15,Loss:0.437517
+ Epoch:15,Loss:0.424056
+ Epoch:15,Loss:0.416638
+ Epoch:15,Loss:0.412063
+ Epoch:15,Loss:0.414626
+work
+MSE_loss = 0.792894
+R2_score = -0.438575
+ Epoch: 15 Best MSE Error: 0.792894
+ Epoch:16,Loss:0.394255
+ Epoch:16,Loss:0.418724
+ Epoch:16,Loss:0.430671
+ Epoch:16,Loss:0.417031
+ Epoch:16,Loss:0.409912
+ Epoch:16,Loss:0.404994
+ Epoch:16,Loss:0.406646
+MSE_loss = 0.796742
+R2_score = -0.445556
+ Epoch: 16 Best MSE Error: 0.792894
+ Epoch:17,Loss:0.384483
+ Epoch:17,Loss:0.408640
+ Epoch:17,Loss:0.420638
+ Epoch:17,Loss:0.408188
+ Epoch:17,Loss:0.401896
+ Epoch:17,Loss:0.396621
+ Epoch:17,Loss:0.398882
+work
+MSE_loss = 0.772926
+R2_score = -0.402345
+ Epoch: 17 Best MSE Error: 0.772926
+ Epoch:18,Loss:0.375990
+ Epoch:18,Loss:0.401863
+ Epoch:18,Loss:0.413847
+ Epoch:18,Loss:0.400697
+ Epoch:18,Loss:0.395756
+ Epoch:18,Loss:0.390000
+ Epoch:18,Loss:0.393396
+MSE_loss = 0.783353
+R2_score = -0.421264
+ Epoch: 18 Best MSE Error: 0.772926
+ Epoch:19,Loss:0.375371
+ Epoch:19,Loss:0.399349
+ Epoch:19,Loss:0.410939
+ Epoch:19,Loss:0.397246
+ Epoch:19,Loss:0.390308
+ Epoch:19,Loss:0.383864
+ Epoch:19,Loss:0.387014
+MSE_loss = 0.784842
+R2_score = -0.423966
+ Epoch: 19 Best MSE Error: 0.772926
+ Epoch:20,Loss:0.364452
+ Epoch:20,Loss:0.393024
+ Epoch:20,Loss:0.404590
+ Epoch:20,Loss:0.390791
+ Epoch:20,Loss:0.383711
+ Epoch:20,Loss:0.379004
+ Epoch:20,Loss:0.382276
+MSE_loss = 0.774519
+R2_score = -0.405237
+ Epoch: 20 Best MSE Error: 0.772926
+ Epoch:21,Loss:0.363889
+ Epoch:21,Loss:0.388740
+ Epoch:21,Loss:0.401283
+ Epoch:21,Loss:0.386660
+ Epoch:21,Loss:0.380361
+ Epoch:21,Loss:0.374817
+ Epoch:21,Loss:0.378060
+work
+MSE_loss = 0.761632
+R2_score = -0.381855
+ Epoch: 21 Best MSE Error: 0.761632
+ Epoch:22,Loss:0.353587
+ Epoch:22,Loss:0.383898
+ Epoch:22,Loss:0.391357
+ Epoch:22,Loss:0.379352
+ Epoch:22,Loss:0.373480
+ Epoch:22,Loss:0.367983
+ Epoch:22,Loss:0.371461
+work
+MSE_loss = 0.746872
+R2_score = -0.355075
+ Epoch: 22 Best MSE Error: 0.746872
+ Epoch:23,Loss:0.345802
+ Epoch:23,Loss:0.378720
+ Epoch:23,Loss:0.392473
+ Epoch:23,Loss:0.378103
+ Epoch:23,Loss:0.372079
+ Epoch:23,Loss:0.366325
+ Epoch:23,Loss:0.368859
+MSE_loss = 0.763617
+R2_score = -0.385456
+ Epoch: 23 Best MSE Error: 0.746872
+ Epoch:24,Loss:0.344056
+ Epoch:24,Loss:0.372513
+ Epoch:24,Loss:0.382322
+ Epoch:24,Loss:0.369653
+ Epoch:24,Loss:0.364295
+ Epoch:24,Loss:0.358407
+ Epoch:24,Loss:0.361761
+work
+MSE_loss = 0.735701
+R2_score = -0.334807
+ Epoch: 24 Best MSE Error: 0.735701
+ Epoch:25,Loss:0.341327
+ Epoch:25,Loss:0.369457
+ Epoch:25,Loss:0.378673
+ Epoch:25,Loss:0.364670
+ Epoch:25,Loss:0.359410
+ Epoch:25,Loss:0.354889
+ Epoch:25,Loss:0.357471
+MSE_loss = 0.757943
+R2_score = -0.375162
+ Epoch: 25 Best MSE Error: 0.735701
+ Epoch:26,Loss:0.336113
+ Epoch:26,Loss:0.363386
+ Epoch:26,Loss:0.372993
+ Epoch:26,Loss:0.361698
+ Epoch:26,Loss:0.355489
+ Epoch:26,Loss:0.350235
+ Epoch:26,Loss:0.353953
+work
+MSE_loss = 0.731216
+R2_score = -0.326670
+ Epoch: 26 Best MSE Error: 0.731216
+ Epoch:27,Loss:0.331701
+ Epoch:27,Loss:0.361018
+ Epoch:27,Loss:0.367258
+ Epoch:27,Loss:0.355857
+ Epoch:27,Loss:0.350425
+ Epoch:27,Loss:0.345100
+ Epoch:27,Loss:0.348191
+MSE_loss = 0.739751
+R2_score = -0.342156
+ Epoch: 27 Best MSE Error: 0.731216
+ Epoch:28,Loss:0.327304
+ Epoch:28,Loss:0.353107
+ Epoch:28,Loss:0.365382
+ Epoch:28,Loss:0.352966
+ Epoch:28,Loss:0.347717
+ Epoch:28,Loss:0.341851
+ Epoch:28,Loss:0.344227
+work
+MSE_loss = 0.716661
+R2_score = -0.300263
+ Epoch: 28 Best MSE Error: 0.716661
+ Epoch:29,Loss:0.321984
+ Epoch:29,Loss:0.350451
+ Epoch:29,Loss:0.359475
+ Epoch:29,Loss:0.348282
+ Epoch:29,Loss:0.343520
+ Epoch:29,Loss:0.336711
+ Epoch:29,Loss:0.339555
+work
+MSE_loss = 0.706939
+R2_score = -0.282623
+ Epoch: 29 Best MSE Error: 0.706939
+ Epoch:30,Loss:0.312601
+ Epoch:30,Loss:0.344413
+ Epoch:30,Loss:0.353018
+ Epoch:30,Loss:0.342619
+ Epoch:30,Loss:0.337377
+ Epoch:30,Loss:0.331269
+ Epoch:30,Loss:0.334616
+MSE_loss = 0.717444
+R2_score = -0.301683
+ Epoch: 30 Best MSE Error: 0.706939
+ Epoch:31,Loss:0.309458
+ Epoch:31,Loss:0.336077
+ Epoch:31,Loss:0.347120
+ Epoch:31,Loss:0.338229
+ Epoch:31,Loss:0.334624
+ Epoch:31,Loss:0.328554
+ Epoch:31,Loss:0.331178
+work
+MSE_loss = 0.690518
+R2_score = -0.252831
+ Epoch: 31 Best MSE Error: 0.690518
+ Epoch:32,Loss:0.311304
+ Epoch:32,Loss:0.339250
+ Epoch:32,Loss:0.348727
+ Epoch:32,Loss:0.337812
+ Epoch:32,Loss:0.333598
+ Epoch:32,Loss:0.326975
+ Epoch:32,Loss:0.329812
+MSE_loss = 0.696188
+R2_score = -0.263118
+ Epoch: 32 Best MSE Error: 0.690518
+ Epoch:33,Loss:0.307864
+ Epoch:33,Loss:0.335137
+ Epoch:33,Loss:0.344572
+ Epoch:33,Loss:0.334468
+ Epoch:33,Loss:0.330508
+ Epoch:33,Loss:0.324438
+ Epoch:33,Loss:0.326757
+work
+MSE_loss = 0.681546
+R2_score = -0.236552
+ Epoch: 33 Best MSE Error: 0.681546
+ Epoch:34,Loss:0.300022
+ Epoch:34,Loss:0.323563
+ Epoch:34,Loss:0.332918
+ Epoch:34,Loss:0.323849
+ Epoch:34,Loss:0.322361
+ Epoch:34,Loss:0.315889
+ Epoch:34,Loss:0.318757
+work
+MSE_loss = 0.680103
+R2_score = -0.233934
+ Epoch: 34 Best MSE Error: 0.680103
+ Epoch:35,Loss:0.298681
+ Epoch:35,Loss:0.324532
+ Epoch:35,Loss:0.335871
+ Epoch:35,Loss:0.324060
+ Epoch:35,Loss:0.321539
+ Epoch:35,Loss:0.314948
+ Epoch:35,Loss:0.316911
+MSE_loss = 0.692607
+R2_score = -0.256621
+ Epoch: 35 Best MSE Error: 0.680103
+ Epoch:36,Loss:0.300210
+ Epoch:36,Loss:0.324059
+ Epoch:36,Loss:0.332497
+ Epoch:36,Loss:0.323314
+ Epoch:36,Loss:0.319638
+ Epoch:36,Loss:0.313813
+ Epoch:36,Loss:0.315767
+work
+MSE_loss = 0.663744
+R2_score = -0.204253
+ Epoch: 36 Best MSE Error: 0.663744
+ Epoch:37,Loss:0.302181
+ Epoch:37,Loss:0.323041
+ Epoch:37,Loss:0.327410
+ Epoch:37,Loss:0.316762
+ Epoch:37,Loss:0.314206
+ Epoch:37,Loss:0.309303
+ Epoch:37,Loss:0.310438
+MSE_loss = 0.681610
+R2_score = -0.236669
+ Epoch: 37 Best MSE Error: 0.663744
+ Epoch:38,Loss:0.295803
+ Epoch:38,Loss:0.315316
+ Epoch:38,Loss:0.322608
+ Epoch:38,Loss:0.314021
+ Epoch:38,Loss:0.311195
+ Epoch:38,Loss:0.305658
+ Epoch:38,Loss:0.307553
+work
+MSE_loss = 0.663156
+R2_score = -0.203187
+ Epoch: 38 Best MSE Error: 0.663156
+ Epoch:39,Loss:0.294671
+ Epoch:39,Loss:0.310522
+ Epoch:39,Loss:0.327407
+ Epoch:39,Loss:0.317995
+ Epoch:39,Loss:0.312794
+ Epoch:39,Loss:0.305897
+ Epoch:39,Loss:0.307149
+work
+MSE_loss = 0.657933
+R2_score = -0.193710
+ Epoch: 39 Best MSE Error: 0.657933
+ Epoch:40,Loss:0.293159
+ Epoch:40,Loss:0.307754
+ Epoch:40,Loss:0.312809
+ Epoch:40,Loss:0.304851
+ Epoch:40,Loss:0.303558
+ Epoch:40,Loss:0.299357
+ Epoch:40,Loss:0.301241
+MSE_loss = 0.676765
+R2_score = -0.227877
+ Epoch: 40 Best MSE Error: 0.657933
+ Epoch:41,Loss:0.285208
+ Epoch:41,Loss:0.306516
+ Epoch:41,Loss:0.317583
+ Epoch:41,Loss:0.306951
+ Epoch:41,Loss:0.302745
+ Epoch:41,Loss:0.297201
+ Epoch:41,Loss:0.299163
+MSE_loss = 0.670688
+R2_score = -0.216852
+ Epoch: 41 Best MSE Error: 0.657933
+ Epoch:42,Loss:0.282850
+ Epoch:42,Loss:0.303504
+ Epoch:42,Loss:0.312633
+ Epoch:42,Loss:0.304106
+ Epoch:42,Loss:0.299577
+ Epoch:42,Loss:0.294623
+ Epoch:42,Loss:0.296087
+work
+MSE_loss = 0.650876
+R2_score = -0.180906
+ Epoch: 42 Best MSE Error: 0.650876
+ Epoch:43,Loss:0.278480
+ Epoch:43,Loss:0.298986
+ Epoch:43,Loss:0.308554
+ Epoch:43,Loss:0.301361
+ Epoch:43,Loss:0.298464
+ Epoch:43,Loss:0.292426
+ Epoch:43,Loss:0.293966
+work
+MSE_loss = 0.648505
+R2_score = -0.176604
+ Epoch: 43 Best MSE Error: 0.648505
+ Epoch:44,Loss:0.270539
+ Epoch:44,Loss:0.293801
+ Epoch:44,Loss:0.297791
+ Epoch:44,Loss:0.290603
+ Epoch:44,Loss:0.289035
+ Epoch:44,Loss:0.284162
+ Epoch:44,Loss:0.286160
+MSE_loss = 0.669056
+R2_score = -0.213892
+ Epoch: 44 Best MSE Error: 0.648505
+ Epoch:45,Loss:0.262014
+ Epoch:45,Loss:0.281685
+ Epoch:45,Loss:0.290344
+ Epoch:45,Loss:0.284133
+ Epoch:45,Loss:0.282685
+ Epoch:45,Loss:0.278577
+ Epoch:45,Loss:0.281243
+MSE_loss = 0.655686
+R2_score = -0.189634
+ Epoch: 45 Best MSE Error: 0.648505
+ Epoch:46,Loss:0.271800
+ Epoch:46,Loss:0.292138
+ Epoch:46,Loss:0.297989
+ Epoch:46,Loss:0.289362
+ Epoch:46,Loss:0.284798
+ Epoch:46,Loss:0.279865
+ Epoch:46,Loss:0.282226
+MSE_loss = 0.674557
+R2_score = -0.223871
+ Epoch: 46 Best MSE Error: 0.648505
+ Epoch:47,Loss:0.266103
+ Epoch:47,Loss:0.286937
+ Epoch:47,Loss:0.291038
+ Epoch:47,Loss:0.285182
+ Epoch:47,Loss:0.283750
+ Epoch:47,Loss:0.280160
+ Epoch:47,Loss:0.281701
+MSE_loss = 0.668241
+R2_score = -0.212413
+ Epoch: 47 Best MSE Error: 0.648505
+ Epoch:48,Loss:0.266497
+ Epoch:48,Loss:0.279075
+ Epoch:48,Loss:0.285048
+ Epoch:48,Loss:0.279932
+ Epoch:48,Loss:0.276900
+ Epoch:48,Loss:0.270875
+ Epoch:48,Loss:0.273606
+MSE_loss = 0.670690
+R2_score = -0.216857
+ Epoch: 48 Best MSE Error: 0.648505
+ Epoch:49,Loss:0.258478
+ Epoch:49,Loss:0.278395
+ Epoch:49,Loss:0.283939
+ Epoch:49,Loss:0.278375
+ Epoch:49,Loss:0.277944
+ Epoch:49,Loss:0.277057
+ Epoch:49,Loss:0.278162
+MSE_loss = 0.696969
+R2_score = -0.264534
+ Epoch: 49 Best MSE Error: 0.648505
+ Epoch:50,Loss:0.267362
+ Epoch:50,Loss:0.277551
+ Epoch:50,Loss:0.279564
+ Epoch:50,Loss:0.275830
+ Epoch:50,Loss:0.275365
+ Epoch:50,Loss:0.271904
+ Epoch:50,Loss:0.273897
+MSE_loss = 0.670999
+R2_score = -0.217416
+ Epoch: 50 Best MSE Error: 0.648505
+ Epoch:51,Loss:0.258328
+ Epoch:51,Loss:0.274876
+ Epoch:51,Loss:0.285510
+ Epoch:51,Loss:0.276899
+ Epoch:51,Loss:0.271317
+ Epoch:51,Loss:0.265958
+ Epoch:51,Loss:0.267866
+MSE_loss = 0.671793
+R2_score = -0.218857
+ Epoch: 51 Best MSE Error: 0.648505
+ Epoch:52,Loss:0.259010
+ Epoch:52,Loss:0.270420
+ Epoch:52,Loss:0.273802
+ Epoch:52,Loss:0.268463
+ Epoch:52,Loss:0.264027
+ Epoch:52,Loss:0.259790
+ Epoch:52,Loss:0.262747
+MSE_loss = 0.668227
+R2_score = -0.212387
+ Epoch: 52 Best MSE Error: 0.648505
+ Epoch:53,Loss:0.248068
+ Epoch:53,Loss:0.267144
+ Epoch:53,Loss:0.270371
+ Epoch:53,Loss:0.266661
+ Epoch:53,Loss:0.262117
+ Epoch:53,Loss:0.257935
+ Epoch:53,Loss:0.261306
+MSE_loss = 0.667794
+R2_score = -0.211601
+ Epoch: 53 Best MSE Error: 0.648505
+ Epoch:54,Loss:0.249036
+ Epoch:54,Loss:0.264257
+ Epoch:54,Loss:0.267236
+ Epoch:54,Loss:0.266171
+ Epoch:54,Loss:0.259306
+ Epoch:54,Loss:0.255952
+ Epoch:54,Loss:0.259098
+MSE_loss = 0.666842
+R2_score = -0.209874
+ Epoch: 54 Best MSE Error: 0.648505
+ Epoch:55,Loss:0.239524
+ Epoch:55,Loss:0.258753
+ Epoch:55,Loss:0.261424
+ Epoch:55,Loss:0.257867
+ Epoch:55,Loss:0.255962
+ Epoch:55,Loss:0.253195
+ Epoch:55,Loss:0.256784
+MSE_loss = 0.694196
+R2_score = -0.259503
+ Epoch: 55 Best MSE Error: 0.648505
+ Epoch:56,Loss:0.240041
+ Epoch:56,Loss:0.254712
+ Epoch:56,Loss:0.261069
+ Epoch:56,Loss:0.257252
+ Epoch:56,Loss:0.255965
+ Epoch:56,Loss:0.251988
+ Epoch:56,Loss:0.254532
+MSE_loss = 0.710074
+R2_score = -0.288312
+ Epoch: 56 Best MSE Error: 0.648505
+ Epoch:57,Loss:0.242657
+ Epoch:57,Loss:0.256076
+ Epoch:57,Loss:0.261409
+ Epoch:57,Loss:0.257941
+ Epoch:57,Loss:0.253250
+ Epoch:57,Loss:0.249566
+ Epoch:57,Loss:0.252726
+MSE_loss = 0.685526
+R2_score = -0.243774
+ Epoch: 57 Best MSE Error: 0.648505
+ Epoch:58,Loss:0.235940
+ Epoch:58,Loss:0.251976
+ Epoch:58,Loss:0.255270
+ Epoch:58,Loss:0.251413
+ Epoch:58,Loss:0.246159
+ Epoch:58,Loss:0.244131
+ Epoch:58,Loss:0.247025
+MSE_loss = 0.658200
+R2_score = -0.194194
+ Epoch: 58 Best MSE Error: 0.648505
+ Epoch:59,Loss:0.234650
+ Epoch:59,Loss:0.249577
+ Epoch:59,Loss:0.255287
+ Epoch:59,Loss:0.251849
+ Epoch:59,Loss:0.244754
+ Epoch:59,Loss:0.241536
+ Epoch:59,Loss:0.245311
+MSE_loss = 0.677385
+R2_score = -0.229003
+ Epoch: 59 Best MSE Error: 0.648505
+ Epoch:60,Loss:0.232980
+ Epoch:60,Loss:0.245462
+ Epoch:60,Loss:0.249781
+ Epoch:60,Loss:0.247363
+ Epoch:60,Loss:0.243270
+ Epoch:60,Loss:0.239556
+ Epoch:60,Loss:0.244121
+MSE_loss = 0.688021
+R2_score = -0.248299
+ Epoch: 60 Best MSE Error: 0.648505
+ Epoch:61,Loss:0.233247
+ Epoch:61,Loss:0.248759
+ Epoch:61,Loss:0.252489
+ Epoch:61,Loss:0.247223
+ Epoch:61,Loss:0.241045
+ Epoch:61,Loss:0.238155
+ Epoch:61,Loss:0.243832
+MSE_loss = 0.675309
+R2_score = -0.225236
+ Epoch: 61 Best MSE Error: 0.648505
+ Epoch:62,Loss:0.230870
+ Epoch:62,Loss:0.246252
+ Epoch:62,Loss:0.252306
+ Epoch:62,Loss:0.246155
+ Epoch:62,Loss:0.241610
+ Epoch:62,Loss:0.239272
+ Epoch:62,Loss:0.242342
+MSE_loss = 0.711996
+R2_score = -0.291798
+ Epoch: 62 Best MSE Error: 0.648505
+ Epoch:63,Loss:0.225720
+ Epoch:63,Loss:0.232717
+ Epoch:63,Loss:0.238901
+ Epoch:63,Loss:0.235977
+ Epoch:63,Loss:0.232898
+ Epoch:63,Loss:0.230352
+ Epoch:63,Loss:0.234059
+MSE_loss = 0.677519
+R2_score = -0.229246
+ Epoch: 63 Best MSE Error: 0.648505
+ Epoch:64,Loss:0.224609
+ Epoch:64,Loss:0.231313
+ Epoch:64,Loss:0.241660
+ Epoch:64,Loss:0.237009
+ Epoch:64,Loss:0.232572
+ Epoch:64,Loss:0.229715
+ Epoch:64,Loss:0.233366
+MSE_loss = 0.686534
+R2_score = -0.245603
+ Epoch: 64 Best MSE Error: 0.648505
+ Epoch:65,Loss:0.223815
+ Epoch:65,Loss:0.228298
+ Epoch:65,Loss:0.236785
+ Epoch:65,Loss:0.233361
+ Epoch:65,Loss:0.229916
+ Epoch:65,Loss:0.227446
+ Epoch:65,Loss:0.230906
+MSE_loss = 0.679871
+R2_score = -0.233513
+ Epoch: 65 Best MSE Error: 0.648505
+ Epoch:66,Loss:0.222809
+ Epoch:66,Loss:0.223435
+ Epoch:66,Loss:0.229890
+ Epoch:66,Loss:0.227436
+ Epoch:66,Loss:0.224513
+ Epoch:66,Loss:0.223016
+ Epoch:66,Loss:0.228133
+MSE_loss = 0.677305
+R2_score = -0.228858
+ Epoch: 66 Best MSE Error: 0.648505
+ Epoch:67,Loss:0.222792
+ Epoch:67,Loss:0.236170
+ Epoch:67,Loss:0.240187
+ Epoch:67,Loss:0.235915
+ Epoch:67,Loss:0.230035
+ Epoch:67,Loss:0.225978
+ Epoch:67,Loss:0.230359
+MSE_loss = 0.696860
+R2_score = -0.264337
+ Epoch: 67 Best MSE Error: 0.648505
+ Epoch:68,Loss:0.220811
+ Epoch:68,Loss:0.228724
+ Epoch:68,Loss:0.235909
+ Epoch:68,Loss:0.229493
+ Epoch:68,Loss:0.226799
+ Epoch:68,Loss:0.223754
+ Epoch:68,Loss:0.227354
+MSE_loss = 0.742448
+R2_score = -0.347049
+ Epoch: 68 Best MSE Error: 0.648505
+ Epoch:69,Loss:0.216264
+ Epoch:69,Loss:0.224360
+ Epoch:69,Loss:0.231371
+ Epoch:69,Loss:0.226041
+ Epoch:69,Loss:0.222593
+ Epoch:69,Loss:0.220015
+ Epoch:69,Loss:0.224271
+MSE_loss = 0.701303
+R2_score = -0.272398
+ Epoch: 69 Best MSE Error: 0.648505
+ Epoch:70,Loss:0.218793
+ Epoch:70,Loss:0.220513
+ Epoch:70,Loss:0.226997
+ Epoch:70,Loss:0.223802
+ Epoch:70,Loss:0.219857
+ Epoch:70,Loss:0.217668
+ Epoch:70,Loss:0.221585
+MSE_loss = 0.688162
+R2_score = -0.248556
+ Epoch: 70 Best MSE Error: 0.648505
+ Epoch:71,Loss:0.210317
+ Epoch:71,Loss:0.213563
+ Epoch:71,Loss:0.219508
+ Epoch:71,Loss:0.219161
+ Epoch:71,Loss:0.216872
+ Epoch:71,Loss:0.215769
+ Epoch:71,Loss:0.220260
+MSE_loss = 0.680408
+R2_score = -0.234488
+ Epoch: 71 Best MSE Error: 0.648505
+ Epoch:72,Loss:0.213651
+ Epoch:72,Loss:0.217036
+ Epoch:72,Loss:0.224222
+ Epoch:72,Loss:0.219948
+ Epoch:72,Loss:0.215039
+ Epoch:72,Loss:0.212291
+ Epoch:72,Loss:0.217585
+MSE_loss = 0.691125
+R2_score = -0.253932
+ Epoch: 72 Best MSE Error: 0.648505
+ Epoch:73,Loss:0.210635
+ Epoch:73,Loss:0.221508
+ Epoch:73,Loss:0.226749
+ Epoch:73,Loss:0.222484
+ Epoch:73,Loss:0.217812
+ Epoch:73,Loss:0.214890
+ Epoch:73,Loss:0.218697
+MSE_loss = 0.704515
+R2_score = -0.278226
+ Epoch: 73 Best MSE Error: 0.648505
+ Epoch:74,Loss:0.214734
+ Epoch:74,Loss:0.215366
+ Epoch:74,Loss:0.220682
+ Epoch:74,Loss:0.216469
+ Epoch:74,Loss:0.213265
+ Epoch:74,Loss:0.210444
+ Epoch:74,Loss:0.215079
+MSE_loss = 0.719496
+R2_score = -0.305407
+ Epoch: 74 Best MSE Error: 0.648505
+ Epoch:75,Loss:0.204531
+ Epoch:75,Loss:0.208966
+ Epoch:75,Loss:0.216330
+ Epoch:75,Loss:0.213344
+ Epoch:75,Loss:0.209542
+ Epoch:75,Loss:0.207244
+ Epoch:75,Loss:0.212334
+MSE_loss = 0.713656
+R2_score = -0.294810
+ Epoch: 75 Best MSE Error: 0.648505
+ Epoch:76,Loss:0.202561
+ Epoch:76,Loss:0.207435
+ Epoch:76,Loss:0.215923
+ Epoch:76,Loss:0.212024
+ Epoch:76,Loss:0.209408
+ Epoch:76,Loss:0.207355
+ Epoch:76,Loss:0.211843
+MSE_loss = 0.734086
+R2_score = -0.331877
+ Epoch: 76 Best MSE Error: 0.648505
+ Epoch:77,Loss:0.209731
+ Epoch:77,Loss:0.214443
+ Epoch:77,Loss:0.218345
+ Epoch:77,Loss:0.212699
+ Epoch:77,Loss:0.208370
+ Epoch:77,Loss:0.205684
+ Epoch:77,Loss:0.210190
+MSE_loss = 0.680924
+R2_score = -0.235424
+ Epoch: 77 Best MSE Error: 0.648505
+ Epoch:78,Loss:0.201358
+ Epoch:78,Loss:0.205956
+ Epoch:78,Loss:0.211236
+ Epoch:78,Loss:0.205810
+ Epoch:78,Loss:0.203752
+ Epoch:78,Loss:0.201578
+ Epoch:78,Loss:0.207189
+MSE_loss = 0.692734
+R2_score = -0.256850
+ Epoch: 78 Best MSE Error: 0.648505
+ Epoch:79,Loss:0.192379
+ Epoch:79,Loss:0.202539
+ Epoch:79,Loss:0.207936
+ Epoch:79,Loss:0.204789
+ Epoch:79,Loss:0.201030
+ Epoch:79,Loss:0.199159
+ Epoch:79,Loss:0.203829
+MSE_loss = 0.707828
+R2_score = -0.284236
+ Epoch: 79 Best MSE Error: 0.648505
+ Epoch:80,Loss:0.199656
+ Epoch:80,Loss:0.201971
+ Epoch:80,Loss:0.206828
+ Epoch:80,Loss:0.202233
+ Epoch:80,Loss:0.201338
+ Epoch:80,Loss:0.199029
+ Epoch:80,Loss:0.203497
+MSE_loss = 0.695967
+R2_score = -0.262716
+ Epoch: 80 Best MSE Error: 0.648505
+ Epoch:81,Loss:0.196728
+ Epoch:81,Loss:0.201019
+ Epoch:81,Loss:0.207926
+ Epoch:81,Loss:0.203838
+ Epoch:81,Loss:0.199694
+ Epoch:81,Loss:0.197320
+ Epoch:81,Loss:0.202490
+MSE_loss = 0.723104
+R2_score = -0.311952
+ Epoch: 81 Best MSE Error: 0.648505
+ Epoch:82,Loss:0.198610
+ Epoch:82,Loss:0.203489
+ Epoch:82,Loss:0.212547
+ Epoch:82,Loss:0.206532
+ Epoch:82,Loss:0.202786
+ Epoch:82,Loss:0.199269
+ Epoch:82,Loss:0.202663
+MSE_loss = 0.728685
+R2_score = -0.322077
+ Epoch: 82 Best MSE Error: 0.648505
+ Epoch:83,Loss:0.193724
+ Epoch:83,Loss:0.197719
+ Epoch:83,Loss:0.206648
+ Epoch:83,Loss:0.204141
+ Epoch:83,Loss:0.199635
+ Epoch:83,Loss:0.196490
+ Epoch:83,Loss:0.200227
+MSE_loss = 0.697270
+R2_score = -0.265080
+ Epoch: 83 Best MSE Error: 0.648505
+ Epoch:84,Loss:0.194850
+ Epoch:84,Loss:0.195701
+ Epoch:84,Loss:0.202331
+ Epoch:84,Loss:0.199080
+ Epoch:84,Loss:0.195555
+ Epoch:84,Loss:0.193319
+ Epoch:84,Loss:0.197529
+MSE_loss = 0.719294
+R2_score = -0.305039
+ Epoch: 84 Best MSE Error: 0.648505
+ Epoch:85,Loss:0.186862
+ Epoch:85,Loss:0.193208
+ Epoch:85,Loss:0.204086
+ Epoch:85,Loss:0.199582
+ Epoch:85,Loss:0.197647
+ Epoch:85,Loss:0.194683
+ Epoch:85,Loss:0.197554
+MSE_loss = 0.719922
+R2_score = -0.306179
+ Epoch: 85 Best MSE Error: 0.648505
+ Epoch:86,Loss:0.185903
+ Epoch:86,Loss:0.191035
+ Epoch:86,Loss:0.201827
+ Epoch:86,Loss:0.200096
+ Epoch:86,Loss:0.198441
+ Epoch:86,Loss:0.195324
+ Epoch:86,Loss:0.198771
+MSE_loss = 0.702510
+R2_score = -0.274587
+ Epoch: 86 Best MSE Error: 0.648505
+ Epoch:87,Loss:0.183164
+ Epoch:87,Loss:0.188911
+ Epoch:87,Loss:0.203080
+ Epoch:87,Loss:0.201656
+ Epoch:87,Loss:0.196270
+ Epoch:87,Loss:0.193162
+ Epoch:87,Loss:0.197559
+MSE_loss = 0.708271
+R2_score = -0.285040
+ Epoch: 87 Best MSE Error: 0.648505
+ Epoch:88,Loss:0.185577
+ Epoch:88,Loss:0.191857
+ Epoch:88,Loss:0.200129
+ Epoch:88,Loss:0.196440
+ Epoch:88,Loss:0.192269
+ Epoch:88,Loss:0.190288
+ Epoch:88,Loss:0.194923
+MSE_loss = 0.721003
+R2_score = -0.308140
+ Epoch: 88 Best MSE Error: 0.648505
+ Epoch:89,Loss:0.180577
+ Epoch:89,Loss:0.187100
+ Epoch:89,Loss:0.197400
+ Epoch:89,Loss:0.193730
+ Epoch:89,Loss:0.190797
+ Epoch:89,Loss:0.188690
+ Epoch:89,Loss:0.192971
+MSE_loss = 0.712945
+R2_score = -0.293521
+ Epoch: 89 Best MSE Error: 0.648505
+ Epoch:90,Loss:0.178283
+ Epoch:90,Loss:0.185982
+ Epoch:90,Loss:0.193905
+ Epoch:90,Loss:0.191128
+ Epoch:90,Loss:0.188678
+ Epoch:90,Loss:0.185897
+ Epoch:90,Loss:0.190456
+MSE_loss = 0.713381
+R2_score = -0.294311
+ Epoch: 90 Best MSE Error: 0.648505
+ Epoch:91,Loss:0.173536
+ Epoch:91,Loss:0.184520
+ Epoch:91,Loss:0.193748
+ Epoch:91,Loss:0.190820
+ Epoch:91,Loss:0.189434
+ Epoch:91,Loss:0.186586
+ Epoch:91,Loss:0.190958
+MSE_loss = 0.696816
+R2_score = -0.264256
+ Epoch: 91 Best MSE Error: 0.648505
+ Epoch:92,Loss:0.168958
+ Epoch:92,Loss:0.179745
+ Epoch:92,Loss:0.189269
+ Epoch:92,Loss:0.187608
+ Epoch:92,Loss:0.185276
+ Epoch:92,Loss:0.184333
+ Epoch:92,Loss:0.188365
+MSE_loss = 0.710958
+R2_score = -0.289916
+ Epoch: 92 Best MSE Error: 0.648505
+ Epoch:93,Loss:0.171183
+ Epoch:93,Loss:0.182893
+ Epoch:93,Loss:0.191508
+ Epoch:93,Loss:0.186972
+ Epoch:93,Loss:0.185447
+ Epoch:93,Loss:0.184136
+ Epoch:93,Loss:0.190500
+MSE_loss = 0.714967
+R2_score = -0.297188
+ Epoch: 93 Best MSE Error: 0.648505
+ Epoch:94,Loss:0.171283
+ Epoch:94,Loss:0.179620
+ Epoch:94,Loss:0.188017
+ Epoch:94,Loss:0.183870
+ Epoch:94,Loss:0.182671
+ Epoch:94,Loss:0.180672
+ Epoch:94,Loss:0.186070
+MSE_loss = 0.724735
+R2_score = -0.314912
+ Epoch: 94 Best MSE Error: 0.648505
+ Epoch:95,Loss:0.168643
+ Epoch:95,Loss:0.178656
+ Epoch:95,Loss:0.187894
+ Epoch:95,Loss:0.187058
+ Epoch:95,Loss:0.184241
+ Epoch:95,Loss:0.182373
+ Epoch:95,Loss:0.186268
+MSE_loss = 0.725458
+R2_score = -0.316223
+ Epoch: 95 Best MSE Error: 0.648505
+ Epoch:96,Loss:0.170221
+ Epoch:96,Loss:0.184027
+ Epoch:96,Loss:0.191259
+ Epoch:96,Loss:0.187540
+ Epoch:96,Loss:0.183111
+ Epoch:96,Loss:0.179807
+ Epoch:96,Loss:0.184215
+MSE_loss = 0.751441
+R2_score = -0.363365
+ Epoch: 96 Best MSE Error: 0.648505
+ Epoch:97,Loss:0.170223
+ Epoch:97,Loss:0.178680
+ Epoch:97,Loss:0.188105
+ Epoch:97,Loss:0.183888
+ Epoch:97,Loss:0.179982
+ Epoch:97,Loss:0.176752
+ Epoch:97,Loss:0.181715
+MSE_loss = 0.728073
+R2_score = -0.320967
+ Epoch: 97 Best MSE Error: 0.648505
+ Epoch:98,Loss:0.165347
+ Epoch:98,Loss:0.177505
+ Epoch:98,Loss:0.185028
+ Epoch:98,Loss:0.182458
+ Epoch:98,Loss:0.178727
+ Epoch:98,Loss:0.176416
+ Epoch:98,Loss:0.181818
+MSE_loss = 0.735594
+R2_score = -0.334612
+ Epoch: 98 Best MSE Error: 0.648505
+ Epoch:99,Loss:0.165478
+ Epoch:99,Loss:0.177946
+ Epoch:99,Loss:0.184568
+ Epoch:99,Loss:0.181394
+ Epoch:99,Loss:0.178827
+ Epoch:99,Loss:0.176590
+ Epoch:99,Loss:0.180675
+MSE_loss = 0.741000
+R2_score = -0.344422
+ Epoch: 99 Best MSE Error: 0.648505
+ Epoch:100,Loss:0.165229
+ Epoch:100,Loss:0.172847
+ Epoch:100,Loss:0.182846
+ Epoch:100,Loss:0.180534
+ Epoch:100,Loss:0.176534
+ Epoch:100,Loss:0.174326
+ Epoch:100,Loss:0.179201
+MSE_loss = 0.730872
+R2_score = -0.326047
+ Epoch: 100 Best MSE Error: 0.648505
+ Epoch:101,Loss:0.163903
+ Epoch:101,Loss:0.176056
+ Epoch:101,Loss:0.183458
+ Epoch:101,Loss:0.180142
+ Epoch:101,Loss:0.177181
+ Epoch:101,Loss:0.174511
+ Epoch:101,Loss:0.179035
+MSE_loss = 0.746292
+R2_score = -0.354023
+ Epoch: 101 Best MSE Error: 0.648505
+ Epoch:102,Loss:0.159809
+ Epoch:102,Loss:0.175519
+ Epoch:102,Loss:0.184748
+ Epoch:102,Loss:0.179903
+ Epoch:102,Loss:0.175392
+ Epoch:102,Loss:0.173032
+ Epoch:102,Loss:0.176921
+MSE_loss = 0.722995
+R2_score = -0.311755
+ Epoch: 102 Best MSE Error: 0.648505
+ Epoch:103,Loss:0.162234
+ Epoch:103,Loss:0.170725
+ Epoch:103,Loss:0.178857
+ Epoch:103,Loss:0.177115
+ Epoch:103,Loss:0.173758
+ Epoch:103,Loss:0.171801
+ Epoch:103,Loss:0.176886
+MSE_loss = 0.737535
+R2_score = -0.338135
+ Epoch: 103 Best MSE Error: 0.648505
+ Epoch:104,Loss:0.159284
+ Epoch:104,Loss:0.172078
+ Epoch:104,Loss:0.177471
+ Epoch:104,Loss:0.175064
+ Epoch:104,Loss:0.171881
+ Epoch:104,Loss:0.170139
+ Epoch:104,Loss:0.174439
+MSE_loss = 0.739424
+R2_score = -0.341562
+ Epoch: 104 Best MSE Error: 0.648505
+ Epoch:105,Loss:0.158506
+ Epoch:105,Loss:0.173454
+ Epoch:105,Loss:0.178694
+ Epoch:105,Loss:0.176051
+ Epoch:105,Loss:0.172318
+ Epoch:105,Loss:0.169705
+ Epoch:105,Loss:0.174751
+MSE_loss = 0.738678
+R2_score = -0.340208
+ Epoch: 105 Best MSE Error: 0.648505
+ Epoch:106,Loss:0.156685
+ Epoch:106,Loss:0.167491
+ Epoch:106,Loss:0.174691
+ Epoch:106,Loss:0.175051
+ Epoch:106,Loss:0.172382
+ Epoch:106,Loss:0.169272
+ Epoch:106,Loss:0.174760
+MSE_loss = 0.737152
+R2_score = -0.337440
+ Epoch: 106 Best MSE Error: 0.648505
+ Epoch:107,Loss:0.155182
+ Epoch:107,Loss:0.164426
+ Epoch:107,Loss:0.173530
+ Epoch:107,Loss:0.171057
+ Epoch:107,Loss:0.167409
+ Epoch:107,Loss:0.165324
+ Epoch:107,Loss:0.170371
+MSE_loss = 0.758825
+R2_score = -0.376762
+ Epoch: 107 Best MSE Error: 0.648505
+ Epoch:108,Loss:0.155453
+ Epoch:108,Loss:0.169842
+ Epoch:108,Loss:0.177572
+ Epoch:108,Loss:0.174112
+ Epoch:108,Loss:0.171043
+ Epoch:108,Loss:0.167862
+ Epoch:108,Loss:0.171498
+MSE_loss = 0.754348
+R2_score = -0.368639
+ Epoch: 108 Best MSE Error: 0.648505
+ Epoch:109,Loss:0.158741
+ Epoch:109,Loss:0.171458
+ Epoch:109,Loss:0.177653
+ Epoch:109,Loss:0.172227
+ Epoch:109,Loss:0.168940
+ Epoch:109,Loss:0.166535
+ Epoch:109,Loss:0.171264
+MSE_loss = 0.743716
+R2_score = -0.349349
+ Epoch: 109 Best MSE Error: 0.648505
+ Epoch:110,Loss:0.152692
+ Epoch:110,Loss:0.167008
+ Epoch:110,Loss:0.169788
+ Epoch:110,Loss:0.168553
+ Epoch:110,Loss:0.165715
+ Epoch:110,Loss:0.163287
+ Epoch:110,Loss:0.168320
+MSE_loss = 0.747770
+R2_score = -0.356704
+ Epoch: 110 Best MSE Error: 0.648505
+ Epoch:111,Loss:0.153731
+ Epoch:111,Loss:0.164002
+ Epoch:111,Loss:0.170285
+ Epoch:111,Loss:0.167338
+ Epoch:111,Loss:0.165126
+ Epoch:111,Loss:0.163274
+ Epoch:111,Loss:0.167851
+MSE_loss = 0.760242
+R2_score = -0.379334
+ Epoch: 111 Best MSE Error: 0.648505
+ Epoch:112,Loss:0.156313
+ Epoch:112,Loss:0.167630
+ Epoch:112,Loss:0.173667
+ Epoch:112,Loss:0.170818
+ Epoch:112,Loss:0.166920
+ Epoch:112,Loss:0.163835
+ Epoch:112,Loss:0.168216
+MSE_loss = 0.764938
+R2_score = -0.387853
+ Epoch: 112 Best MSE Error: 0.648505
+ Epoch:113,Loss:0.153705
+ Epoch:113,Loss:0.166321
+ Epoch:113,Loss:0.171837
+ Epoch:113,Loss:0.170652
+ Epoch:113,Loss:0.167197
+ Epoch:113,Loss:0.164437
+ Epoch:113,Loss:0.168529
+MSE_loss = 0.736267
+R2_score = -0.335835
+ Epoch: 113 Best MSE Error: 0.648505
+ Epoch:114,Loss:0.150995
+ Epoch:114,Loss:0.161972
+ Epoch:114,Loss:0.167539
+ Epoch:114,Loss:0.164665
+ Epoch:114,Loss:0.162389
+ Epoch:114,Loss:0.160758
+ Epoch:114,Loss:0.166470
+MSE_loss = 0.735385
+R2_score = -0.334233
+ Epoch: 114 Best MSE Error: 0.648505
+ Epoch:115,Loss:0.149493
+ Epoch:115,Loss:0.163729
+ Epoch:115,Loss:0.168087
+ Epoch:115,Loss:0.164554
+ Epoch:115,Loss:0.161213
+ Epoch:115,Loss:0.159621
+ Epoch:115,Loss:0.164869
+MSE_loss = 0.739981
+R2_score = -0.342573
+ Epoch: 115 Best MSE Error: 0.648505
+ Epoch:116,Loss:0.151611
+ Epoch:116,Loss:0.165001
+ Epoch:116,Loss:0.167242
+ Epoch:116,Loss:0.165304
+ Epoch:116,Loss:0.162528
+ Epoch:116,Loss:0.160131
+ Epoch:116,Loss:0.164405
+MSE_loss = 0.737784
+R2_score = -0.338588
+ Epoch: 116 Best MSE Error: 0.648505
+ Epoch:117,Loss:0.145471
+ Epoch:117,Loss:0.158256
+ Epoch:117,Loss:0.163569
+ Epoch:117,Loss:0.162514
+ Epoch:117,Loss:0.159299
+ Epoch:117,Loss:0.158076
+ Epoch:117,Loss:0.163088
+MSE_loss = 0.751649
+R2_score = -0.363742
+ Epoch: 117 Best MSE Error: 0.648505
+ Epoch:118,Loss:0.147328
+ Epoch:118,Loss:0.157216
+ Epoch:118,Loss:0.161238
+ Epoch:118,Loss:0.160037
+ Epoch:118,Loss:0.158407
+ Epoch:118,Loss:0.156760
+ Epoch:118,Loss:0.162703
+MSE_loss = 0.765219
+R2_score = -0.388364
+ Epoch: 118 Best MSE Error: 0.648505
+ Epoch:119,Loss:0.147055
+ Epoch:119,Loss:0.159531
+ Epoch:119,Loss:0.163804
+ Epoch:119,Loss:0.160792
+ Epoch:119,Loss:0.157504
+ Epoch:119,Loss:0.154875
+ Epoch:119,Loss:0.159591
+MSE_loss = 0.757352
+R2_score = -0.374090
+ Epoch: 119 Best MSE Error: 0.648505
+ Epoch:120,Loss:0.144045
+ Epoch:120,Loss:0.156037
+ Epoch:120,Loss:0.160847
+ Epoch:120,Loss:0.159022
+ Epoch:120,Loss:0.156975
+ Epoch:120,Loss:0.154897
+ Epoch:120,Loss:0.160271
+MSE_loss = 0.748827
+R2_score = -0.358622
+ Epoch: 120 Best MSE Error: 0.648505
+ Epoch:121,Loss:0.148957
+ Epoch:121,Loss:0.161245
+ Epoch:121,Loss:0.165243
+ Epoch:121,Loss:0.161826
+ Epoch:121,Loss:0.158866
+ Epoch:121,Loss:0.156067
+ Epoch:121,Loss:0.160154
+MSE_loss = 0.751325
+R2_score = -0.363155
+ Epoch: 121 Best MSE Error: 0.648505
+ Epoch:122,Loss:0.143775
+ Epoch:122,Loss:0.156275
+ Epoch:122,Loss:0.162816
+ Epoch:122,Loss:0.160312
+ Epoch:122,Loss:0.157185
+ Epoch:122,Loss:0.155142
+ Epoch:122,Loss:0.160217
+MSE_loss = 0.742087
+R2_score = -0.346393
+ Epoch: 122 Best MSE Error: 0.648505
+ Epoch:123,Loss:0.153308
+ Epoch:123,Loss:0.159139
+ Epoch:123,Loss:0.162798
+ Epoch:123,Loss:0.158343
+ Epoch:123,Loss:0.155274
+ Epoch:123,Loss:0.152863
+ Epoch:123,Loss:0.158528
+MSE_loss = 0.759572
+R2_score = -0.378117
+ Epoch: 123 Best MSE Error: 0.648505
+ Epoch:124,Loss:0.142341
+ Epoch:124,Loss:0.157682
+ Epoch:124,Loss:0.164603
+ Epoch:124,Loss:0.163283
+ Epoch:124,Loss:0.159059
+ Epoch:124,Loss:0.156355
+ Epoch:124,Loss:0.160614
+MSE_loss = 0.773220
+R2_score = -0.402879
+ Epoch: 124 Best MSE Error: 0.648505
+ Epoch:125,Loss:0.143586
+ Epoch:125,Loss:0.154739
+ Epoch:125,Loss:0.157896
+ Epoch:125,Loss:0.155045
+ Epoch:125,Loss:0.153445
+ Epoch:125,Loss:0.151621
+ Epoch:125,Loss:0.156412
+MSE_loss = 0.729229
+R2_score = -0.323066
+ Epoch: 125 Best MSE Error: 0.648505
+ Epoch:126,Loss:0.136766
+ Epoch:126,Loss:0.152952
+ Epoch:126,Loss:0.157223
+ Epoch:126,Loss:0.154209
+ Epoch:126,Loss:0.152191
+ Epoch:126,Loss:0.149996
+ Epoch:126,Loss:0.154727
+MSE_loss = 0.732784
+R2_score = -0.329515
+ Epoch: 126 Best MSE Error: 0.648505
+ Epoch:127,Loss:0.139840
+ Epoch:127,Loss:0.153194
+ Epoch:127,Loss:0.157396
+ Epoch:127,Loss:0.153380
+ Epoch:127,Loss:0.151010
+ Epoch:127,Loss:0.149436
+ Epoch:127,Loss:0.154304
+MSE_loss = 0.743873
+R2_score = -0.349634
+ Epoch: 127 Best MSE Error: 0.648505
+ Epoch:128,Loss:0.142793
+ Epoch:128,Loss:0.151624
+ Epoch:128,Loss:0.156172
+ Epoch:128,Loss:0.152788
+ Epoch:128,Loss:0.150083
+ Epoch:128,Loss:0.148353
+ Epoch:128,Loss:0.153417
+MSE_loss = 0.779718
+R2_score = -0.414668
+ Epoch: 128 Best MSE Error: 0.648505
+ Epoch:129,Loss:0.138707
+ Epoch:129,Loss:0.152171
+ Epoch:129,Loss:0.157827
+ Epoch:129,Loss:0.155291
+ Epoch:129,Loss:0.152228
+ Epoch:129,Loss:0.149791
+ Epoch:129,Loss:0.154312
+MSE_loss = 0.696740
+R2_score = -0.264118
+ Epoch: 129 Best MSE Error: 0.648505
+ Epoch:130,Loss:0.137119
+ Epoch:130,Loss:0.149265
+ Epoch:130,Loss:0.152817
+ Epoch:130,Loss:0.151888
+ Epoch:130,Loss:0.150262
+ Epoch:130,Loss:0.148476
+ Epoch:130,Loss:0.153164
+MSE_loss = 0.739661
+R2_score = -0.341991
+ Epoch: 130 Best MSE Error: 0.648505
+ Epoch:131,Loss:0.127795
+ Epoch:131,Loss:0.146207
+ Epoch:131,Loss:0.151979
+ Epoch:131,Loss:0.149759
+ Epoch:131,Loss:0.146737
+ Epoch:131,Loss:0.145392
+ Epoch:131,Loss:0.150888
+MSE_loss = 0.730763
+R2_score = -0.325847
+ Epoch: 131 Best MSE Error: 0.648505
+ Epoch:132,Loss:0.130226
+ Epoch:132,Loss:0.145136
+ Epoch:132,Loss:0.150887
+ Epoch:132,Loss:0.149562
+ Epoch:132,Loss:0.147380
+ Epoch:132,Loss:0.146488
+ Epoch:132,Loss:0.151447
+MSE_loss = 0.757419
+R2_score = -0.374210
+ Epoch: 132 Best MSE Error: 0.648505
+ Epoch:133,Loss:0.130809
+ Epoch:133,Loss:0.145429
+ Epoch:133,Loss:0.152445
+ Epoch:133,Loss:0.149437
+ Epoch:133,Loss:0.147982
+ Epoch:133,Loss:0.147337
+ Epoch:133,Loss:0.152178
+MSE_loss = 0.779169
+R2_score = -0.413672
+ Epoch: 133 Best MSE Error: 0.648505
+ Epoch:134,Loss:0.132792
+ Epoch:134,Loss:0.146328
+ Epoch:134,Loss:0.152457
+ Epoch:134,Loss:0.149156
+ Epoch:134,Loss:0.146898
+ Epoch:134,Loss:0.145230
+ Epoch:134,Loss:0.149897
+MSE_loss = 0.776972
+R2_score = -0.409687
+ Epoch: 134 Best MSE Error: 0.648505
+ Epoch:135,Loss:0.142053
+ Epoch:135,Loss:0.148907
+ Epoch:135,Loss:0.152741
+ Epoch:135,Loss:0.150468
+ Epoch:135,Loss:0.147041
+ Epoch:135,Loss:0.145652
+ Epoch:135,Loss:0.149940
+MSE_loss = 0.730825
+R2_score = -0.325960
+ Epoch: 135 Best MSE Error: 0.648505
+ Epoch:136,Loss:0.128620
+ Epoch:136,Loss:0.143371
+ Epoch:136,Loss:0.150169
+ Epoch:136,Loss:0.147139
+ Epoch:136,Loss:0.144834
+ Epoch:136,Loss:0.142733
+ Epoch:136,Loss:0.148431
+MSE_loss = 0.753859
+R2_score = -0.367752
+ Epoch: 136 Best MSE Error: 0.648505
+ Epoch:137,Loss:0.139414
+ Epoch:137,Loss:0.148420
+ Epoch:137,Loss:0.151791
+ Epoch:137,Loss:0.146986
+ Epoch:137,Loss:0.144082
+ Epoch:137,Loss:0.142185
+ Epoch:137,Loss:0.146513
+MSE_loss = 0.761451
+R2_score = -0.381527
+ Epoch: 137 Best MSE Error: 0.648505
+ Epoch:138,Loss:0.125656
+ Epoch:138,Loss:0.142399
+ Epoch:138,Loss:0.150024
+ Epoch:138,Loss:0.146750
+ Epoch:138,Loss:0.145588
+ Epoch:138,Loss:0.144185
+ Epoch:138,Loss:0.148783
+MSE_loss = 0.748661
+R2_score = -0.358321
+ Epoch: 138 Best MSE Error: 0.648505
+ Epoch:139,Loss:0.132171
+ Epoch:139,Loss:0.143717
+ Epoch:139,Loss:0.148455
+ Epoch:139,Loss:0.146534
+ Epoch:139,Loss:0.145127
+ Epoch:139,Loss:0.144226
+ Epoch:139,Loss:0.148174
+MSE_loss = 0.736597
+R2_score = -0.336433
+ Epoch: 139 Best MSE Error: 0.648505
+ Epoch:140,Loss:0.127726
+ Epoch:140,Loss:0.142732
+ Epoch:140,Loss:0.146968
+ Epoch:140,Loss:0.142513
+ Epoch:140,Loss:0.141108
+ Epoch:140,Loss:0.139601
+ Epoch:140,Loss:0.144887
+MSE_loss = 0.730947
+R2_score = -0.326182
+ Epoch: 140 Best MSE Error: 0.648505
+ Epoch:141,Loss:0.126800
+ Epoch:141,Loss:0.142700
+ Epoch:141,Loss:0.147224
+ Epoch:141,Loss:0.144798
+ Epoch:141,Loss:0.141878
+ Epoch:141,Loss:0.139970
+ Epoch:141,Loss:0.144851
+MSE_loss = 0.743023
+R2_score = -0.348092
+ Epoch: 141 Best MSE Error: 0.648505
+ Epoch:142,Loss:0.123710
+ Epoch:142,Loss:0.141885
+ Epoch:142,Loss:0.145855
+ Epoch:142,Loss:0.143382
+ Epoch:142,Loss:0.142175
+ Epoch:142,Loss:0.140562
+ Epoch:142,Loss:0.144352
+MSE_loss = 0.759337
+R2_score = -0.377690
+ Epoch: 142 Best MSE Error: 0.648505
+ Epoch:143,Loss:0.132062
+ Epoch:143,Loss:0.141981
+ Epoch:143,Loss:0.144933
+ Epoch:143,Loss:0.140145
+ Epoch:143,Loss:0.138673
+ Epoch:143,Loss:0.137753
+ Epoch:143,Loss:0.142516
+MSE_loss = 0.754290
+R2_score = -0.368534
+ Epoch: 143 Best MSE Error: 0.648505
+ Epoch:144,Loss:0.123007
+ Epoch:144,Loss:0.140678
+ Epoch:144,Loss:0.143354
+ Epoch:144,Loss:0.141293
+ Epoch:144,Loss:0.138878
+ Epoch:144,Loss:0.137209
+ Epoch:144,Loss:0.141567
+MSE_loss = 0.738473
+R2_score = -0.339837
+ Epoch: 144 Best MSE Error: 0.648505
+ Epoch:145,Loss:0.120411
+ Epoch:145,Loss:0.136965
+ Epoch:145,Loss:0.141020
+ Epoch:145,Loss:0.137974
+ Epoch:145,Loss:0.136675
+ Epoch:145,Loss:0.135794
+ Epoch:145,Loss:0.140197
+MSE_loss = 0.768406
+R2_score = -0.394145
+ Epoch: 145 Best MSE Error: 0.648505
+ Epoch:146,Loss:0.123550
+ Epoch:146,Loss:0.137910
+ Epoch:146,Loss:0.143474
+ Epoch:146,Loss:0.139247
+ Epoch:146,Loss:0.137151
+ Epoch:146,Loss:0.135704
+ Epoch:146,Loss:0.140646
+MSE_loss = 0.750046
+R2_score = -0.360834
+ Epoch: 146 Best MSE Error: 0.648505
+ Epoch:147,Loss:0.121521
+ Epoch:147,Loss:0.137528
+ Epoch:147,Loss:0.141857
+ Epoch:147,Loss:0.139463
+ Epoch:147,Loss:0.136851
+ Epoch:147,Loss:0.136252
+ Epoch:147,Loss:0.140757
+MSE_loss = 0.753327
+R2_score = -0.366787
+ Epoch: 147 Best MSE Error: 0.648505
+ Epoch:148,Loss:0.128199
+ Epoch:148,Loss:0.140249
+ Epoch:148,Loss:0.144392
+ Epoch:148,Loss:0.140967
+ Epoch:148,Loss:0.138893
+ Epoch:148,Loss:0.136281
+ Epoch:148,Loss:0.141646
+MSE_loss = 0.779954
+R2_score = -0.415097
+ Epoch: 148 Best MSE Error: 0.648505
+ Epoch:149,Loss:0.123956
+ Epoch:149,Loss:0.140454
+ Epoch:149,Loss:0.144377
+ Epoch:149,Loss:0.140097
+ Epoch:149,Loss:0.137741
+ Epoch:149,Loss:0.135445
+ Epoch:149,Loss:0.140295
+MSE_loss = 0.757568
+R2_score = -0.374481
+ Epoch: 149 Best MSE Error: 0.648505
+ Epoch:150,Loss:0.127422
+ Epoch:150,Loss:0.140353
+ Epoch:150,Loss:0.146544
+ Epoch:150,Loss:0.142034
+ Epoch:150,Loss:0.140843
+ Epoch:150,Loss:0.139303
+ Epoch:150,Loss:0.143753
+MSE_loss = 0.713127
+R2_score = -0.293851
+ Epoch: 150 Best MSE Error: 0.648505
+ Epoch:151,Loss:0.122259
+ Epoch:151,Loss:0.136900
+ Epoch:151,Loss:0.142809
+ Epoch:151,Loss:0.139642
+ Epoch:151,Loss:0.138072
+ Epoch:151,Loss:0.136673
+ Epoch:151,Loss:0.140814
+MSE_loss = 0.747637
+R2_score = -0.356463
+ Epoch: 151 Best MSE Error: 0.648505
+ Epoch:152,Loss:0.121939
+ Epoch:152,Loss:0.135721
+ Epoch:152,Loss:0.140320
+ Epoch:152,Loss:0.136895
+ Epoch:152,Loss:0.133984
+ Epoch:152,Loss:0.132633
+ Epoch:152,Loss:0.136680
+MSE_loss = 0.767246
+R2_score = -0.392040
+ Epoch: 152 Best MSE Error: 0.648505
+ Epoch:153,Loss:0.117722
+ Epoch:153,Loss:0.134614
+ Epoch:153,Loss:0.140325
+ Epoch:153,Loss:0.137030
+ Epoch:153,Loss:0.135783
+ Epoch:153,Loss:0.133739
+ Epoch:153,Loss:0.138424
+MSE_loss = 0.766917
+R2_score = -0.391444
+ Epoch: 153 Best MSE Error: 0.648505
+ Epoch:154,Loss:0.117069
+ Epoch:154,Loss:0.133171
+ Epoch:154,Loss:0.137566
+ Epoch:154,Loss:0.135127
+ Epoch:154,Loss:0.133703
+ Epoch:154,Loss:0.132868
+ Epoch:154,Loss:0.137804
+MSE_loss = 0.749979
+R2_score = -0.360713
+ Epoch: 154 Best MSE Error: 0.648505
+ Epoch:155,Loss:0.113937
+ Epoch:155,Loss:0.130715
+ Epoch:155,Loss:0.135436
+ Epoch:155,Loss:0.135535
+ Epoch:155,Loss:0.132760
+ Epoch:155,Loss:0.132426
+ Epoch:155,Loss:0.136932
+MSE_loss = 0.737219
+R2_score = -0.337562
+ Epoch: 155 Best MSE Error: 0.648505
+ Epoch:156,Loss:0.114583
+ Epoch:156,Loss:0.131694
+ Epoch:156,Loss:0.134760
+ Epoch:156,Loss:0.131980
+ Epoch:156,Loss:0.130229
+ Epoch:156,Loss:0.129128
+ Epoch:156,Loss:0.134313
+MSE_loss = 0.770469
+R2_score = -0.397888
+ Epoch: 156 Best MSE Error: 0.648505
+ Epoch:157,Loss:0.116503
+ Epoch:157,Loss:0.131644
+ Epoch:157,Loss:0.138940
+ Epoch:157,Loss:0.133653
+ Epoch:157,Loss:0.131267
+ Epoch:157,Loss:0.129953
+ Epoch:157,Loss:0.134219
+MSE_loss = 0.770379
+R2_score = -0.397724
+ Epoch: 157 Best MSE Error: 0.648505
+ Epoch:158,Loss:0.117411
+ Epoch:158,Loss:0.133664
+ Epoch:158,Loss:0.139361
+ Epoch:158,Loss:0.134926
+ Epoch:158,Loss:0.133044
+ Epoch:158,Loss:0.132628
+ Epoch:158,Loss:0.137236
+MSE_loss = 0.762392
+R2_score = -0.383234
+ Epoch: 158 Best MSE Error: 0.648505
+ Epoch:159,Loss:0.115395
+ Epoch:159,Loss:0.131882
+ Epoch:159,Loss:0.135991
+ Epoch:159,Loss:0.132507
+ Epoch:159,Loss:0.130261
+ Epoch:159,Loss:0.128679
+ Epoch:159,Loss:0.133123
+MSE_loss = 0.748037
+R2_score = -0.357189
+ Epoch: 159 Best MSE Error: 0.648505
+ Epoch:160,Loss:0.114531
+ Epoch:160,Loss:0.131498
+ Epoch:160,Loss:0.135266
+ Epoch:160,Loss:0.133377
+ Epoch:160,Loss:0.130836
+ Epoch:160,Loss:0.130851
+ Epoch:160,Loss:0.135274
+MSE_loss = 0.726852
+R2_score = -0.318752
+ Epoch: 160 Best MSE Error: 0.648505
+ Epoch:161,Loss:0.114879
+ Epoch:161,Loss:0.130088
+ Epoch:161,Loss:0.133516
+ Epoch:161,Loss:0.130855
+ Epoch:161,Loss:0.128806
+ Epoch:161,Loss:0.126998
+ Epoch:161,Loss:0.132163
+MSE_loss = 0.732738
+R2_score = -0.329431
+ Epoch: 161 Best MSE Error: 0.648505
+ Epoch:162,Loss:0.110302
+ Epoch:162,Loss:0.130692
+ Epoch:162,Loss:0.136191
+ Epoch:162,Loss:0.132662
+ Epoch:162,Loss:0.130168
+ Epoch:162,Loss:0.128904
+ Epoch:162,Loss:0.132623
+MSE_loss = 0.741863
+R2_score = -0.345986
+ Epoch: 162 Best MSE Error: 0.648505
+ Epoch:163,Loss:0.111056
+ Epoch:163,Loss:0.126350
+ Epoch:163,Loss:0.133009
+ Epoch:163,Loss:0.129466
+ Epoch:163,Loss:0.129727
+ Epoch:163,Loss:0.128219
+ Epoch:163,Loss:0.132530
+MSE_loss = 0.756648
+R2_score = -0.372813
+ Epoch: 163 Best MSE Error: 0.648505
+ Epoch:164,Loss:0.112475
+ Epoch:164,Loss:0.127219
+ Epoch:164,Loss:0.133007
+ Epoch:164,Loss:0.129579
+ Epoch:164,Loss:0.128299
+ Epoch:164,Loss:0.126540
+ Epoch:164,Loss:0.131442
+MSE_loss = 0.742444
+R2_score = -0.347041
+ Epoch: 164 Best MSE Error: 0.648505
+ Epoch:165,Loss:0.112574
+ Epoch:165,Loss:0.126818
+ Epoch:165,Loss:0.131532
+ Epoch:165,Loss:0.128787
+ Epoch:165,Loss:0.127938
+ Epoch:165,Loss:0.126856
+ Epoch:165,Loss:0.131151
+MSE_loss = 0.745583
+R2_score = -0.352737
+ Epoch: 165 Best MSE Error: 0.648505
+ Epoch:166,Loss:0.108676
+ Epoch:166,Loss:0.125290
+ Epoch:166,Loss:0.129959
+ Epoch:166,Loss:0.127887
+ Epoch:166,Loss:0.126883
+ Epoch:166,Loss:0.125983
+ Epoch:166,Loss:0.130572
+MSE_loss = 0.758975
+R2_score = -0.377035
+ Epoch: 166 Best MSE Error: 0.648505
+ Epoch:167,Loss:0.108940
+ Epoch:167,Loss:0.125774
+ Epoch:167,Loss:0.130748
+ Epoch:167,Loss:0.127333
+ Epoch:167,Loss:0.127004
+ Epoch:167,Loss:0.124741
+ Epoch:167,Loss:0.129262
+MSE_loss = 0.743769
+R2_score = -0.349445
+ Epoch: 167 Best MSE Error: 0.648505
+ Epoch:168,Loss:0.107062
+ Epoch:168,Loss:0.126349
+ Epoch:168,Loss:0.130952
+ Epoch:168,Loss:0.128662
+ Epoch:168,Loss:0.127252
+ Epoch:168,Loss:0.127368
+ Epoch:168,Loss:0.130816
+MSE_loss = 0.792985
+R2_score = -0.438740
+ Epoch: 168 Best MSE Error: 0.648505
+ Epoch:169,Loss:0.106127
+ Epoch:169,Loss:0.122224
+ Epoch:169,Loss:0.129403
+ Epoch:169,Loss:0.126768
+ Epoch:169,Loss:0.125475
+ Epoch:169,Loss:0.124180
+ Epoch:169,Loss:0.128218
+MSE_loss = 0.750690
+R2_score = -0.362002
+ Epoch: 169 Best MSE Error: 0.648505
+ Epoch:170,Loss:0.109409
+ Epoch:170,Loss:0.125315
+ Epoch:170,Loss:0.128681
+ Epoch:170,Loss:0.124976
+ Epoch:170,Loss:0.123792
+ Epoch:170,Loss:0.122574
+ Epoch:170,Loss:0.126326
+MSE_loss = 0.732690
+R2_score = -0.329345
+ Epoch: 170 Best MSE Error: 0.648505
+ Epoch:171,Loss:0.107614
+ Epoch:171,Loss:0.121249
+ Epoch:171,Loss:0.129970
+ Epoch:171,Loss:0.126507
+ Epoch:171,Loss:0.124165
+ Epoch:171,Loss:0.122318
+ Epoch:171,Loss:0.125998
+MSE_loss = 0.790691
+R2_score = -0.434578
+ Epoch: 171 Best MSE Error: 0.648505
+ Epoch:172,Loss:0.104917
+ Epoch:172,Loss:0.121125
+ Epoch:172,Loss:0.126453
+ Epoch:172,Loss:0.123466
+ Epoch:172,Loss:0.122230
+ Epoch:172,Loss:0.120832
+ Epoch:172,Loss:0.124894
+MSE_loss = 0.772358
+R2_score = -0.401315
+ Epoch: 172 Best MSE Error: 0.648505
+ Epoch:173,Loss:0.106887
+ Epoch:173,Loss:0.122304
+ Epoch:173,Loss:0.126274
+ Epoch:173,Loss:0.125300
+ Epoch:173,Loss:0.123710
+ Epoch:173,Loss:0.121533
+ Epoch:173,Loss:0.126419
+MSE_loss = 0.758939
+R2_score = -0.376970
+ Epoch: 173 Best MSE Error: 0.648505
+ Epoch:174,Loss:0.106482
+ Epoch:174,Loss:0.122998
+ Epoch:174,Loss:0.126521
+ Epoch:174,Loss:0.123072
+ Epoch:174,Loss:0.121913
+ Epoch:174,Loss:0.119907
+ Epoch:174,Loss:0.124027
+MSE_loss = 0.741967
+R2_score = -0.346176
+ Epoch: 174 Best MSE Error: 0.648505
+ Epoch:175,Loss:0.104920
+ Epoch:175,Loss:0.120684
+ Epoch:175,Loss:0.126532
+ Epoch:175,Loss:0.124942
+ Epoch:175,Loss:0.124259
+ Epoch:175,Loss:0.123956
+ Epoch:175,Loss:0.127508
+MSE_loss = 0.774463
+R2_score = -0.405134
+ Epoch: 175 Best MSE Error: 0.648505
+ Epoch:176,Loss:0.103514
+ Epoch:176,Loss:0.119917
+ Epoch:176,Loss:0.128715
+ Epoch:176,Loss:0.125555
+ Epoch:176,Loss:0.123863
+ Epoch:176,Loss:0.121455
+ Epoch:176,Loss:0.125041
+MSE_loss = 0.786198
+R2_score = -0.426425
+ Epoch: 176 Best MSE Error: 0.648505
+ Epoch:177,Loss:0.104261
+ Epoch:177,Loss:0.119066
+ Epoch:177,Loss:0.125482
+ Epoch:177,Loss:0.122955
+ Epoch:177,Loss:0.122297
+ Epoch:177,Loss:0.121294
+ Epoch:177,Loss:0.124760
+MSE_loss = 0.773711
+R2_score = -0.403771
+ Epoch: 177 Best MSE Error: 0.648505
+ Epoch:178,Loss:0.099182
+ Epoch:178,Loss:0.115852
+ Epoch:178,Loss:0.122808
+ Epoch:178,Loss:0.122017
+ Epoch:178,Loss:0.121067
+ Epoch:178,Loss:0.119550
+ Epoch:178,Loss:0.123657
+MSE_loss = 0.784093
+R2_score = -0.422607
+ Epoch: 178 Best MSE Error: 0.648505
+ Epoch:179,Loss:0.104914
+ Epoch:179,Loss:0.120622
+ Epoch:179,Loss:0.125956
+ Epoch:179,Loss:0.122557
+ Epoch:179,Loss:0.121195
+ Epoch:179,Loss:0.119525
+ Epoch:179,Loss:0.122970
+MSE_loss = 0.765194
+R2_score = -0.388318
+ Epoch: 179 Best MSE Error: 0.648505
+ Epoch:180,Loss:0.098431
+ Epoch:180,Loss:0.115730
+ Epoch:180,Loss:0.121851
+ Epoch:180,Loss:0.122424
+ Epoch:180,Loss:0.121618
+ Epoch:180,Loss:0.119947
+ Epoch:180,Loss:0.124102
+MSE_loss = 0.733769
+R2_score = -0.331302
+ Epoch: 180 Best MSE Error: 0.648505
+ Epoch:181,Loss:0.102426
+ Epoch:181,Loss:0.118371
+ Epoch:181,Loss:0.123933
+ Epoch:181,Loss:0.123213
+ Epoch:181,Loss:0.121852
+ Epoch:181,Loss:0.121093
+ Epoch:181,Loss:0.124309
+MSE_loss = 0.748414
+R2_score = -0.357873
+ Epoch: 181 Best MSE Error: 0.648505
+ Epoch:182,Loss:0.100682
+ Epoch:182,Loss:0.116897
+ Epoch:182,Loss:0.122612
+ Epoch:182,Loss:0.119088
+ Epoch:182,Loss:0.117874
+ Epoch:182,Loss:0.117001
+ Epoch:182,Loss:0.122748
+MSE_loss = 0.794391
+R2_score = -0.441291
+ Epoch: 182 Best MSE Error: 0.648505
+ Epoch:183,Loss:0.101613
+ Epoch:183,Loss:0.118017
+ Epoch:183,Loss:0.120881
+ Epoch:183,Loss:0.118826
+ Epoch:183,Loss:0.116910
+ Epoch:183,Loss:0.115924
+ Epoch:183,Loss:0.121614
+MSE_loss = 0.719323
+R2_score = -0.305093
+ Epoch: 183 Best MSE Error: 0.648505
+ Epoch:184,Loss:0.099890
+ Epoch:184,Loss:0.114861
+ Epoch:184,Loss:0.120078
+ Epoch:184,Loss:0.118283
+ Epoch:184,Loss:0.116799
+ Epoch:184,Loss:0.115035
+ Epoch:184,Loss:0.118898
+MSE_loss = 0.784473
+R2_score = -0.423297
+ Epoch: 184 Best MSE Error: 0.648505
+ Epoch:185,Loss:0.093902
+ Epoch:185,Loss:0.112431
+ Epoch:185,Loss:0.116964
+ Epoch:185,Loss:0.116851
+ Epoch:185,Loss:0.116510
+ Epoch:185,Loss:0.115236
+ Epoch:185,Loss:0.118926
+MSE_loss = 0.774882
+R2_score = -0.405895
+ Epoch: 185 Best MSE Error: 0.648505
+ Epoch:186,Loss:0.096904
+ Epoch:186,Loss:0.115488
+ Epoch:186,Loss:0.121357
+ Epoch:186,Loss:0.118863
+ Epoch:186,Loss:0.118152
+ Epoch:186,Loss:0.115551
+ Epoch:186,Loss:0.119398
+MSE_loss = 0.789003
+R2_score = -0.431515
+ Epoch: 186 Best MSE Error: 0.648505
+ Epoch:187,Loss:0.101572
+ Epoch:187,Loss:0.115828
+ Epoch:187,Loss:0.121969
+ Epoch:187,Loss:0.119137
+ Epoch:187,Loss:0.117448
+ Epoch:187,Loss:0.115997
+ Epoch:187,Loss:0.119606
+MSE_loss = 0.728857
+R2_score = -0.322389
+ Epoch: 187 Best MSE Error: 0.648505
+ Epoch:188,Loss:0.098372
+ Epoch:188,Loss:0.113906
+ Epoch:188,Loss:0.118354
+ Epoch:188,Loss:0.117065
+ Epoch:188,Loss:0.115056
+ Epoch:188,Loss:0.113931
+ Epoch:188,Loss:0.117667
+MSE_loss = 0.776908
+R2_score = -0.409570
+ Epoch: 188 Best MSE Error: 0.648505
+ Epoch:189,Loss:0.096639
+ Epoch:189,Loss:0.111646
+ Epoch:189,Loss:0.117618
+ Epoch:189,Loss:0.114210
+ Epoch:189,Loss:0.113573
+ Epoch:189,Loss:0.114861
+ Epoch:189,Loss:0.119035
+MSE_loss = 0.786412
+R2_score = -0.426815
+ Epoch: 189 Best MSE Error: 0.648505
+ Epoch:190,Loss:0.100449
+ Epoch:190,Loss:0.115042
+ Epoch:190,Loss:0.121844
+ Epoch:190,Loss:0.119314
+ Epoch:190,Loss:0.118690
+ Epoch:190,Loss:0.116597
+ Epoch:190,Loss:0.120711
+MSE_loss = 0.781739
+R2_score = -0.418335
+ Epoch: 190 Best MSE Error: 0.648505
+ Epoch:191,Loss:0.097693
+ Epoch:191,Loss:0.112201
+ Epoch:191,Loss:0.118228
+ Epoch:191,Loss:0.118081
+ Epoch:191,Loss:0.118344
+ Epoch:191,Loss:0.116444
+ Epoch:191,Loss:0.120457
+MSE_loss = 0.784163
+R2_score = -0.422734
+ Epoch: 191 Best MSE Error: 0.648505
+ Epoch:192,Loss:0.097031
+ Epoch:192,Loss:0.112523
+ Epoch:192,Loss:0.116714
+ Epoch:192,Loss:0.115460
+ Epoch:192,Loss:0.114281
+ Epoch:192,Loss:0.112664
+ Epoch:192,Loss:0.116195
+MSE_loss = 0.796761
+R2_score = -0.445590
+ Epoch: 192 Best MSE Error: 0.648505
+ Epoch:193,Loss:0.094993
+ Epoch:193,Loss:0.109303
+ Epoch:193,Loss:0.114275
+ Epoch:193,Loss:0.112827
+ Epoch:193,Loss:0.112772
+ Epoch:193,Loss:0.111230
+ Epoch:193,Loss:0.115397
+MSE_loss = 0.811437
+R2_score = -0.472218
+ Epoch: 193 Best MSE Error: 0.648505
+ Epoch:194,Loss:0.094633
+ Epoch:194,Loss:0.110598
+ Epoch:194,Loss:0.114623
+ Epoch:194,Loss:0.113910
+ Epoch:194,Loss:0.112458
+ Epoch:194,Loss:0.110939
+ Epoch:194,Loss:0.115576
+MSE_loss = 0.771714
+R2_score = -0.400147
+ Epoch: 194 Best MSE Error: 0.648505
+ Epoch:195,Loss:0.093068
+ Epoch:195,Loss:0.108628
+ Epoch:195,Loss:0.113218
+ Epoch:195,Loss:0.110939
+ Epoch:195,Loss:0.110770
+ Epoch:195,Loss:0.110201
+ Epoch:195,Loss:0.114895
+MSE_loss = 0.737784
+R2_score = -0.338587
+ Epoch: 195 Best MSE Error: 0.648505
+ Epoch:196,Loss:0.094845
+ Epoch:196,Loss:0.110733
+ Epoch:196,Loss:0.115019
+ Epoch:196,Loss:0.114191
+ Epoch:196,Loss:0.112831
+ Epoch:196,Loss:0.111282
+ Epoch:196,Loss:0.115208
+MSE_loss = 0.787937
+R2_score = -0.429580
+ Epoch: 196 Best MSE Error: 0.648505
+ Epoch:197,Loss:0.095385
+ Epoch:197,Loss:0.111294
+ Epoch:197,Loss:0.115041
+ Epoch:197,Loss:0.112299
+ Epoch:197,Loss:0.110976
+ Epoch:197,Loss:0.109227
+ Epoch:197,Loss:0.113006
+MSE_loss = 0.820923
+R2_score = -0.489428
+ Epoch: 197 Best MSE Error: 0.648505
+ Epoch:198,Loss:0.093637
+ Epoch:198,Loss:0.108817
+ Epoch:198,Loss:0.114328
+ Epoch:198,Loss:0.111757
+ Epoch:198,Loss:0.111343
+ Epoch:198,Loss:0.109536
+ Epoch:198,Loss:0.113338
+MSE_loss = 0.774044
+R2_score = -0.404374
+ Epoch: 198 Best MSE Error: 0.648505
+ Epoch:199,Loss:0.093158
+ Epoch:199,Loss:0.109521
+ Epoch:199,Loss:0.112441
+ Epoch:199,Loss:0.111420
+ Epoch:199,Loss:0.110304
+ Epoch:199,Loss:0.108424
+ Epoch:199,Loss:0.113068
+MSE_loss = 0.768151
+R2_score = -0.393683
+ Epoch: 199 Best MSE Error: 0.648505

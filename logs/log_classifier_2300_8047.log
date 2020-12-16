@@ -1,0 +1,1801 @@
+nohup: ignoring input
+ Epoch:0,acc:0.687500
+ Epoch:0,acc:0.812500
+ Epoch:0,acc:0.687500
+ Epoch:0,acc:0.937500
+ Epoch:0,acc:0.875000
+ Epoch:0,acc:0.875000
+
+ Epoch:0 loss:0.5657579898834229, train_acc:0.75, totol_acc:0.7736515410958904 
+ Epoch: 0 Accuracy: 0.774038
+ Epoch:1,acc:0.687500
+ Epoch:1,acc:0.812500
+ Epoch:1,acc:0.687500
+ Epoch:1,acc:0.937500
+ Epoch:1,acc:0.875000
+ Epoch:1,acc:0.875000
+
+ Epoch:1 loss:0.5149297118186951, train_acc:0.75, totol_acc:0.7736515410958904 
+ Epoch: 1 Accuracy: 0.774038
+ Epoch:2,acc:0.687500
+ Epoch:2,acc:0.812500
+ Epoch:2,acc:0.687500
+ Epoch:2,acc:0.937500
+ Epoch:2,acc:0.875000
+ Epoch:2,acc:0.875000
+
+ Epoch:2 loss:0.40579450130462646, train_acc:0.75, totol_acc:0.7746147260273972 
+ Epoch: 2 Accuracy: 0.781731
+ Epoch:3,acc:0.687500
+ Epoch:3,acc:0.812500
+ Epoch:3,acc:0.750000
+ Epoch:3,acc:0.875000
+ Epoch:3,acc:0.937500
+ Epoch:3,acc:0.875000
+
+ Epoch:3 loss:0.36692938208580017, train_acc:0.8125, totol_acc:0.8229880136986302 
+ Epoch: 3 Accuracy: 0.827885
+ Epoch:4,acc:0.812500
+ Epoch:4,acc:0.812500
+ Epoch:4,acc:0.750000
+ Epoch:4,acc:0.937500
+ Epoch:4,acc:0.937500
+ Epoch:4,acc:0.937500
+
+ Epoch:4 loss:0.2709357738494873, train_acc:0.875, totol_acc:0.8693279109589042 
+ Epoch: 4 Accuracy: 0.831731
+ Epoch:5,acc:0.750000
+ Epoch:5,acc:0.875000
+ Epoch:5,acc:0.812500
+ Epoch:5,acc:0.937500
+ Epoch:5,acc:0.937500
+ Epoch:5,acc:1.000000
+
+ Epoch:5 loss:0.27419522404670715, train_acc:0.8125, totol_acc:0.8829195205479452 
+ Epoch: 5 Accuracy: 0.853846
+ Epoch:6,acc:0.937500
+ Epoch:6,acc:0.937500
+ Epoch:6,acc:0.875000
+ Epoch:6,acc:1.000000
+ Epoch:6,acc:0.937500
+ Epoch:6,acc:0.937500
+
+ Epoch:6 loss:0.323080837726593, train_acc:0.8125, totol_acc:0.9002568493150684 
+ Epoch: 6 Accuracy: 0.867308
+ Epoch:7,acc:0.875000
+ Epoch:7,acc:0.937500
+ Epoch:7,acc:0.937500
+ Epoch:7,acc:0.937500
+ Epoch:7,acc:0.937500
+ Epoch:7,acc:0.937500
+
+ Epoch:7 loss:0.2385416477918625, train_acc:0.875, totol_acc:0.9096746575342466 
+ Epoch: 7 Accuracy: 0.886538
+ Epoch:8,acc:0.937500
+ Epoch:8,acc:0.937500
+ Epoch:8,acc:0.937500
+ Epoch:8,acc:0.937500
+ Epoch:8,acc:1.000000
+ Epoch:8,acc:1.000000
+
+ Epoch:8 loss:0.15312524139881134, train_acc:0.9375, totol_acc:0.9197345890410958 
+ Epoch: 8 Accuracy: 0.896154
+ Epoch:9,acc:0.937500
+ Epoch:9,acc:0.937500
+ Epoch:9,acc:0.937500
+ Epoch:9,acc:0.937500
+ Epoch:9,acc:0.937500
+ Epoch:9,acc:1.000000
+
+ Epoch:9 loss:0.12862908840179443, train_acc:0.9375, totol_acc:0.9270119863013698 
+ Epoch: 9 Accuracy: 0.898077
+ Epoch:10,acc:0.875000
+ Epoch:10,acc:1.000000
+ Epoch:10,acc:0.937500
+ Epoch:10,acc:0.937500
+ Epoch:10,acc:0.937500
+ Epoch:10,acc:0.875000
+
+ Epoch:10 loss:0.17820250988006592, train_acc:0.875, totol_acc:0.9337542808219178 
+ Epoch: 10 Accuracy: 0.906731
+ Epoch:11,acc:0.937500
+ Epoch:11,acc:0.937500
+ Epoch:11,acc:0.875000
+ Epoch:11,acc:0.937500
+ Epoch:11,acc:1.000000
+ Epoch:11,acc:1.000000
+
+ Epoch:11 loss:0.23554494976997375, train_acc:0.875, totol_acc:0.9408176369863014 
+ Epoch: 11 Accuracy: 0.902885
+ Epoch:12,acc:0.875000
+ Epoch:12,acc:1.000000
+ Epoch:12,acc:0.875000
+ Epoch:12,acc:1.000000
+ Epoch:12,acc:1.000000
+ Epoch:12,acc:1.000000
+
+ Epoch:12 loss:0.16712619364261627, train_acc:0.9375, totol_acc:0.942208904109589 
+ Epoch: 12 Accuracy: 0.907692
+ Epoch:13,acc:0.937500
+ Epoch:13,acc:1.000000
+ Epoch:13,acc:0.875000
+ Epoch:13,acc:1.000000
+ Epoch:13,acc:0.937500
+ Epoch:13,acc:0.937500
+
+ Epoch:13 loss:0.08357499539852142, train_acc:1.0, totol_acc:0.9477739726027398 
+ Epoch: 13 Accuracy: 0.919231
+ Epoch:14,acc:0.937500
+ Epoch:14,acc:1.000000
+ Epoch:14,acc:0.875000
+ Epoch:14,acc:1.000000
+ Epoch:14,acc:0.937500
+ Epoch:14,acc:1.000000
+
+ Epoch:14 loss:0.0458979532122612, train_acc:1.0, totol_acc:0.9508775684931506 
+ Epoch: 14 Accuracy: 0.929808
+ Epoch:15,acc:0.937500
+ Epoch:15,acc:1.000000
+ Epoch:15,acc:1.000000
+ Epoch:15,acc:1.000000
+ Epoch:15,acc:0.937500
+ Epoch:15,acc:1.000000
+
+ Epoch:15 loss:0.047294460237026215, train_acc:1.0, totol_acc:0.9566566780821918 
+ Epoch: 15 Accuracy: 0.930769
+ Epoch:16,acc:1.000000
+ Epoch:16,acc:1.000000
+ Epoch:16,acc:0.937500
+ Epoch:16,acc:1.000000
+ Epoch:16,acc:0.937500
+ Epoch:16,acc:1.000000
+
+ Epoch:16 loss:0.04492434859275818, train_acc:1.0, totol_acc:0.9607234589041096 
+ Epoch: 16 Accuracy: 0.928846
+ Epoch:17,acc:0.937500
+ Epoch:17,acc:1.000000
+ Epoch:17,acc:0.937500
+ Epoch:17,acc:1.000000
+ Epoch:17,acc:1.000000
+ Epoch:17,acc:1.000000
+
+ Epoch:17 loss:0.06802062690258026, train_acc:1.0, totol_acc:0.962542808219178 
+ Epoch: 17 Accuracy: 0.931731
+ Epoch:18,acc:0.937500
+ Epoch:18,acc:1.000000
+ Epoch:18,acc:0.937500
+ Epoch:18,acc:1.000000
+ Epoch:18,acc:1.000000
+ Epoch:18,acc:1.000000
+
+ Epoch:18 loss:0.033865321427583694, train_acc:1.0, totol_acc:0.9642551369863014 
+ Epoch: 18 Accuracy: 0.930769
+ Epoch:19,acc:1.000000
+ Epoch:19,acc:1.000000
+ Epoch:19,acc:1.000000
+ Epoch:19,acc:1.000000
+ Epoch:19,acc:0.937500
+ Epoch:19,acc:1.000000
+
+ Epoch:19 loss:0.027205592021346092, train_acc:1.0, totol_acc:0.9672517123287672 
+ Epoch: 19 Accuracy: 0.932692
+ Epoch:20,acc:1.000000
+ Epoch:20,acc:1.000000
+ Epoch:20,acc:0.937500
+ Epoch:20,acc:1.000000
+ Epoch:20,acc:1.000000
+ Epoch:20,acc:1.000000
+
+ Epoch:20 loss:0.02060168981552124, train_acc:1.0, totol_acc:0.9685359589041096 
+ Epoch: 20 Accuracy: 0.930769
+ Epoch:21,acc:1.000000
+ Epoch:21,acc:1.000000
+ Epoch:21,acc:1.000000
+ Epoch:21,acc:1.000000
+ Epoch:21,acc:1.000000
+ Epoch:21,acc:1.000000
+
+ Epoch:21 loss:0.01476067304611206, train_acc:1.0, totol_acc:0.9726027397260274 
+ Epoch: 21 Accuracy: 0.941346
+ Epoch:22,acc:1.000000
+ Epoch:22,acc:1.000000
+ Epoch:22,acc:1.000000
+ Epoch:22,acc:1.000000
+ Epoch:22,acc:0.937500
+ Epoch:22,acc:1.000000
+
+ Epoch:22 loss:0.013104347512125969, train_acc:1.0, totol_acc:0.974957191780822 
+ Epoch: 22 Accuracy: 0.942308
+ Epoch:23,acc:1.000000
+ Epoch:23,acc:1.000000
+ Epoch:23,acc:0.937500
+ Epoch:23,acc:1.000000
+ Epoch:23,acc:1.000000
+ Epoch:23,acc:1.000000
+
+ Epoch:23 loss:0.010781936347484589, train_acc:1.0, totol_acc:0.9738869863013698 
+ Epoch: 23 Accuracy: 0.935577
+ Epoch:24,acc:1.000000
+ Epoch:24,acc:1.000000
+ Epoch:24,acc:1.000000
+ Epoch:24,acc:1.000000
+ Epoch:24,acc:0.937500
+ Epoch:24,acc:1.000000
+
+ Epoch:24 loss:0.018214764073491096, train_acc:1.0, totol_acc:0.9761344178082192 
+ Epoch: 24 Accuracy: 0.948077
+ Epoch:25,acc:1.000000
+ Epoch:25,acc:1.000000
+ Epoch:25,acc:0.937500
+ Epoch:25,acc:1.000000
+ Epoch:25,acc:1.000000
+ Epoch:25,acc:1.000000
+
+ Epoch:25 loss:0.019520726054906845, train_acc:1.0, totol_acc:0.980201198630137 
+ Epoch: 25 Accuracy: 0.940385
+ Epoch:26,acc:1.000000
+ Epoch:26,acc:1.000000
+ Epoch:26,acc:1.000000
+ Epoch:26,acc:1.000000
+ Epoch:26,acc:1.000000
+ Epoch:26,acc:1.000000
+
+ Epoch:26 loss:0.02143784426152706, train_acc:1.0, totol_acc:0.9811643835616438 
+ Epoch: 26 Accuracy: 0.946154
+ Epoch:27,acc:1.000000
+ Epoch:27,acc:1.000000
+ Epoch:27,acc:1.000000
+ Epoch:27,acc:1.000000
+ Epoch:27,acc:1.000000
+ Epoch:27,acc:1.000000
+
+ Epoch:27 loss:0.009166507050395012, train_acc:1.0, totol_acc:0.9826626712328768 
+ Epoch: 27 Accuracy: 0.944231
+ Epoch:28,acc:1.000000
+ Epoch:28,acc:1.000000
+ Epoch:28,acc:1.000000
+ Epoch:28,acc:1.000000
+ Epoch:28,acc:1.000000
+ Epoch:28,acc:0.937500
+
+ Epoch:28 loss:0.004861494060605764, train_acc:1.0, totol_acc:0.9840539383561644 
+ Epoch: 28 Accuracy: 0.950962
+ Epoch:29,acc:1.000000
+ Epoch:29,acc:1.000000
+ Epoch:29,acc:0.937500
+ Epoch:29,acc:1.000000
+ Epoch:29,acc:1.000000
+ Epoch:29,acc:1.000000
+
+ Epoch:29 loss:0.00738983741030097, train_acc:1.0, totol_acc:0.9853381849315068 
+ Epoch: 29 Accuracy: 0.950000
+ Epoch:30,acc:1.000000
+ Epoch:30,acc:1.000000
+ Epoch:30,acc:1.000000
+ Epoch:30,acc:1.000000
+ Epoch:30,acc:1.000000
+ Epoch:30,acc:1.000000
+
+ Epoch:30 loss:0.0044100587256252766, train_acc:1.0, totol_acc:0.9863013698630136 
+ Epoch: 30 Accuracy: 0.947115
+ Epoch:31,acc:1.000000
+ Epoch:31,acc:1.000000
+ Epoch:31,acc:1.000000
+ Epoch:31,acc:1.000000
+ Epoch:31,acc:1.000000
+ Epoch:31,acc:1.000000
+
+ Epoch:31 loss:0.005719093140214682, train_acc:1.0, totol_acc:0.9873715753424658 
+ Epoch: 31 Accuracy: 0.950000
+ Epoch:32,acc:1.000000
+ Epoch:32,acc:1.000000
+ Epoch:32,acc:1.000000
+ Epoch:32,acc:1.000000
+ Epoch:32,acc:1.000000
+ Epoch:32,acc:1.000000
+
+ Epoch:32 loss:0.004968214314430952, train_acc:1.0, totol_acc:0.9889768835616438 
+ Epoch: 32 Accuracy: 0.962500
+ Epoch:33,acc:1.000000
+ Epoch:33,acc:1.000000
+ Epoch:33,acc:1.000000
+ Epoch:33,acc:1.000000
+ Epoch:33,acc:1.000000
+ Epoch:33,acc:1.000000
+
+ Epoch:33 loss:0.0029418168123811483, train_acc:1.0, totol_acc:0.9882277397260274 
+ Epoch: 33 Accuracy: 0.955769
+ Epoch:34,acc:1.000000
+ Epoch:34,acc:1.000000
+ Epoch:34,acc:1.000000
+ Epoch:34,acc:1.000000
+ Epoch:34,acc:1.000000
+ Epoch:34,acc:1.000000
+
+ Epoch:34 loss:0.0027600552421063185, train_acc:1.0, totol_acc:0.989619006849315 
+ Epoch: 34 Accuracy: 0.946154
+ Epoch:35,acc:1.000000
+ Epoch:35,acc:1.000000
+ Epoch:35,acc:1.000000
+ Epoch:35,acc:1.000000
+ Epoch:35,acc:1.000000
+ Epoch:35,acc:1.000000
+
+ Epoch:35 loss:0.004075644537806511, train_acc:1.0, totol_acc:0.990582191780822 
+ Epoch: 35 Accuracy: 0.955769
+ Epoch:36,acc:1.000000
+ Epoch:36,acc:1.000000
+ Epoch:36,acc:1.000000
+ Epoch:36,acc:1.000000
+ Epoch:36,acc:1.000000
+ Epoch:36,acc:1.000000
+
+ Epoch:36 loss:0.0017129406332969666, train_acc:1.0, totol_acc:0.9917594178082192 
+ Epoch: 36 Accuracy: 0.952885
+ Epoch:37,acc:1.000000
+ Epoch:37,acc:1.000000
+ Epoch:37,acc:1.000000
+ Epoch:37,acc:1.000000
+ Epoch:37,acc:1.000000
+ Epoch:37,acc:1.000000
+
+ Epoch:37 loss:0.0014376068720594049, train_acc:1.0, totol_acc:0.9918664383561644 
+ Epoch: 37 Accuracy: 0.955769
+ Epoch:38,acc:1.000000
+ Epoch:38,acc:1.000000
+ Epoch:38,acc:1.000000
+ Epoch:38,acc:1.000000
+ Epoch:38,acc:1.000000
+ Epoch:38,acc:1.000000
+
+ Epoch:38 loss:0.0014183850726112723, train_acc:1.0, totol_acc:0.9929366438356164 
+ Epoch: 38 Accuracy: 0.953846
+ Epoch:39,acc:1.000000
+ Epoch:39,acc:1.000000
+ Epoch:39,acc:1.000000
+ Epoch:39,acc:1.000000
+ Epoch:39,acc:1.000000
+ Epoch:39,acc:1.000000
+
+ Epoch:39 loss:0.001229392713867128, train_acc:1.0, totol_acc:0.9940068493150684 
+ Epoch: 39 Accuracy: 0.960577
+ Epoch:40,acc:1.000000
+ Epoch:40,acc:1.000000
+ Epoch:40,acc:1.000000
+ Epoch:40,acc:1.000000
+ Epoch:40,acc:1.000000
+ Epoch:40,acc:1.000000
+
+ Epoch:40 loss:0.000963169673923403, train_acc:1.0, totol_acc:0.9938998287671232 
+ Epoch: 40 Accuracy: 0.959615
+ Epoch:41,acc:1.000000
+ Epoch:41,acc:1.000000
+ Epoch:41,acc:1.000000
+ Epoch:41,acc:1.000000
+ Epoch:41,acc:1.000000
+ Epoch:41,acc:1.000000
+
+ Epoch:41 loss:0.0009513080585747957, train_acc:1.0, totol_acc:0.9948630136986302 
+ Epoch: 41 Accuracy: 0.957692
+ Epoch:42,acc:1.000000
+ Epoch:42,acc:1.000000
+ Epoch:42,acc:0.937500
+ Epoch:42,acc:1.000000
+ Epoch:42,acc:1.000000
+ Epoch:42,acc:1.000000
+
+ Epoch:42 loss:0.0008059199899435043, train_acc:1.0, totol_acc:0.994755993150685 
+ Epoch: 42 Accuracy: 0.962500
+ Epoch:43,acc:1.000000
+ Epoch:43,acc:1.000000
+ Epoch:43,acc:1.000000
+ Epoch:43,acc:1.000000
+ Epoch:43,acc:1.000000
+ Epoch:43,acc:1.000000
+
+ Epoch:43 loss:0.0006980471662245691, train_acc:1.0, totol_acc:0.9956121575342466 
+ Epoch: 43 Accuracy: 0.963462
+ Epoch:44,acc:1.000000
+ Epoch:44,acc:1.000000
+ Epoch:44,acc:1.000000
+ Epoch:44,acc:1.000000
+ Epoch:44,acc:1.000000
+ Epoch:44,acc:1.000000
+
+ Epoch:44 loss:0.0014318700414150953, train_acc:1.0, totol_acc:0.9957191780821918 
+ Epoch: 44 Accuracy: 0.963462
+ Epoch:45,acc:1.000000
+ Epoch:45,acc:1.000000
+ Epoch:45,acc:1.000000
+ Epoch:45,acc:1.000000
+ Epoch:45,acc:1.000000
+ Epoch:45,acc:1.000000
+
+ Epoch:45 loss:0.0005103814182803035, train_acc:1.0, totol_acc:0.9960402397260274 
+ Epoch: 45 Accuracy: 0.962500
+ Epoch:46,acc:1.000000
+ Epoch:46,acc:1.000000
+ Epoch:46,acc:1.000000
+ Epoch:46,acc:1.000000
+ Epoch:46,acc:1.000000
+ Epoch:46,acc:1.000000
+
+ Epoch:46 loss:0.00116279989015311, train_acc:1.0, totol_acc:0.996361301369863 
+ Epoch: 46 Accuracy: 0.964423
+ Epoch:47,acc:1.000000
+ Epoch:47,acc:1.000000
+ Epoch:47,acc:1.000000
+ Epoch:47,acc:1.000000
+ Epoch:47,acc:1.000000
+ Epoch:47,acc:1.000000
+
+ Epoch:47 loss:0.00046039611333981156, train_acc:1.0, totol_acc:0.9965753424657534 
+ Epoch: 47 Accuracy: 0.963462
+ Epoch:48,acc:1.000000
+ Epoch:48,acc:1.000000
+ Epoch:48,acc:1.000000
+ Epoch:48,acc:1.000000
+ Epoch:48,acc:1.000000
+ Epoch:48,acc:1.000000
+
+ Epoch:48 loss:0.0004936541663482785, train_acc:1.0, totol_acc:0.996361301369863 
+ Epoch: 48 Accuracy: 0.963462
+ Epoch:49,acc:1.000000
+ Epoch:49,acc:1.000000
+ Epoch:49,acc:1.000000
+ Epoch:49,acc:1.000000
+ Epoch:49,acc:1.000000
+ Epoch:49,acc:1.000000
+
+ Epoch:49 loss:0.00035698703140951693, train_acc:1.0, totol_acc:0.9967893835616438 
+ Epoch: 49 Accuracy: 0.962500
+ Epoch:50,acc:1.000000
+ Epoch:50,acc:1.000000
+ Epoch:50,acc:1.000000
+ Epoch:50,acc:1.000000
+ Epoch:50,acc:1.000000
+ Epoch:50,acc:1.000000
+
+ Epoch:50 loss:0.00035801593912765384, train_acc:1.0, totol_acc:0.9967893835616438 
+ Epoch: 50 Accuracy: 0.963462
+ Epoch:51,acc:1.000000
+ Epoch:51,acc:1.000000
+ Epoch:51,acc:1.000000
+ Epoch:51,acc:1.000000
+ Epoch:51,acc:1.000000
+ Epoch:51,acc:1.000000
+
+ Epoch:51 loss:0.0004104392428416759, train_acc:1.0, totol_acc:0.9965753424657534 
+ Epoch: 51 Accuracy: 0.964423
+ Epoch:52,acc:1.000000
+ Epoch:52,acc:1.000000
+ Epoch:52,acc:1.000000
+ Epoch:52,acc:1.000000
+ Epoch:52,acc:1.000000
+ Epoch:52,acc:1.000000
+
+ Epoch:52 loss:0.0015175354201346636, train_acc:1.0, totol_acc:0.996896404109589 
+ Epoch: 52 Accuracy: 0.966346
+ Epoch:53,acc:1.000000
+ Epoch:53,acc:1.000000
+ Epoch:53,acc:1.000000
+ Epoch:53,acc:1.000000
+ Epoch:53,acc:1.000000
+ Epoch:53,acc:1.000000
+
+ Epoch:53 loss:0.00028816191479563713, train_acc:1.0, totol_acc:0.9964683219178082 
+ Epoch: 53 Accuracy: 0.965385
+ Epoch:54,acc:1.000000
+ Epoch:54,acc:1.000000
+ Epoch:54,acc:1.000000
+ Epoch:54,acc:1.000000
+ Epoch:54,acc:1.000000
+ Epoch:54,acc:1.000000
+
+ Epoch:54 loss:0.00026210956275463104, train_acc:1.0, totol_acc:0.996896404109589 
+ Epoch: 54 Accuracy: 0.962500
+ Epoch:55,acc:1.000000
+ Epoch:55,acc:1.000000
+ Epoch:55,acc:1.000000
+ Epoch:55,acc:1.000000
+ Epoch:55,acc:1.000000
+ Epoch:55,acc:1.000000
+
+ Epoch:55 loss:0.00026005585095845163, train_acc:1.0, totol_acc:0.9966823630136986 
+ Epoch: 55 Accuracy: 0.966346
+ Epoch:56,acc:1.000000
+ Epoch:56,acc:1.000000
+ Epoch:56,acc:1.000000
+ Epoch:56,acc:1.000000
+ Epoch:56,acc:1.000000
+ Epoch:56,acc:1.000000
+
+ Epoch:56 loss:0.00021295793703757226, train_acc:1.0, totol_acc:0.9970034246575342 
+ Epoch: 56 Accuracy: 0.967308
+ Epoch:57,acc:1.000000
+ Epoch:57,acc:1.000000
+ Epoch:57,acc:1.000000
+ Epoch:57,acc:1.000000
+ Epoch:57,acc:1.000000
+ Epoch:57,acc:1.000000
+
+ Epoch:57 loss:0.00015836299280636013, train_acc:1.0, totol_acc:0.9976455479452054 
+ Epoch: 57 Accuracy: 0.964423
+ Epoch:58,acc:1.000000
+ Epoch:58,acc:1.000000
+ Epoch:58,acc:1.000000
+ Epoch:58,acc:1.000000
+ Epoch:58,acc:1.000000
+ Epoch:58,acc:1.000000
+
+ Epoch:58 loss:0.0001685202296357602, train_acc:1.0, totol_acc:0.9970034246575342 
+ Epoch: 58 Accuracy: 0.964423
+ Epoch:59,acc:1.000000
+ Epoch:59,acc:1.000000
+ Epoch:59,acc:1.000000
+ Epoch:59,acc:1.000000
+ Epoch:59,acc:1.000000
+ Epoch:59,acc:1.000000
+
+ Epoch:59 loss:0.00013171070895623416, train_acc:1.0, totol_acc:0.996896404109589 
+ Epoch: 59 Accuracy: 0.964423
+ Epoch:60,acc:1.000000
+ Epoch:60,acc:1.000000
+ Epoch:60,acc:1.000000
+ Epoch:60,acc:1.000000
+ Epoch:60,acc:1.000000
+ Epoch:60,acc:1.000000
+
+ Epoch:60 loss:0.00010504282545298338, train_acc:1.0, totol_acc:0.9973244863013698 
+ Epoch: 60 Accuracy: 0.961538
+ Epoch:61,acc:1.000000
+ Epoch:61,acc:1.000000
+ Epoch:61,acc:1.000000
+ Epoch:61,acc:1.000000
+ Epoch:61,acc:1.000000
+ Epoch:61,acc:1.000000
+
+ Epoch:61 loss:9.883206803351641e-05, train_acc:1.0, totol_acc:0.9973244863013698 
+ Epoch: 61 Accuracy: 0.963462
+ Epoch:62,acc:1.000000
+ Epoch:62,acc:1.000000
+ Epoch:62,acc:1.000000
+ Epoch:62,acc:1.000000
+ Epoch:62,acc:1.000000
+ Epoch:62,acc:1.000000
+
+ Epoch:62 loss:9.749826858751476e-05, train_acc:1.0, totol_acc:0.9967893835616438 
+ Epoch: 62 Accuracy: 0.964423
+ Epoch:63,acc:1.000000
+ Epoch:63,acc:1.000000
+ Epoch:63,acc:1.000000
+ Epoch:63,acc:1.000000
+ Epoch:63,acc:1.000000
+ Epoch:63,acc:1.000000
+
+ Epoch:63 loss:9.452726953895763e-05, train_acc:1.0, totol_acc:0.9973244863013698 
+ Epoch: 63 Accuracy: 0.964423
+ Epoch:64,acc:1.000000
+ Epoch:64,acc:1.000000
+ Epoch:64,acc:1.000000
+ Epoch:64,acc:1.000000
+ Epoch:64,acc:1.000000
+ Epoch:64,acc:1.000000
+
+ Epoch:64 loss:8.078728569671512e-05, train_acc:1.0, totol_acc:0.9975385273972602 
+ Epoch: 64 Accuracy: 0.962500
+ Epoch:65,acc:1.000000
+ Epoch:65,acc:1.000000
+ Epoch:65,acc:1.000000
+ Epoch:65,acc:1.000000
+ Epoch:65,acc:1.000000
+ Epoch:65,acc:1.000000
+
+ Epoch:65 loss:0.00021345964341890067, train_acc:1.0, totol_acc:0.9976455479452054 
+ Epoch: 65 Accuracy: 0.964423
+ Epoch:66,acc:1.000000
+ Epoch:66,acc:1.000000
+ Epoch:66,acc:1.000000
+ Epoch:66,acc:1.000000
+ Epoch:66,acc:1.000000
+ Epoch:66,acc:1.000000
+
+ Epoch:66 loss:5.4002510296413675e-05, train_acc:1.0, totol_acc:0.9975385273972602 
+ Epoch: 66 Accuracy: 0.962500
+ Epoch:67,acc:1.000000
+ Epoch:67,acc:1.000000
+ Epoch:67,acc:1.000000
+ Epoch:67,acc:1.000000
+ Epoch:67,acc:1.000000
+ Epoch:67,acc:1.000000
+
+ Epoch:67 loss:4.987596548744477e-05, train_acc:1.0, totol_acc:0.9977525684931506 
+ Epoch: 67 Accuracy: 0.962500
+ Epoch:68,acc:1.000000
+ Epoch:68,acc:1.000000
+ Epoch:68,acc:1.000000
+ Epoch:68,acc:1.000000
+ Epoch:68,acc:1.000000
+ Epoch:68,acc:1.000000
+
+ Epoch:68 loss:5.551541471504606e-05, train_acc:1.0, totol_acc:0.9976455479452054 
+ Epoch: 68 Accuracy: 0.963462
+ Epoch:69,acc:1.000000
+ Epoch:69,acc:1.000000
+ Epoch:69,acc:1.000000
+ Epoch:69,acc:1.000000
+ Epoch:69,acc:1.000000
+ Epoch:69,acc:1.000000
+
+ Epoch:69 loss:4.147341678617522e-05, train_acc:1.0, totol_acc:0.9975385273972602 
+ Epoch: 69 Accuracy: 0.961538
+ Epoch:70,acc:1.000000
+ Epoch:70,acc:1.000000
+ Epoch:70,acc:1.000000
+ Epoch:70,acc:1.000000
+ Epoch:70,acc:1.000000
+ Epoch:70,acc:1.000000
+
+ Epoch:70 loss:3.88443331758026e-05, train_acc:1.0, totol_acc:0.9978595890410958 
+ Epoch: 70 Accuracy: 0.963462
+ Epoch:71,acc:1.000000
+ Epoch:71,acc:1.000000
+ Epoch:71,acc:1.000000
+ Epoch:71,acc:1.000000
+ Epoch:71,acc:1.000000
+ Epoch:71,acc:1.000000
+
+ Epoch:71 loss:3.0202554626157507e-05, train_acc:1.0, totol_acc:0.9973244863013698 
+ Epoch: 71 Accuracy: 0.961538
+ Epoch:72,acc:1.000000
+ Epoch:72,acc:1.000000
+ Epoch:72,acc:1.000000
+ Epoch:72,acc:1.000000
+ Epoch:72,acc:1.000000
+ Epoch:72,acc:1.000000
+
+ Epoch:72 loss:3.076131906709634e-05, train_acc:1.0, totol_acc:0.9978595890410958 
+ Epoch: 72 Accuracy: 0.964423
+ Epoch:73,acc:1.000000
+ Epoch:73,acc:1.000000
+ Epoch:73,acc:1.000000
+ Epoch:73,acc:1.000000
+ Epoch:73,acc:1.000000
+ Epoch:73,acc:1.000000
+
+ Epoch:73 loss:2.763991324172821e-05, train_acc:1.0, totol_acc:0.997431506849315 
+ Epoch: 73 Accuracy: 0.964423
+ Epoch:74,acc:1.000000
+ Epoch:74,acc:1.000000
+ Epoch:74,acc:1.000000
+ Epoch:74,acc:1.000000
+ Epoch:74,acc:1.000000
+ Epoch:74,acc:1.000000
+
+ Epoch:74 loss:3.0105973564786837e-05, train_acc:1.0, totol_acc:0.9976455479452054 
+ Epoch: 74 Accuracy: 0.964423
+ Epoch:75,acc:1.000000
+ Epoch:75,acc:1.000000
+ Epoch:75,acc:1.000000
+ Epoch:75,acc:1.000000
+ Epoch:75,acc:1.000000
+ Epoch:75,acc:1.000000
+
+ Epoch:75 loss:3.144714719383046e-05, train_acc:1.0, totol_acc:0.9976455479452054 
+ Epoch: 75 Accuracy: 0.961538
+ Epoch:76,acc:1.000000
+ Epoch:76,acc:1.000000
+ Epoch:76,acc:1.000000
+ Epoch:76,acc:1.000000
+ Epoch:76,acc:1.000000
+ Epoch:76,acc:1.000000
+
+ Epoch:76 loss:2.108422813762445e-05, train_acc:1.0, totol_acc:0.9980736301369864 
+ Epoch: 76 Accuracy: 0.964423
+ Epoch:77,acc:1.000000
+ Epoch:77,acc:1.000000
+ Epoch:77,acc:1.000000
+ Epoch:77,acc:1.000000
+ Epoch:77,acc:1.000000
+ Epoch:77,acc:1.000000
+
+ Epoch:77 loss:2.2425003407988697e-05, train_acc:1.0, totol_acc:0.997966609589041 
+ Epoch: 77 Accuracy: 0.966346
+ Epoch:78,acc:1.000000
+ Epoch:78,acc:1.000000
+ Epoch:78,acc:1.000000
+ Epoch:78,acc:1.000000
+ Epoch:78,acc:1.000000
+ Epoch:78,acc:1.000000
+
+ Epoch:78 loss:1.9028000679099932e-05, train_acc:1.0, totol_acc:0.9978595890410958 
+ Epoch: 78 Accuracy: 0.966346
+ Epoch:79,acc:1.000000
+ Epoch:79,acc:1.000000
+ Epoch:79,acc:1.000000
+ Epoch:79,acc:1.000000
+ Epoch:79,acc:1.000000
+ Epoch:79,acc:1.000000
+
+ Epoch:79 loss:1.9884675566572696e-05, train_acc:1.0, totol_acc:0.9976455479452054 
+ Epoch: 79 Accuracy: 0.965385
+ Epoch:80,acc:1.000000
+ Epoch:80,acc:1.000000
+ Epoch:80,acc:1.000000
+ Epoch:80,acc:1.000000
+ Epoch:80,acc:1.000000
+ Epoch:80,acc:1.000000
+
+ Epoch:80 loss:1.6204472558456473e-05, train_acc:1.0, totol_acc:0.9981806506849316 
+ Epoch: 80 Accuracy: 0.967308
+ Epoch:81,acc:1.000000
+ Epoch:81,acc:1.000000
+ Epoch:81,acc:1.000000
+ Epoch:81,acc:1.000000
+ Epoch:81,acc:1.000000
+ Epoch:81,acc:1.000000
+
+ Epoch:81 loss:1.6264073565253057e-05, train_acc:1.0, totol_acc:0.9975385273972602 
+ Epoch: 81 Accuracy: 0.968269
+ Epoch:82,acc:1.000000
+ Epoch:82,acc:1.000000
+ Epoch:82,acc:1.000000
+ Epoch:82,acc:1.000000
+ Epoch:82,acc:1.000000
+ Epoch:82,acc:1.000000
+
+ Epoch:82 loss:2.197826688643545e-05, train_acc:1.0, totol_acc:0.9975385273972602 
+ Epoch: 82 Accuracy: 0.965385
+ Epoch:83,acc:1.000000
+ Epoch:83,acc:1.000000
+ Epoch:83,acc:1.000000
+ Epoch:83,acc:1.000000
+ Epoch:83,acc:1.000000
+ Epoch:83,acc:1.000000
+
+ Epoch:83 loss:1.3812943507218733e-05, train_acc:1.0, totol_acc:0.9981806506849316 
+ Epoch: 83 Accuracy: 0.968269
+ Epoch:84,acc:1.000000
+ Epoch:84,acc:1.000000
+ Epoch:84,acc:1.000000
+ Epoch:84,acc:1.000000
+ Epoch:84,acc:1.000000
+ Epoch:84,acc:1.000000
+
+ Epoch:84 loss:1.268052074010484e-05, train_acc:1.0, totol_acc:0.9977525684931506 
+ Epoch: 84 Accuracy: 0.968269
+ Epoch:85,acc:1.000000
+ Epoch:85,acc:1.000000
+ Epoch:85,acc:1.000000
+ Epoch:85,acc:1.000000
+ Epoch:85,acc:1.000000
+ Epoch:85,acc:1.000000
+
+ Epoch:85 loss:1.4349397133628372e-05, train_acc:1.0, totol_acc:0.997966609589041 
+ Epoch: 85 Accuracy: 0.967308
+ Epoch:86,acc:1.000000
+ Epoch:86,acc:1.000000
+ Epoch:86,acc:1.000000
+ Epoch:86,acc:1.000000
+ Epoch:86,acc:1.000000
+ Epoch:86,acc:1.000000
+
+ Epoch:86 loss:1.0646615010045934e-05, train_acc:1.0, totol_acc:0.9978595890410958 
+ Epoch: 86 Accuracy: 0.971154
+ Epoch:87,acc:1.000000
+ Epoch:87,acc:1.000000
+ Epoch:87,acc:1.000000
+ Epoch:87,acc:1.000000
+ Epoch:87,acc:1.000000
+ Epoch:87,acc:1.000000
+
+ Epoch:87 loss:1.0415711585665122e-05, train_acc:1.0, totol_acc:0.9981806506849316 
+ Epoch: 87 Accuracy: 0.965385
+ Epoch:88,acc:1.000000
+ Epoch:88,acc:1.000000
+ Epoch:88,acc:1.000000
+ Epoch:88,acc:1.000000
+ Epoch:88,acc:1.000000
+ Epoch:88,acc:1.000000
+
+ Epoch:88 loss:9.432259503228124e-06, train_acc:1.0, totol_acc:0.9977525684931506 
+ Epoch: 88 Accuracy: 0.966346
+ Epoch:89,acc:1.000000
+ Epoch:89,acc:1.000000
+ Epoch:89,acc:1.000000
+ Epoch:89,acc:1.000000
+ Epoch:89,acc:1.000000
+ Epoch:89,acc:1.000000
+
+ Epoch:89 loss:7.994329280336387e-06, train_acc:1.0, totol_acc:0.997966609589041 
+ Epoch: 89 Accuracy: 0.972115
+ Epoch:90,acc:1.000000
+ Epoch:90,acc:1.000000
+ Epoch:90,acc:1.000000
+ Epoch:90,acc:1.000000
+ Epoch:90,acc:1.000000
+ Epoch:90,acc:1.000000
+
+ Epoch:90 loss:7.010886292846408e-06, train_acc:1.0, totol_acc:0.9981806506849316 
+ Epoch: 90 Accuracy: 0.974038
+ Epoch:91,acc:1.000000
+ Epoch:91,acc:1.000000
+ Epoch:91,acc:1.000000
+ Epoch:91,acc:1.000000
+ Epoch:91,acc:1.000000
+ Epoch:91,acc:1.000000
+
+ Epoch:91 loss:6.444653081416618e-06, train_acc:1.0, totol_acc:0.9977525684931506 
+ Epoch: 91 Accuracy: 0.973077
+ Epoch:92,acc:1.000000
+ Epoch:92,acc:1.000000
+ Epoch:92,acc:1.000000
+ Epoch:92,acc:1.000000
+ Epoch:92,acc:1.000000
+ Epoch:92,acc:1.000000
+
+ Epoch:92 loss:5.9231388149783015e-06, train_acc:1.0, totol_acc:0.997966609589041 
+ Epoch: 92 Accuracy: 0.971154
+ Epoch:93,acc:1.000000
+ Epoch:93,acc:0.937500
+ Epoch:93,acc:1.000000
+ Epoch:93,acc:1.000000
+ Epoch:93,acc:1.000000
+ Epoch:93,acc:1.000000
+
+ Epoch:93 loss:8.888403499440756e-06, train_acc:1.0, totol_acc:0.9975385273972602 
+ Epoch: 93 Accuracy: 0.961538
+ Epoch:94,acc:1.000000
+ Epoch:94,acc:1.000000
+ Epoch:94,acc:1.000000
+ Epoch:94,acc:1.000000
+ Epoch:94,acc:1.000000
+ Epoch:94,acc:1.000000
+
+ Epoch:94 loss:5.423966285889037e-06, train_acc:1.0, totol_acc:0.9982876712328768 
+ Epoch: 94 Accuracy: 0.969231
+ Epoch:95,acc:1.000000
+ Epoch:95,acc:1.000000
+ Epoch:95,acc:1.000000
+ Epoch:95,acc:1.000000
+ Epoch:95,acc:1.000000
+ Epoch:95,acc:1.000000
+
+ Epoch:95 loss:4.924779659631895e-06, train_acc:1.0, totol_acc:0.9981806506849316 
+ Epoch: 95 Accuracy: 0.970192
+ Epoch:96,acc:1.000000
+ Epoch:96,acc:1.000000
+ Epoch:96,acc:1.000000
+ Epoch:96,acc:1.000000
+ Epoch:96,acc:1.000000
+ Epoch:96,acc:1.000000
+
+ Epoch:96 loss:4.619314040610334e-06, train_acc:1.0, totol_acc:0.9982876712328768 
+ Epoch: 96 Accuracy: 0.968269
+ Epoch:97,acc:1.000000
+ Epoch:97,acc:1.000000
+ Epoch:97,acc:1.000000
+ Epoch:97,acc:1.000000
+ Epoch:97,acc:1.000000
+ Epoch:97,acc:1.000000
+
+ Epoch:97 loss:4.254245595802786e-06, train_acc:1.0, totol_acc:0.997966609589041 
+ Epoch: 97 Accuracy: 0.966346
+ Epoch:98,acc:1.000000
+ Epoch:98,acc:1.000000
+ Epoch:98,acc:1.000000
+ Epoch:98,acc:1.000000
+ Epoch:98,acc:1.000000
+ Epoch:98,acc:1.000000
+
+ Epoch:98 loss:4.380906375445193e-06, train_acc:1.0, totol_acc:0.9981806506849316 
+ Epoch: 98 Accuracy: 0.965385
+ Epoch:99,acc:1.000000
+ Epoch:99,acc:1.000000
+ Epoch:99,acc:1.000000
+ Epoch:99,acc:1.000000
+ Epoch:99,acc:1.000000
+ Epoch:99,acc:1.000000
+
+ Epoch:99 loss:3.1068721000337973e-06, train_acc:1.0, totol_acc:0.9980736301369864 
+ Epoch: 99 Accuracy: 0.967308
+ Epoch:100,acc:1.000000
+ Epoch:100,acc:1.000000
+ Epoch:100,acc:1.000000
+ Epoch:100,acc:1.000000
+ Epoch:100,acc:1.000000
+ Epoch:100,acc:1.000000
+
+ Epoch:100 loss:4.105240350327222e-06, train_acc:1.0, totol_acc:0.997966609589041 
+ Epoch: 100 Accuracy: 0.957692
+ Epoch:101,acc:1.000000
+ Epoch:101,acc:1.000000
+ Epoch:101,acc:1.000000
+ Epoch:101,acc:1.000000
+ Epoch:101,acc:1.000000
+ Epoch:101,acc:1.000000
+
+ Epoch:101 loss:3.926426870748401e-06, train_acc:1.0, totol_acc:0.9978595890410958 
+ Epoch: 101 Accuracy: 0.963462
+ Epoch:102,acc:1.000000
+ Epoch:102,acc:1.000000
+ Epoch:102,acc:1.000000
+ Epoch:102,acc:1.000000
+ Epoch:102,acc:1.000000
+ Epoch:102,acc:1.000000
+
+ Epoch:102 loss:3.1515776299784193e-06, train_acc:1.0, totol_acc:0.9977525684931506 
+ Epoch: 102 Accuracy: 0.969231
+ Epoch:103,acc:1.000000
+ Epoch:103,acc:1.000000
+ Epoch:103,acc:1.000000
+ Epoch:103,acc:1.000000
+ Epoch:103,acc:1.000000
+ Epoch:103,acc:1.000000
+
+ Epoch:103 loss:3.509201860651956e-06, train_acc:1.0, totol_acc:0.9972174657534246 
+ Epoch: 103 Accuracy: 0.970192
+ Epoch:104,acc:1.000000
+ Epoch:104,acc:1.000000
+ Epoch:104,acc:1.000000
+ Epoch:104,acc:1.000000
+ Epoch:104,acc:1.000000
+ Epoch:104,acc:1.000000
+
+ Epoch:104 loss:9.685482837085146e-06, train_acc:1.0, totol_acc:0.9975385273972602 
+ Epoch: 104 Accuracy: 0.965385
+ Epoch:105,acc:1.000000
+ Epoch:105,acc:1.000000
+ Epoch:105,acc:1.000000
+ Epoch:105,acc:1.000000
+ Epoch:105,acc:1.000000
+ Epoch:105,acc:1.000000
+
+ Epoch:105 loss:4.090339189133374e-06, train_acc:1.0, totol_acc:0.9978595890410958 
+ Epoch: 105 Accuracy: 0.969231
+ Epoch:106,acc:1.000000
+ Epoch:106,acc:1.000000
+ Epoch:106,acc:1.000000
+ Epoch:106,acc:1.000000
+ Epoch:106,acc:1.000000
+ Epoch:106,acc:1.000000
+
+ Epoch:106 loss:3.986033789260546e-06, train_acc:1.0, totol_acc:0.9975385273972602 
+ Epoch: 106 Accuracy: 0.970192
+ Epoch:107,acc:1.000000
+ Epoch:107,acc:1.000000
+ Epoch:107,acc:1.000000
+ Epoch:107,acc:1.000000
+ Epoch:107,acc:1.000000
+ Epoch:107,acc:1.000000
+
+ Epoch:107 loss:3.986037881986704e-06, train_acc:1.0, totol_acc:0.9981806506849316 
+ Epoch: 107 Accuracy: 0.966346
+ Epoch:108,acc:1.000000
+ Epoch:108,acc:1.000000
+ Epoch:108,acc:1.000000
+ Epoch:108,acc:1.000000
+ Epoch:108,acc:1.000000
+ Epoch:108,acc:1.000000
+
+ Epoch:108 loss:4.53736720373854e-06, train_acc:1.0, totol_acc:0.9975385273972602 
+ Epoch: 108 Accuracy: 0.968269
+ Epoch:109,acc:1.000000
+ Epoch:109,acc:1.000000
+ Epoch:109,acc:1.000000
+ Epoch:109,acc:1.000000
+ Epoch:109,acc:1.000000
+ Epoch:109,acc:1.000000
+
+ Epoch:109 loss:5.558067186939297e-06, train_acc:1.0, totol_acc:0.9975385273972602 
+ Epoch: 109 Accuracy: 0.968269
+ Epoch:110,acc:1.000000
+ Epoch:110,acc:1.000000
+ Epoch:110,acc:1.000000
+ Epoch:110,acc:1.000000
+ Epoch:110,acc:1.000000
+ Epoch:110,acc:1.000000
+
+ Epoch:110 loss:5.841165148012806e-06, train_acc:1.0, totol_acc:0.9977525684931506 
+ Epoch: 110 Accuracy: 0.963462
+ Epoch:111,acc:1.000000
+ Epoch:111,acc:1.000000
+ Epoch:111,acc:1.000000
+ Epoch:111,acc:1.000000
+ Epoch:111,acc:1.000000
+ Epoch:111,acc:1.000000
+
+ Epoch:111 loss:2.5033859856193885e-06, train_acc:1.0, totol_acc:0.9975385273972602 
+ Epoch: 111 Accuracy: 0.968269
+ Epoch:112,acc:1.000000
+ Epoch:112,acc:1.000000
+ Epoch:112,acc:1.000000
+ Epoch:112,acc:1.000000
+ Epoch:112,acc:1.000000
+ Epoch:112,acc:1.000000
+
+ Epoch:112 loss:4.477744369069114e-06, train_acc:1.0, totol_acc:0.9976455479452054 
+ Epoch: 112 Accuracy: 0.967308
+ Epoch:113,acc:1.000000
+ Epoch:113,acc:1.000000
+ Epoch:113,acc:1.000000
+ Epoch:113,acc:1.000000
+ Epoch:113,acc:1.000000
+ Epoch:113,acc:1.000000
+
+ Epoch:113 loss:2.488485506546567e-06, train_acc:1.0, totol_acc:0.9976455479452054 
+ Epoch: 113 Accuracy: 0.968269
+ Epoch:114,acc:1.000000
+ Epoch:114,acc:1.000000
+ Epoch:114,acc:1.000000
+ Epoch:114,acc:1.000000
+ Epoch:114,acc:1.000000
+ Epoch:114,acc:1.000000
+
+ Epoch:114 loss:2.063804004137637e-06, train_acc:1.0, totol_acc:0.9975385273972602 
+ Epoch: 114 Accuracy: 0.972115
+ Epoch:115,acc:1.000000
+ Epoch:115,acc:1.000000
+ Epoch:115,acc:1.000000
+ Epoch:115,acc:1.000000
+ Epoch:115,acc:1.000000
+ Epoch:115,acc:1.000000
+
+ Epoch:115 loss:1.7806819414545316e-06, train_acc:1.0, totol_acc:0.9977525684931506 
+ Epoch: 115 Accuracy: 0.969231
+ Epoch:116,acc:1.000000
+ Epoch:116,acc:1.000000
+ Epoch:116,acc:1.000000
+ Epoch:116,acc:1.000000
+ Epoch:116,acc:1.000000
+ Epoch:116,acc:1.000000
+
+ Epoch:116 loss:2.302221218997147e-06, train_acc:1.0, totol_acc:0.9975385273972602 
+ Epoch: 116 Accuracy: 0.968269
+ Epoch:117,acc:1.000000
+ Epoch:117,acc:1.000000
+ Epoch:117,acc:1.000000
+ Epoch:117,acc:1.000000
+ Epoch:117,acc:1.000000
+ Epoch:117,acc:1.000000
+
+ Epoch:117 loss:2.540639115977683e-06, train_acc:1.0, totol_acc:0.9976455479452054 
+ Epoch: 117 Accuracy: 0.969231
+ Epoch:118,acc:1.000000
+ Epoch:118,acc:1.000000
+ Epoch:118,acc:1.000000
+ Epoch:118,acc:1.000000
+ Epoch:118,acc:1.000000
+ Epoch:118,acc:1.000000
+
+ Epoch:118 loss:2.361824499530485e-06, train_acc:1.0, totol_acc:0.9976455479452054 
+ Epoch: 118 Accuracy: 0.971154
+ Epoch:119,acc:1.000000
+ Epoch:119,acc:1.000000
+ Epoch:119,acc:1.000000
+ Epoch:119,acc:1.000000
+ Epoch:119,acc:1.000000
+ Epoch:119,acc:1.000000
+
+ Epoch:119 loss:1.8849908656193293e-06, train_acc:1.0, totol_acc:0.9978595890410958 
+ Epoch: 119 Accuracy: 0.970192
+ Epoch:120,acc:1.000000
+ Epoch:120,acc:1.000000
+ Epoch:120,acc:1.000000
+ Epoch:120,acc:1.000000
+ Epoch:120,acc:1.000000
+ Epoch:120,acc:1.000000
+
+ Epoch:120 loss:1.668926188358455e-06, train_acc:1.0, totol_acc:0.9975385273972602 
+ Epoch: 120 Accuracy: 0.970192
+ Epoch:121,acc:1.000000
+ Epoch:121,acc:1.000000
+ Epoch:121,acc:1.000000
+ Epoch:121,acc:1.000000
+ Epoch:121,acc:1.000000
+ Epoch:121,acc:1.000000
+
+ Epoch:121 loss:1.5571675930914353e-06, train_acc:1.0, totol_acc:0.997431506849315 
+ Epoch: 121 Accuracy: 0.972115
+ Epoch:122,acc:1.000000
+ Epoch:122,acc:1.000000
+ Epoch:122,acc:1.000000
+ Epoch:122,acc:1.000000
+ Epoch:122,acc:1.000000
+ Epoch:122,acc:1.000000
+
+ Epoch:122 loss:1.5348158513006638e-06, train_acc:1.0, totol_acc:0.9975385273972602 
+ Epoch: 122 Accuracy: 0.971154
+ Epoch:123,acc:1.000000
+ Epoch:123,acc:1.000000
+ Epoch:123,acc:1.000000
+ Epoch:123,acc:1.000000
+ Epoch:123,acc:1.000000
+ Epoch:123,acc:1.000000
+
+ Epoch:123 loss:1.929694008140359e-06, train_acc:1.0, totol_acc:0.9978595890410958 
+ Epoch: 123 Accuracy: 0.971154
+ Epoch:124,acc:1.000000
+ Epoch:124,acc:1.000000
+ Epoch:124,acc:1.000000
+ Epoch:124,acc:1.000000
+ Epoch:124,acc:1.000000
+ Epoch:124,acc:1.000000
+
+ Epoch:124 loss:1.400705741616548e-06, train_acc:1.0, totol_acc:0.9975385273972602 
+ Epoch: 124 Accuracy: 0.973077
+ Epoch:125,acc:1.000000
+ Epoch:125,acc:1.000000
+ Epoch:125,acc:1.000000
+ Epoch:125,acc:1.000000
+ Epoch:125,acc:1.000000
+ Epoch:125,acc:1.000000
+
+ Epoch:125 loss:1.527364815956389e-06, train_acc:1.0, totol_acc:0.9975385273972602 
+ Epoch: 125 Accuracy: 0.973077
+ Epoch:126,acc:1.000000
+ Epoch:126,acc:1.000000
+ Epoch:126,acc:1.000000
+ Epoch:126,acc:1.000000
+ Epoch:126,acc:1.000000
+ Epoch:126,acc:1.000000
+
+ Epoch:126 loss:1.2814972478736308e-06, train_acc:1.0, totol_acc:0.9976455479452054 
+ Epoch: 126 Accuracy: 0.970192
+ Epoch:127,acc:1.000000
+ Epoch:127,acc:1.000000
+ Epoch:127,acc:1.000000
+ Epoch:127,acc:1.000000
+ Epoch:127,acc:1.000000
+ Epoch:127,acc:1.000000
+
+ Epoch:127 loss:1.2665960866797832e-06, train_acc:1.0, totol_acc:0.997431506849315 
+ Epoch: 127 Accuracy: 0.973077
+ Epoch:128,acc:1.000000
+ Epoch:128,acc:1.000000
+ Epoch:128,acc:1.000000
+ Epoch:128,acc:1.000000
+ Epoch:128,acc:1.000000
+ Epoch:128,acc:1.000000
+
+ Epoch:128 loss:1.2367939916657633e-06, train_acc:1.0, totol_acc:0.9975385273972602 
+ Epoch: 128 Accuracy: 0.971154
+ Epoch:129,acc:1.000000
+ Epoch:129,acc:1.000000
+ Epoch:129,acc:1.000000
+ Epoch:129,acc:1.000000
+ Epoch:129,acc:1.000000
+ Epoch:129,acc:1.000000
+
+ Epoch:129 loss:1.1846400411741342e-06, train_acc:1.0, totol_acc:0.997431506849315 
+ Epoch: 129 Accuracy: 0.970192
+ Epoch:130,acc:1.000000
+ Epoch:130,acc:1.000000
+ Epoch:130,acc:1.000000
+ Epoch:130,acc:1.000000
+ Epoch:130,acc:1.000000
+ Epoch:130,acc:1.000000
+
+ Epoch:130 loss:1.26659574561927e-06, train_acc:1.0, totol_acc:0.9977525684931506 
+ Epoch: 130 Accuracy: 0.972115
+ Epoch:131,acc:1.000000
+ Epoch:131,acc:1.000000
+ Epoch:131,acc:1.000000
+ Epoch:131,acc:1.000000
+ Epoch:131,acc:1.000000
+ Epoch:131,acc:1.000000
+
+ Epoch:131 loss:8.940685347624822e-07, train_acc:1.0, totol_acc:0.9973244863013698 
+ Epoch: 131 Accuracy: 0.969231
+ Epoch:132,acc:1.000000
+ Epoch:132,acc:1.000000
+ Epoch:132,acc:1.000000
+ Epoch:132,acc:1.000000
+ Epoch:132,acc:1.000000
+ Epoch:132,acc:1.000000
+
+ Epoch:132 loss:9.015190016725683e-07, train_acc:1.0, totol_acc:0.9973244863013698 
+ Epoch: 132 Accuracy: 0.974038
+ Epoch:133,acc:1.000000
+ Epoch:133,acc:1.000000
+ Epoch:133,acc:1.000000
+ Epoch:133,acc:1.000000
+ Epoch:133,acc:1.000000
+ Epoch:133,acc:1.000000
+
+ Epoch:133 loss:1.0505300451768562e-06, train_acc:1.0, totol_acc:0.9973244863013698 
+ Epoch: 133 Accuracy: 0.969231
+ Epoch:134,acc:1.000000
+ Epoch:134,acc:1.000000
+ Epoch:134,acc:1.000000
+ Epoch:134,acc:1.000000
+ Epoch:134,acc:1.000000
+ Epoch:134,acc:1.000000
+
+ Epoch:134 loss:1.095233187697886e-06, train_acc:1.0, totol_acc:0.9973244863013698 
+ Epoch: 134 Accuracy: 0.969231
+ Epoch:135,acc:1.000000
+ Epoch:135,acc:1.000000
+ Epoch:135,acc:1.000000
+ Epoch:135,acc:1.000000
+ Epoch:135,acc:1.000000
+ Epoch:135,acc:1.000000
+
+ Epoch:135 loss:7.972111006893101e-07, train_acc:1.0, totol_acc:0.997431506849315 
+ Epoch: 135 Accuracy: 0.972115
+ Epoch:136,acc:1.000000
+ Epoch:136,acc:1.000000
+ Epoch:136,acc:1.000000
+ Epoch:136,acc:1.000000
+ Epoch:136,acc:1.000000
+ Epoch:136,acc:1.000000
+
+ Epoch:136 loss:7.525076171077671e-07, train_acc:1.0, totol_acc:0.9976455479452054 
+ Epoch: 136 Accuracy: 0.971154
+ Epoch:137,acc:1.000000
+ Epoch:137,acc:1.000000
+ Epoch:137,acc:1.000000
+ Epoch:137,acc:1.000000
+ Epoch:137,acc:1.000000
+ Epoch:137,acc:1.000000
+
+ Epoch:137 loss:9.089692412089789e-07, train_acc:1.0, totol_acc:0.997431506849315 
+ Epoch: 137 Accuracy: 0.971154
+ Epoch:138,acc:1.000000
+ Epoch:138,acc:1.000000
+ Epoch:138,acc:1.000000
+ Epoch:138,acc:1.000000
+ Epoch:138,acc:1.000000
+ Epoch:138,acc:1.000000
+
+ Epoch:138 loss:7.897605769358051e-07, train_acc:1.0, totol_acc:0.997431506849315 
+ Epoch: 138 Accuracy: 0.970192
+ Epoch:139,acc:1.000000
+ Epoch:139,acc:1.000000
+ Epoch:139,acc:1.000000
+ Epoch:139,acc:1.000000
+ Epoch:139,acc:1.000000
+ Epoch:139,acc:1.000000
+
+ Epoch:139 loss:8.344639468305104e-07, train_acc:1.0, totol_acc:0.9976455479452054 
+ Epoch: 139 Accuracy: 0.969231
+ Epoch:140,acc:1.000000
+ Epoch:140,acc:1.000000
+ Epoch:140,acc:1.000000
+ Epoch:140,acc:1.000000
+ Epoch:140,acc:1.000000
+ Epoch:140,acc:1.000000
+
+ Epoch:140 loss:7.003538939898135e-07, train_acc:1.0, totol_acc:0.9978595890410958 
+ Epoch: 140 Accuracy: 0.968269
+ Epoch:141,acc:1.000000
+ Epoch:141,acc:1.000000
+ Epoch:141,acc:1.000000
+ Epoch:141,acc:1.000000
+ Epoch:141,acc:1.000000
+ Epoch:141,acc:1.000000
+
+ Epoch:141 loss:6.631008773183567e-07, train_acc:1.0, totol_acc:0.997431506849315 
+ Epoch: 141 Accuracy: 0.970192
+ Epoch:142,acc:1.000000
+ Epoch:142,acc:1.000000
+ Epoch:142,acc:1.000000
+ Epoch:142,acc:1.000000
+ Epoch:142,acc:1.000000
+ Epoch:142,acc:1.000000
+
+ Epoch:142 loss:5.811447749692888e-07, train_acc:1.0, totol_acc:0.9977525684931506 
+ Epoch: 142 Accuracy: 0.971154
+ Epoch:143,acc:1.000000
+ Epoch:143,acc:1.000000
+ Epoch:143,acc:1.000000
+ Epoch:143,acc:1.000000
+ Epoch:143,acc:1.000000
+ Epoch:143,acc:1.000000
+
+ Epoch:143 loss:4.69386236545688e-07, train_acc:1.0, totol_acc:0.9976455479452054 
+ Epoch: 143 Accuracy: 0.972115
+ Epoch:144,acc:1.000000
+ Epoch:144,acc:1.000000
+ Epoch:144,acc:1.000000
+ Epoch:144,acc:1.000000
+ Epoch:144,acc:1.000000
+ Epoch:144,acc:1.000000
+
+ Epoch:144 loss:6.183975074236514e-07, train_acc:1.0, totol_acc:0.997431506849315 
+ Epoch: 144 Accuracy: 0.968269
+ Epoch:145,acc:1.000000
+ Epoch:145,acc:1.000000
+ Epoch:145,acc:1.000000
+ Epoch:145,acc:1.000000
+ Epoch:145,acc:1.000000
+ Epoch:145,acc:1.000000
+
+ Epoch:145 loss:6.109469836701464e-07, train_acc:1.0, totol_acc:0.9973244863013698 
+ Epoch: 145 Accuracy: 0.968269
+ Epoch:146,acc:1.000000
+ Epoch:146,acc:1.000000
+ Epoch:146,acc:1.000000
+ Epoch:146,acc:1.000000
+ Epoch:146,acc:1.000000
+ Epoch:146,acc:1.000000
+
+ Epoch:146 loss:5.885952987227938e-07, train_acc:1.0, totol_acc:0.9975385273972602 
+ Epoch: 146 Accuracy: 0.969231
+ Epoch:147,acc:1.000000
+ Epoch:147,acc:1.000000
+ Epoch:147,acc:1.000000
+ Epoch:147,acc:1.000000
+ Epoch:147,acc:1.000000
+ Epoch:147,acc:1.000000
+
+ Epoch:147 loss:4.991885020899645e-07, train_acc:1.0, totol_acc:0.9973244863013698 
+ Epoch: 147 Accuracy: 0.967308
+ Epoch:148,acc:1.000000
+ Epoch:148,acc:1.000000
+ Epoch:148,acc:1.000000
+ Epoch:148,acc:1.000000
+ Epoch:148,acc:1.000000
+ Epoch:148,acc:1.000000
+
+ Epoch:148 loss:4.3213341882619716e-07, train_acc:1.0, totol_acc:0.9975385273972602 
+ Epoch: 148 Accuracy: 0.966346
+ Epoch:149,acc:1.000000
+ Epoch:149,acc:1.000000
+ Epoch:149,acc:1.000000
+ Epoch:149,acc:1.000000
+ Epoch:149,acc:1.000000
+ Epoch:149,acc:1.000000
+
+ Epoch:149 loss:4.2468286665098276e-07, train_acc:1.0, totol_acc:0.9973244863013698 
+ Epoch: 149 Accuracy: 0.969231
+ Epoch:150,acc:1.000000
+ Epoch:150,acc:1.000000
+ Epoch:150,acc:1.000000
+ Epoch:150,acc:1.000000
+ Epoch:150,acc:1.000000
+ Epoch:150,acc:1.000000
+
+ Epoch:150 loss:5.364413482311647e-07, train_acc:1.0, totol_acc:0.9975385273972602 
+ Epoch: 150 Accuracy: 0.967308
+ Epoch:151,acc:1.000000
+ Epoch:151,acc:1.000000
+ Epoch:151,acc:1.000000
+ Epoch:151,acc:1.000000
+ Epoch:151,acc:1.000000
+ Epoch:151,acc:1.000000
+
+ Epoch:151 loss:4.395839141579927e-07, train_acc:1.0, totol_acc:0.997431506849315 
+ Epoch: 151 Accuracy: 0.968269
+ Epoch:152,acc:1.000000
+ Epoch:152,acc:1.000000
+ Epoch:152,acc:1.000000
+ Epoch:152,acc:1.000000
+ Epoch:152,acc:1.000000
+ Epoch:152,acc:1.000000
+
+ Epoch:152 loss:4.3958397100141156e-07, train_acc:1.0, totol_acc:0.9975385273972602 
+ Epoch: 152 Accuracy: 0.966346
+ Epoch:153,acc:1.000000
+ Epoch:153,acc:1.000000
+ Epoch:153,acc:1.000000
+ Epoch:153,acc:1.000000
+ Epoch:153,acc:1.000000
+ Epoch:153,acc:1.000000
+
+ Epoch:153 loss:4.023310680167924e-07, train_acc:1.0, totol_acc:0.9975385273972602 
+ Epoch: 153 Accuracy: 0.968269
+ Epoch:154,acc:1.000000
+ Epoch:154,acc:1.000000
+ Epoch:154,acc:1.000000
+ Epoch:154,acc:1.000000
+ Epoch:154,acc:1.000000
+ Epoch:154,acc:1.000000
+
+ Epoch:154 loss:5.140896632838121e-07, train_acc:1.0, totol_acc:0.997431506849315 
+ Epoch: 154 Accuracy: 0.971154
+ Epoch:155,acc:1.000000
+ Epoch:155,acc:1.000000
+ Epoch:155,acc:1.000000
+ Epoch:155,acc:1.000000
+ Epoch:155,acc:1.000000
+ Epoch:155,acc:1.000000
+
+ Epoch:155 loss:4.1723228605405893e-07, train_acc:1.0, totol_acc:0.9976455479452054 
+ Epoch: 155 Accuracy: 0.970192
+ Epoch:156,acc:1.000000
+ Epoch:156,acc:1.000000
+ Epoch:156,acc:1.000000
+ Epoch:156,acc:1.000000
+ Epoch:156,acc:1.000000
+ Epoch:156,acc:1.000000
+
+ Epoch:156 loss:5.066389121566317e-07, train_acc:1.0, totol_acc:0.9975385273972602 
+ Epoch: 156 Accuracy: 0.971154
+ Epoch:157,acc:1.000000
+ Epoch:157,acc:1.000000
+ Epoch:157,acc:1.000000
+ Epoch:157,acc:1.000000
+ Epoch:157,acc:1.000000
+ Epoch:157,acc:1.000000
+
+ Epoch:157 loss:4.172321723672212e-07, train_acc:1.0, totol_acc:0.997431506849315 
+ Epoch: 157 Accuracy: 0.972115
+ Epoch:158,acc:1.000000
+ Epoch:158,acc:1.000000
+ Epoch:158,acc:1.000000
+ Epoch:158,acc:1.000000
+ Epoch:158,acc:1.000000
+ Epoch:158,acc:1.000000
+
+ Epoch:158 loss:4.6193562752705475e-07, train_acc:1.0, totol_acc:0.9976455479452054 
+ Epoch: 158 Accuracy: 0.968269
+ Epoch:159,acc:1.000000
+ Epoch:159,acc:1.000000
+ Epoch:159,acc:1.000000
+ Epoch:159,acc:1.000000
+ Epoch:159,acc:1.000000
+ Epoch:159,acc:1.000000
+
+ Epoch:159 loss:4.0233109643850185e-07, train_acc:1.0, totol_acc:0.9973244863013698 
+ Epoch: 159 Accuracy: 0.969231
+ Epoch:160,acc:1.000000
+ Epoch:160,acc:1.000000
+ Epoch:160,acc:1.000000
+ Epoch:160,acc:1.000000
+ Epoch:160,acc:1.000000
+ Epoch:160,acc:1.000000
+
+ Epoch:160 loss:4.917378646496218e-07, train_acc:1.0, totol_acc:0.997431506849315 
+ Epoch: 160 Accuracy: 0.967308
+ Epoch:161,acc:1.000000
+ Epoch:161,acc:1.000000
+ Epoch:161,acc:1.000000
+ Epoch:161,acc:1.000000
+ Epoch:161,acc:1.000000
+ Epoch:161,acc:1.000000
+
+ Epoch:161 loss:4.69386236545688e-07, train_acc:1.0, totol_acc:0.9972174657534246 
+ Epoch: 161 Accuracy: 0.968269
+ Epoch:162,acc:1.000000
+ Epoch:162,acc:1.000000
+ Epoch:162,acc:1.000000
+ Epoch:162,acc:1.000000
+ Epoch:162,acc:1.000000
+ Epoch:162,acc:1.000000
+
+ Epoch:162 loss:4.991884452465456e-07, train_acc:1.0, totol_acc:0.9975385273972602 
+ Epoch: 162 Accuracy: 0.968269
+ Epoch:163,acc:1.000000
+ Epoch:163,acc:1.000000
+ Epoch:163,acc:1.000000
+ Epoch:163,acc:1.000000
+ Epoch:163,acc:1.000000
+ Epoch:163,acc:1.000000
+
+ Epoch:163 loss:3.1292424296225363e-07, train_acc:1.0, totol_acc:0.9976455479452054 
+ Epoch: 163 Accuracy: 0.971154
+ Epoch:164,acc:1.000000
+ Epoch:164,acc:1.000000
+ Epoch:164,acc:1.000000
+ Epoch:164,acc:1.000000
+ Epoch:164,acc:1.000000
+ Epoch:164,acc:1.000000
+
+ Epoch:164 loss:3.5017714594687277e-07, train_acc:1.0, totol_acc:0.9973244863013698 
+ Epoch: 164 Accuracy: 0.968269
+ Epoch:165,acc:1.000000
+ Epoch:165,acc:1.000000
+ Epoch:165,acc:1.000000
+ Epoch:165,acc:1.000000
+ Epoch:165,acc:1.000000
+ Epoch:165,acc:1.000000
+
+ Epoch:165 loss:4.3213333356106887e-07, train_acc:1.0, totol_acc:0.9977525684931506 
+ Epoch: 165 Accuracy: 0.969231
+ Epoch:166,acc:1.000000
+ Epoch:166,acc:1.000000
+ Epoch:166,acc:1.000000
+ Epoch:166,acc:1.000000
+ Epoch:166,acc:1.000000
+ Epoch:166,acc:1.000000
+
+ Epoch:166 loss:4.3213333356106887e-07, train_acc:1.0, totol_acc:0.9973244863013698 
+ Epoch: 166 Accuracy: 0.967308
+ Epoch:167,acc:1.000000
+ Epoch:167,acc:1.000000
+ Epoch:167,acc:1.000000
+ Epoch:167,acc:1.000000
+ Epoch:167,acc:1.000000
+ Epoch:167,acc:1.000000
+
+ Epoch:167 loss:4.544851321952592e-07, train_acc:1.0, totol_acc:0.997431506849315 
+ Epoch: 167 Accuracy: 0.967308
+ Epoch:168,acc:1.000000
+ Epoch:168,acc:1.000000
+ Epoch:168,acc:1.000000
+ Epoch:168,acc:1.000000
+ Epoch:168,acc:1.000000
+ Epoch:168,acc:1.000000
+
+ Epoch:168 loss:4.023310680167924e-07, train_acc:1.0, totol_acc:0.997431506849315 
+ Epoch: 168 Accuracy: 0.970192
+ Epoch:169,acc:1.000000
+ Epoch:169,acc:1.000000
+ Epoch:169,acc:1.000000
+ Epoch:169,acc:1.000000
+ Epoch:169,acc:1.000000
+ Epoch:169,acc:1.000000
+
+ Epoch:169 loss:3.203748519808869e-07, train_acc:1.0, totol_acc:0.9973244863013698 
+ Epoch: 169 Accuracy: 0.967308
+ Epoch:170,acc:1.000000
+ Epoch:170,acc:1.000000
+ Epoch:170,acc:1.000000
+ Epoch:170,acc:1.000000
+ Epoch:170,acc:1.000000
+ Epoch:170,acc:1.000000
+
+ Epoch:170 loss:3.5017711752516334e-07, train_acc:1.0, totol_acc:0.9973244863013698 
+ Epoch: 170 Accuracy: 0.966346
+ Epoch:171,acc:1.000000
+ Epoch:171,acc:1.000000
+ Epoch:171,acc:1.000000
+ Epoch:171,acc:1.000000
+ Epoch:171,acc:1.000000
+ Epoch:171,acc:1.000000
+
+ Epoch:171 loss:3.7252880247251596e-07, train_acc:1.0, totol_acc:0.997431506849315 
+ Epoch: 171 Accuracy: 0.967308
+ Epoch:172,acc:1.000000
+ Epoch:172,acc:1.000000
+ Epoch:172,acc:1.000000
+ Epoch:172,acc:1.000000
+ Epoch:172,acc:1.000000
+ Epoch:172,acc:1.000000
+
+ Epoch:172 loss:3.9488054426328745e-07, train_acc:1.0, totol_acc:0.997431506849315 
+ Epoch: 172 Accuracy: 0.971154
+ Epoch:173,acc:1.000000
+ Epoch:173,acc:1.000000
+ Epoch:173,acc:1.000000
+ Epoch:173,acc:1.000000
+ Epoch:173,acc:1.000000
+ Epoch:173,acc:1.000000
+
+ Epoch:173 loss:4.0978164861371624e-07, train_acc:1.0, totol_acc:0.9976455479452054 
+ Epoch: 173 Accuracy: 0.970192
+ Epoch:174,acc:1.000000
+ Epoch:174,acc:1.000000
+ Epoch:174,acc:1.000000
+ Epoch:174,acc:1.000000
+ Epoch:174,acc:1.000000
+ Epoch:174,acc:1.000000
+
+ Epoch:174 loss:3.5762769812208717e-07, train_acc:1.0, totol_acc:0.997431506849315 
+ Epoch: 174 Accuracy: 0.972115
+ Epoch:175,acc:1.000000
+ Epoch:175,acc:1.000000
+ Epoch:175,acc:1.000000
+ Epoch:175,acc:1.000000
+ Epoch:175,acc:1.000000
+ Epoch:175,acc:1.000000
+
+ Epoch:175 loss:3.576276412786683e-07, train_acc:1.0, totol_acc:0.997431506849315 
+ Epoch: 175 Accuracy: 0.969231
+ Epoch:176,acc:1.000000
+ Epoch:176,acc:1.000000
+ Epoch:176,acc:1.000000
+ Epoch:176,acc:1.000000
+ Epoch:176,acc:1.000000
+ Epoch:176,acc:1.000000
+
+ Epoch:176 loss:3.1292424296225363e-07, train_acc:1.0, totol_acc:0.9976455479452054 
+ Epoch: 176 Accuracy: 0.971154
+ Epoch:177,acc:1.000000
+ Epoch:177,acc:1.000000
+ Epoch:177,acc:1.000000
+ Epoch:177,acc:1.000000
+ Epoch:177,acc:1.000000
+ Epoch:177,acc:1.000000
+
+ Epoch:177 loss:2.756713683993439e-07, train_acc:1.0, totol_acc:0.9973244863013698 
+ Epoch: 177 Accuracy: 0.969231
+ Epoch:178,acc:1.000000
+ Epoch:178,acc:1.000000
+ Epoch:178,acc:1.000000
+ Epoch:178,acc:1.000000
+ Epoch:178,acc:1.000000
+ Epoch:178,acc:1.000000
+
+ Epoch:178 loss:4.3213330513935944e-07, train_acc:1.0, totol_acc:0.997431506849315 
+ Epoch: 178 Accuracy: 0.972115
+ Epoch:179,acc:1.000000
+ Epoch:179,acc:1.000000
+ Epoch:179,acc:1.000000
+ Epoch:179,acc:1.000000
+ Epoch:179,acc:1.000000
+ Epoch:179,acc:1.000000
+
+ Epoch:179 loss:3.352759847530251e-07, train_acc:1.0, totol_acc:0.9976455479452054 
+ Epoch: 179 Accuracy: 0.972115
+ Epoch:180,acc:1.000000
+ Epoch:180,acc:1.000000
+ Epoch:180,acc:1.000000
+ Epoch:180,acc:1.000000
+ Epoch:180,acc:1.000000
+ Epoch:180,acc:1.000000
+
+ Epoch:180 loss:2.682208162241295e-07, train_acc:1.0, totol_acc:0.9975385273972602 
+ Epoch: 180 Accuracy: 0.969231
+ Epoch:181,acc:1.000000
+ Epoch:181,acc:1.000000
+ Epoch:181,acc:1.000000
+ Epoch:181,acc:1.000000
+ Epoch:181,acc:1.000000
+ Epoch:181,acc:1.000000
+
+ Epoch:181 loss:3.1292427138396306e-07, train_acc:1.0, totol_acc:0.9976455479452054 
+ Epoch: 181 Accuracy: 0.969231
+ Epoch:182,acc:1.000000
+ Epoch:182,acc:1.000000
+ Epoch:182,acc:1.000000
+ Epoch:182,acc:1.000000
+ Epoch:182,acc:1.000000
+ Epoch:182,acc:1.000000
+
+ Epoch:182 loss:3.5762769812208717e-07, train_acc:1.0, totol_acc:0.9977525684931506 
+ Epoch: 182 Accuracy: 0.969231
+ Epoch:183,acc:1.000000
+ Epoch:183,acc:1.000000
+ Epoch:183,acc:1.000000
+ Epoch:183,acc:1.000000
+ Epoch:183,acc:1.000000
+ Epoch:183,acc:1.000000
+
+ Epoch:183 loss:3.725288593159348e-07, train_acc:1.0, totol_acc:0.997431506849315 
+ Epoch: 183 Accuracy: 0.968269
+ Epoch:184,acc:1.000000
+ Epoch:184,acc:1.000000
+ Epoch:184,acc:1.000000
+ Epoch:184,acc:1.000000
+ Epoch:184,acc:1.000000
+ Epoch:184,acc:1.000000
+
+ Epoch:184 loss:5.6624367061886e-07, train_acc:1.0, totol_acc:0.9973244863013698 
+ Epoch: 184 Accuracy: 0.970192
+ Epoch:185,acc:1.000000
+ Epoch:185,acc:1.000000
+ Epoch:185,acc:1.000000
+ Epoch:185,acc:1.000000
+ Epoch:185,acc:1.000000
+ Epoch:185,acc:1.000000
+
+ Epoch:185 loss:2.980231101901154e-07, train_acc:1.0, totol_acc:0.9972174657534246 
+ Epoch: 185 Accuracy: 0.970192
+ Epoch:186,acc:1.000000
+ Epoch:186,acc:1.000000
+ Epoch:186,acc:1.000000
+ Epoch:186,acc:1.000000
+ Epoch:186,acc:1.000000
+ Epoch:186,acc:1.000000
+
+ Epoch:186 loss:3.501770891034539e-07, train_acc:1.0, totol_acc:0.9973244863013698 
+ Epoch: 186 Accuracy: 0.969231
+ Epoch:187,acc:1.000000
+ Epoch:187,acc:1.000000
+ Epoch:187,acc:1.000000
+ Epoch:187,acc:1.000000
+ Epoch:187,acc:1.000000
+ Epoch:187,acc:1.000000
+
+ Epoch:187 loss:2.905725295931916e-07, train_acc:1.0, totol_acc:0.9975385273972602 
+ Epoch: 187 Accuracy: 0.971154
+ Epoch:188,acc:1.000000
+ Epoch:188,acc:1.000000
+ Epoch:188,acc:1.000000
+ Epoch:188,acc:1.000000
+ Epoch:188,acc:1.000000
+ Epoch:188,acc:1.000000
+
+ Epoch:188 loss:3.352759847530251e-07, train_acc:1.0, totol_acc:0.9973244863013698 
+ Epoch: 188 Accuracy: 0.971154
+ Epoch:189,acc:1.000000
+ Epoch:189,acc:1.000000
+ Epoch:189,acc:1.000000
+ Epoch:189,acc:1.000000
+ Epoch:189,acc:1.000000
+ Epoch:189,acc:1.000000
+
+ Epoch:189 loss:2.756713683993439e-07, train_acc:1.0, totol_acc:0.9976455479452054 
+ Epoch: 189 Accuracy: 0.969231
+ Epoch:190,acc:1.000000
+ Epoch:190,acc:1.000000
+ Epoch:190,acc:1.000000
+ Epoch:190,acc:1.000000
+ Epoch:190,acc:1.000000
+ Epoch:190,acc:1.000000
+
+ Epoch:190 loss:2.980231101901154e-07, train_acc:1.0, totol_acc:0.9973244863013698 
+ Epoch: 190 Accuracy: 0.970192
+ Epoch:191,acc:1.000000
+ Epoch:191,acc:1.000000
+ Epoch:191,acc:1.000000
+ Epoch:191,acc:1.000000
+ Epoch:191,acc:1.000000
+ Epoch:191,acc:1.000000
+
+ Epoch:191 loss:2.905725295931916e-07, train_acc:1.0, totol_acc:0.9972174657534246 
+ Epoch: 191 Accuracy: 0.969231
+ Epoch:192,acc:1.000000
+ Epoch:192,acc:1.000000
+ Epoch:192,acc:1.000000
+ Epoch:192,acc:1.000000
+ Epoch:192,acc:1.000000
+ Epoch:192,acc:1.000000
+
+ Epoch:192 loss:3.352759563313157e-07, train_acc:1.0, totol_acc:0.9972174657534246 
+ Epoch: 192 Accuracy: 0.969231
+ Epoch:193,acc:1.000000
+ Epoch:193,acc:1.000000
+ Epoch:193,acc:1.000000
+ Epoch:193,acc:1.000000
+ Epoch:193,acc:1.000000
+ Epoch:193,acc:1.000000
+
+ Epoch:193 loss:3.1292427138396306e-07, train_acc:1.0, totol_acc:0.997431506849315 
+ Epoch: 193 Accuracy: 0.967308
+ Epoch:194,acc:1.000000
+ Epoch:194,acc:1.000000
+ Epoch:194,acc:1.000000
+ Epoch:194,acc:1.000000
+ Epoch:194,acc:1.000000
+ Epoch:194,acc:1.000000
+
+ Epoch:194 loss:3.5017711752516334e-07, train_acc:1.0, totol_acc:0.9972174657534246 
+ Epoch: 194 Accuracy: 0.971154
+ Epoch:195,acc:1.000000
+ Epoch:195,acc:1.000000
+ Epoch:195,acc:1.000000
+ Epoch:195,acc:1.000000
+ Epoch:195,acc:1.000000
+ Epoch:195,acc:1.000000
+
+ Epoch:195 loss:3.7252880247251596e-07, train_acc:1.0, totol_acc:0.9976455479452054 
+ Epoch: 195 Accuracy: 0.967308
+ Epoch:196,acc:1.000000
+ Epoch:196,acc:1.000000
+ Epoch:196,acc:1.000000
+ Epoch:196,acc:1.000000
+ Epoch:196,acc:1.000000
+ Epoch:196,acc:1.000000
+
+ Epoch:196 loss:3.352759563313157e-07, train_acc:1.0, totol_acc:0.9975385273972602 
+ Epoch: 196 Accuracy: 0.970192
+ Epoch:197,acc:1.000000
+ Epoch:197,acc:1.000000
+ Epoch:197,acc:1.000000
+ Epoch:197,acc:1.000000
+ Epoch:197,acc:1.000000
+ Epoch:197,acc:1.000000
+
+ Epoch:197 loss:3.576276412786683e-07, train_acc:1.0, totol_acc:0.997431506849315 
+ Epoch: 197 Accuracy: 0.967308
+ Epoch:198,acc:1.000000
+ Epoch:198,acc:1.000000
+ Epoch:198,acc:1.000000
+ Epoch:198,acc:1.000000
+ Epoch:198,acc:1.000000
+ Epoch:198,acc:1.000000
+
+ Epoch:198 loss:2.8312194899626775e-07, train_acc:1.0, totol_acc:0.9975385273972602 
+ Epoch: 198 Accuracy: 0.968269
+ Epoch:199,acc:1.000000
+ Epoch:199,acc:1.000000
+ Epoch:199,acc:1.000000
+ Epoch:199,acc:1.000000
+ Epoch:199,acc:1.000000
+ Epoch:199,acc:1.000000
+
+ Epoch:199 loss:3.1292424296225363e-07, train_acc:1.0, totol_acc:0.9972174657534246 
+ Epoch: 199 Accuracy: 0.969231
